@@ -1,2 +1,3 @@
-datasets/
+datasets/binaries
+datasets/freiburg_groceries_dataset
 .env

@@ -1,31 +1,115 @@
 import os
 import json
+import re
+import logging
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from utils.openai_api import (send_openai_request)
 
-def generate_metadata(image_dir, output_file):
+logging.basicConfig(
+    filename="logs/metadata_logs.log",  # Specify the log file name
+    level=logging.WARNING,  # Set the logging level
+    format="%(asctime)s - %(levelname)s - %(message)s",  # Format for log messages
+    filemode="a",  # Append mode to preserve existing logs
+)
+
+def analyze_image(image_path, category = None):
+    try:
+        if category == None:            
+            message_content = send_openai_request(image_path=image_path, prompt_path="configs/prompts/zeki_groceries_dataset_prompts.yaml")
+            print(message_content)
+            return extract_info_from_string(message_content)
+        else:
+            message_content = send_openai_request(image_path=image_path, category=category, prompt_path="configs/prompts/freiburg_groceries_dataset_prompts.yaml")
+            print(message_content)
+            return extract_info_from_string(message_content)
+
+    except Exception as e:
+        print(f"Error analyzing image {image_path}: {e}")
+        logging.error(f"Error analyzing image {image_path}: {e}\n")
+        return "NA"
+
+def extract_info_from_string(text):
+    pattern = r"Category:\s*(.+?)\s*Count:\s*(\d+)\s*Fine-grained category:\s*(.+)"
+
+    # Use re.findall to extract all matches
+    matches = re.findall(pattern, text, re.IGNORECASE)
+
+    # Convert the matches into a list of dictionaries
+    results = [
+        {"category": match[0], "count": int(match[1]), "fine-grained category": match[2]}
+        for match in matches
+    ]
+    if not results:
+        logging.info("No matches found in the provided text.")
+    return results
+
+def generate_freiburg_groceries_metadata(image_dir):
     metadata = []
-    
+    i = 0
     for category in os.listdir(image_dir):
         category_path = os.path.join(image_dir, category)
-        
         if os.path.isdir(category_path):
             for image in os.listdir(category_path):
                 image_path = os.path.join(category_path, image)
-                
                 if os.path.isfile(image_path):
-                    # Normalize path to use forward slashes
                     normalized_path = os.path.normpath(image_path).replace(os.sep, '/')
                     formatted_category = category.capitalize()
+                    
+                    # Get count using OpenAI API
+                    results = analyze_image(normalized_path, formatted_category)
                     metadata.append({
                         "path": normalized_path,
-                        "category": formatted_category
+                        "items": results
                     })
+
+                    print(f"{i}\\5000")
+                    i += 1
+
+    return metadata
+
+def generate_zeki_groceries_metadata(image_dir):
+    metadata = []
+    i = 0
+    if not os.path.isdir(image_dir):
+        raise FileNotFoundError
     
+    for image in os.listdir(image_dir):
+        image_path = os.path.join(image_dir, image)
+        if os.path.isfile(image_path):
+            normalized_path = os.path.normpath(image_path).replace(os.sep, '/')
+            
+            # Get count using OpenAI API
+            results = analyze_image(normalized_path)
+            
+            metadata.append({
+                "path": normalized_path,
+                "items": results
+            })
+
+            print(f"{i}\\500")
+            i += 1
+
+    return metadata
+
+def save_metadata(output_file, metadata):
     with open(output_file, 'w') as json_file:
         json.dump(metadata, json_file, indent=4)
 
-# Example usage
-image_directory = "datasets/freiburg_groceries_dataset/images"
-output_file = "datasets/freiburg_groceries_dataset_info.json"
-generate_metadata(image_directory, output_file)
+def main():
+    # # Usage for Freiburg Dataset
+    # freiburg_image_directory = "datasets/freiburg_groceries_dataset/images"
+    # freiburg_output_json = "datasets/freiburg_groceries_dataset_info.json"
+    # metadata = generate_freiburg_groceries_metadata(freiburg_image_directory)
+    # save_metadata(freiburg_output_json, metadata)
+    # print(f"Metadata with counts saved to {freiburg_output_json}")
 
-print(f"Metadata saved to {output_file}")
+    # Usage for Freiburg Dataset
+    freiburg_image_directory = "datasets/binaries/captured_images"
+    freiburg_output_json = "datasets/zeki_groceries_dataset_info.json"
+    metadata = generate_zeki_groceries_metadata(freiburg_image_directory)
+    save_metadata(freiburg_output_json, metadata)
+    print(f"Metadata with counts saved to {freiburg_output_json}")
+
+if __name__ == "__main__":
+    main()

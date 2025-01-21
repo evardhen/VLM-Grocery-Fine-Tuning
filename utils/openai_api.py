@@ -2,19 +2,9 @@ import os
 from dotenv import load_dotenv
 from openai import OpenAI
 import base64
+import yaml
 
-PROMPT = """
-How many items of the coarse category "{category}" do you see in the image?
-
-If applicable, name the fine-grained category for the coarse category, if the coarse category itself is not already a fine-grained (such as water). 
-Do not name brands. If you cant identify a well suited fine-grained category, write "NA".
-
-Answer in the following format: 
-{category}: 2
-Fine-grained category: mint tea
-"""
-
-def send_openai_request(image_path, category, model="gpt-4o"):
+def send_openai_request(image_path, prompt_path, category = None, model="gpt-4o"):
     try:
         load_dotenv()
         api_key = os.environ.get("OPENAI_API_KEY")
@@ -23,8 +13,13 @@ def send_openai_request(image_path, category, model="gpt-4o"):
         
         client = OpenAI(api_key=api_key)
         base64_image = encode_image(image_path)
-        formatted_prompt = PROMPT.format(category=category)
 
+        with open(prompt_path, "r") as file:
+            prompt = yaml.safe_load(file)
+
+        prompt = prompt["simple_prompt"]
+        if category != None:
+            prompt = prompt.format(category=category)
         response = client.chat.completions.create(
             model=model,
             messages=[
@@ -33,7 +28,7 @@ def send_openai_request(image_path, category, model="gpt-4o"):
                     "content": [
                         {
                             "type": "text",
-                            "text": formatted_prompt,
+                            "text": prompt,
                         },
                         {
                             "type": "image_url",

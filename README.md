@@ -4,6 +4,7 @@
 - Freiburg Groceries Dataset
 - MVTec D2S Dataset
 - Grocery Store Dataset
+    - https://github.com/marcusklasson/GroceryStoreDataset?utm_source=chatgpt.com
 - GroZi120
 - Grozi-3.2K
 - RPC: A Large-Scale Retail Product Checkout Dataset
@@ -12,6 +13,9 @@
     - https://isrc.iscas.ac.cn/gitlab/research/locount-dataset
 - RP2K
     - https://www.pinlandata.com/rp2k_dataset/
+
+Fruits and Vegetables:
+- https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition?utm_source=chatgpt.com
 
 ## Image Labeling
 
