@@ -53,7 +53,7 @@
         "path": "datasets/binaries/captured_images/captured_image_100.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             }
@@ -63,7 +63,7 @@
         "path": "datasets/binaries/captured_images/captured_image_101.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             }
@@ -73,7 +73,7 @@
         "path": "datasets/binaries/captured_images/captured_image_102.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             }
@@ -83,7 +83,7 @@
         "path": "datasets/binaries/captured_images/captured_image_103.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee filter"
             }
@@ -93,7 +93,7 @@
         "path": "datasets/binaries/captured_images/captured_image_104.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             }
@@ -103,7 +103,7 @@
         "path": "datasets/binaries/captured_images/captured_image_105.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             }
@@ -113,7 +113,7 @@
         "path": "datasets/binaries/captured_images/captured_image_106.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             }
@@ -123,7 +123,7 @@
         "path": "datasets/binaries/captured_images/captured_image_107.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 2,
                 "fine-grained category": "Coffee Filter"
             }
@@ -133,12 +133,12 @@
         "path": "datasets/binaries/captured_images/captured_image_108.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Tea Filter"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 2,
                 "fine-grained category": "Coffee Filter"
             }
@@ -148,12 +148,12 @@
         "path": "datasets/binaries/captured_images/captured_image_109.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 2,
                 "fine-grained category": "Coffee Filter"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "fine-grained category": "Tea Filter",
                 "count": 1
             }
@@ -808,7 +808,7 @@
         "path": "datasets/binaries/captured_images/captured_image_160.jpg",
         "items": [
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             }
@@ -818,7 +818,7 @@
         "path": "datasets/binaries/captured_images/captured_image_161.jpg",
         "items": [
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             }
@@ -828,7 +828,7 @@
         "path": "datasets/binaries/captured_images/captured_image_162.jpg",
         "items": [
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             }
@@ -838,7 +838,7 @@
         "path": "datasets/binaries/captured_images/captured_image_163.jpg",
         "items": [
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             }
@@ -848,7 +848,7 @@
         "path": "datasets/binaries/captured_images/captured_image_164.jpg",
         "items": [
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             }
@@ -858,7 +858,7 @@
         "path": "datasets/binaries/captured_images/captured_image_165.jpg",
         "items": [
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             }
@@ -948,7 +948,7 @@
         "path": "datasets/binaries/captured_images/captured_image_173.jpg",
         "items": [
             {
-                "category": "Seasonings",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             }
@@ -958,7 +958,7 @@
         "path": "datasets/binaries/captured_images/captured_image_174.jpg",
         "items": [
             {
-                "category": "Seasonings",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             }
@@ -968,7 +968,7 @@
         "path": "datasets/binaries/captured_images/captured_image_175.jpg",
         "items": [
             {
-                "category": "Seasonings",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             }
@@ -978,7 +978,7 @@
         "path": "datasets/binaries/captured_images/captured_image_176.jpg",
         "items": [
             {
-                "category": "Seasonings",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             }
@@ -988,7 +988,7 @@
         "path": "datasets/binaries/captured_images/captured_image_177.jpg",
         "items": [
             {
-                "category": "Seasonings",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             }
@@ -998,7 +998,7 @@
         "path": "datasets/binaries/captured_images/captured_image_178.jpg",
         "items": [
             {
-                "category": "Seasonings",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             }
@@ -1843,7 +1843,7 @@
                 "fine-grained category": "Bay leaves"
             },
             {
-                "category": "Spice",
+                "category": "Seasoning",
                 "count": 1,
                 "fine-grained category": "NA"
             }
@@ -4168,7 +4168,7 @@
                 "fine-grained category": "Water"
             },
             {
-                "category": "Chocolate spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
@@ -4193,7 +4193,7 @@
                 "fine-grained category": "Water"
             },
             {
-                "category": "Chocolate spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
@@ -4218,7 +4218,7 @@
                 "fine-grained category": "Water"
             },
             {
-                "category": "Chocolate spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
@@ -4243,7 +4243,7 @@
                 "fine-grained category": "Water"
             },
             {
-                "category": "Chocolate spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
@@ -4273,7 +4273,7 @@
                 "fine-grained category": "Butter"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -4298,7 +4298,7 @@
                 "fine-grained category": "Butter"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -4328,9 +4328,9 @@
                 "fine-grained category": "Linguine  "
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
-                "fine-grained category": "Lemon Juice  "
+                "fine-grained category": "Lemon Juice"
             },
             {
                 "category": "Vegetable",
@@ -4358,7 +4358,7 @@
                 "fine-grained category": "Linguine"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -4388,7 +4388,7 @@
                 "fine-grained category": "Linguine"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -4418,7 +4418,7 @@
                 "fine-grained category": "Linguine"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -4463,12 +4463,12 @@
                 "fine-grained category": "Bay Leaves"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
             {
-                "category": "Chocolate Spreads",
+                "category": "Sauces & Condiments",
                 "fine-grained category": "Nutella",
                 "count": 1
             }
@@ -4498,12 +4498,12 @@
                 "fine-grained category": "Linguine"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             }
@@ -4538,7 +4538,7 @@
                 "fine-grained category": "Linguine"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             }
@@ -4568,9 +4568,9 @@
                 "fine-grained category": "Pear"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
-                "fine-grained category": "Lemon juice"
+                "fine-grained category": "Lemon Juice"
             },
             {
                 "category": "Seasoning",
@@ -4583,7 +4583,7 @@
         "path": "datasets/binaries/captured_images/captured_image_454.jpg",
         "items": [
             {
-                "category": "Spice",
+                "category": "Seasoning",
                 "count": 1,
                 "fine-grained category": "Cinnamon"
             },
@@ -4603,14 +4603,14 @@
                 "fine-grained category": "Ground Coffee"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 2,
                 "fine-grained category": "Coffee Filter"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
-                "fine-grained category": "Lemon juice"
+                "fine-grained category": "Lemon Juice"
             }
         ]
     },
@@ -4633,14 +4633,14 @@
                 "fine-grained category": "Pear"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
-                "fine-grained category": "Lemon juice"
+                "fine-grained category": "Lemon Juice"
             },
             {
                 "category": "Coffee",
@@ -4658,7 +4658,7 @@
                 "fine-grained category": "Ground Coffee"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -4673,7 +4673,7 @@
                 "fine-grained category": "Pear"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 2,
                 "fine-grained category": "Coffee Filter"
             },
@@ -4708,12 +4708,12 @@
                 "fine-grained category": "Pear"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 2,
                 "fine-grained category": "Coffee Filter"
             }
@@ -4728,7 +4728,7 @@
                 "fine-grained category": "Ground Coffee"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 2,
                 "fine-grained category": "Coffee Filter"
             },
@@ -4763,7 +4763,7 @@
                 "fine-grained category": "Ground Coffee"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 2,
                 "fine-grained category": "Coffee Filter"
             },
@@ -4828,7 +4828,7 @@
                 "fine-grained category": "Banana"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             },
@@ -4868,7 +4868,7 @@
                 "fine-grained category": "Banana"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             },
@@ -4913,7 +4913,7 @@
                 "fine-grained category": "Fennel Anise Caraway Tea"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             },
@@ -5168,12 +5168,12 @@
         "path": "datasets/binaries/captured_images/captured_image_470.jpg",
         "items": [
             {
-                "category": "Sugar",
+                "category": "Sweetener",
                 "count": 1,
                 "fine-grained category": "Powdered Sugar"
             },
             {
-                "category": "Sugar",
+                "category": "Sweetener",
                 "count": 2,
                 "fine-grained category": "Vanilla Sugar"
             },
@@ -5313,7 +5313,7 @@
                 "fine-grained category": "Baking Powder"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -5353,7 +5353,7 @@
                 "fine-grained category": "Oats"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -5363,7 +5363,7 @@
                 "fine-grained category": "Beer"
             },
             {
-                "category": "Seasing",
+                "category": "Seasoning",
                 "count": 1,
                 "fine-grained category": "Salt"
             },
@@ -5398,7 +5398,7 @@
                 "fine-grained category": "Baking Powder"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Tea Filter"
             },
@@ -5413,7 +5413,7 @@
                 "fine-grained category": "NA"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -5448,7 +5448,7 @@
                 "fine-grained category": "Baking Powder"
             },
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Tea Filter"
             },
@@ -5473,7 +5473,7 @@
                 "fine-grained category": "NA"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -5493,7 +5493,7 @@
                 "fine-grained category": "Powdered Sugar"
             },
             {
-                "category": "Baking Ingredient",
+                "category": "Staple Food",
                 "count": 1,
                 "fine-grained category": "Baking Powder"
             },
@@ -5508,7 +5508,7 @@
                 "fine-grained category": "Oil"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -5550,7 +5550,7 @@
             {
                 "category": "Seasoning",
                 "count": 1,
-                "fine-grained category": "Paprika"
+                "fine-grained category": "NA"
             },
             {
                 "category": "Vegetable",
@@ -5563,9 +5563,9 @@
                 "fine-grained category": "Oil"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
-                "fine-grained category": "Lemon juice"
+                "fine-grained category": "Lemon Juice"
             },
             {
                 "category": "Beverage",
@@ -5608,7 +5608,7 @@
                 "fine-grained category": "Oil"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -5653,7 +5653,7 @@
                 "fine-grained category": "Oat Milk"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -5683,9 +5683,9 @@
                 "fine-grained category": "NA"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
-                "fine-grained category": "Lemon juice"
+                "fine-grained category": "Lemon Juice"
             },
             {
                 "category": "Beverage",
@@ -5733,7 +5733,7 @@
                 "fine-grained category": "Ground Almonds"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             }
@@ -5758,7 +5758,7 @@
                 "fine-grained category": "Prosecco"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -5793,7 +5793,7 @@
                 "fine-grained category": "Prosecco"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Lemon Juice"
             },
@@ -5823,7 +5823,7 @@
                 "fine-grained category": "Water"
             },
             {
-                "category": "Sweetener ",
+                "category": "Sweetener",
                 "fine-grained category": "Honey",
                 "count": 1
             },
@@ -5948,7 +5948,7 @@
         "path": "datasets/binaries/captured_images/captured_image_49.jpg",
         "items": [
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Vinegar"
             }
@@ -6068,14 +6068,14 @@
         "path": "datasets/binaries/captured_images/captured_image_493.jpg",
         "items": [
             {
-                "category": "Chocolate spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
-                "fine-grained category": "Lemon juice"
+                "fine-grained category": "Lemon Juice"
             },
             {
                 "category": "Coffee",
@@ -6128,9 +6128,9 @@
                 "fine-grained category": "Water"
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
-                "fine-grained category": "Lemon juice"
+                "fine-grained category": "Lemon Juice"
             },
             {
                 "category": "Seasoning",
@@ -6138,7 +6138,7 @@
                 "fine-grained category": "Bay Leaves"
             },
             {
-                "category": "Chocolate spread",
+                "category": "Sauces & Condiments",
                 "fine-grained category": "Nutella",
                 "count": 1
             }
@@ -6163,9 +6163,9 @@
                 "fine-grained category": "Pear  "
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
-                "fine-grained category": "Lemon juice  "
+                "fine-grained category": "Lemon Juice"
             },
             {
                 "category": "Beverage",
@@ -6188,7 +6188,7 @@
                 "fine-grained category": "Bay Leaves"
             },
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "fine-grained category": "Nutella",
                 "count": 1
             }
@@ -6223,9 +6223,9 @@
                 "fine-grained category": "Water  "
             },
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
-                "fine-grained category": "Lemon juice  "
+                "fine-grained category": "Lemon Juice"
             },
             {
                 "category": "Pasta",
@@ -6233,7 +6233,7 @@
                 "fine-grained category": "Spaghetti  "
             },
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
@@ -6273,7 +6273,7 @@
                 "fine-grained category": "Sesame Seeds"
             },
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
@@ -6323,7 +6323,7 @@
                 "fine-grained category": "Sesame Seeds  "
             },
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
@@ -6338,7 +6338,7 @@
         "path": "datasets/binaries/captured_images/captured_image_499.jpg",
         "items": [
             {
-                "category": "Chocolate spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
@@ -6393,7 +6393,7 @@
         "path": "datasets/binaries/captured_images/captured_image_50.jpg",
         "items": [
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Vinegar"
             }
@@ -6423,7 +6423,7 @@
                 "fine-grained category": "Bread"
             },
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
@@ -6468,7 +6468,7 @@
                 "fine-grained category": "Bread"
             },
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
@@ -6523,7 +6523,7 @@
                 "fine-grained category": "Chia Seeds"
             },
             {
-                "category": "Chocolate Spread",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Nutella"
             },
@@ -6538,7 +6538,7 @@
         "path": "datasets/binaries/captured_images/captured_image_51.jpg",
         "items": [
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Vinegar"
             }
@@ -6548,7 +6548,7 @@
         "path": "datasets/binaries/captured_images/captured_image_52.jpg",
         "items": [
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Vinegar"
             }
@@ -6558,7 +6558,7 @@
         "path": "datasets/binaries/captured_images/captured_image_53.jpg",
         "items": [
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Vinegar"
             }
@@ -6568,7 +6568,7 @@
         "path": "datasets/binaries/captured_images/captured_image_54.jpg",
         "items": [
             {
-                "category": "Seasoning",
+                "category": "Sauces & Condiments",
                 "count": 1,
                 "fine-grained category": "Balsamic Vinegar"
             }
@@ -7038,7 +7038,7 @@
         "path": "datasets/binaries/captured_images/captured_image_93.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Tea Filter"
             }
@@ -7048,7 +7048,7 @@
         "path": "datasets/binaries/captured_images/captured_image_94.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Tea Filter"
             }
@@ -7058,7 +7058,7 @@
         "path": "datasets/binaries/captured_images/captured_image_95.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Tea Filter"
             }
@@ -7068,7 +7068,7 @@
         "path": "datasets/binaries/captured_images/captured_image_96.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Tea Filter"
             }
@@ -7078,7 +7078,7 @@
         "path": "datasets/binaries/captured_images/captured_image_97.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             }
@@ -7088,7 +7088,7 @@
         "path": "datasets/binaries/captured_images/captured_image_98.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             }
@@ -7098,7 +7098,7 @@
         "path": "datasets/binaries/captured_images/captured_image_99.jpg",
         "items": [
             {
-                "category": "Filter",
+                "category": "Kitchen Supplies",
                 "count": 1,
                 "fine-grained category": "Coffee Filter"
             }

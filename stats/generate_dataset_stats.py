@@ -45,7 +45,7 @@ def extract_and_safe_dataset_info(dataset_path, output_file):
 
     summary["average_items_per_entry"] = total_items / len(dataset) if dataset else 0
     summary["average_count_per_entry"] = total_count / len(dataset) if dataset else 0
-  
+    summary["category_counts"] = dict(sorted(summary["category_counts"].items(), key=lambda item: item[1], reverse=True))
     # Convert set to list for JSON serialization
     summary["unique_fine_grained_categories"] = list(summary["unique_fine_grained_categories"])
 
@@ -57,7 +57,11 @@ def extract_and_safe_dataset_info(dataset_path, output_file):
     print(f"Items above 10 count: {above_5}")
 
 if __name__ == "__main__":
-    dataset_path = "datasets/freiburg_groceries_dataset_info.json"
-    output_file = "stats/freiburg_dataset_stats.json"
+    # dataset_path = "datasets/freiburg_groceries_dataset_info_fixed.json"
+    # output_file = "stats/freiburg_dataset_stats.json"
+    dataset_path = "datasets/zeki_groceries_dataset_raw.json"
+    output_file = "stats/zeki_groceries_dataset_raw_stats.json"
+    # dataset_path = "datasets/fruits_and_vegs_dataset_info_preprocessed.json"
+    # output_file = "stats/fruits_and_vegs_dataset_info_preprocessed_stats.json"
 
     extract_and_safe_dataset_info(dataset_path=dataset_path, output_file=output_file)

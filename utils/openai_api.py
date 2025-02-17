@@ -4,7 +4,7 @@ from openai import OpenAI
 import base64
 import yaml
 
-def send_openai_request(image_path, prompt_path, category = None, model="gpt-4o"):
+def send_openai_request(image_path, prompt_path, dataset, category = None, model="gpt-4o"):
     try:
         load_dotenv()
         api_key = os.environ.get("OPENAI_API_KEY")
@@ -18,8 +18,9 @@ def send_openai_request(image_path, prompt_path, category = None, model="gpt-4o"
             prompt = yaml.safe_load(file)
 
         prompt = prompt["simple_prompt"]
-        if category != None:
+        if dataset in ["freiburg", "fruits_and_vegs"]:
             prompt = prompt.format(category=category)
+            
         response = client.chat.completions.create(
             model=model,
             messages=[

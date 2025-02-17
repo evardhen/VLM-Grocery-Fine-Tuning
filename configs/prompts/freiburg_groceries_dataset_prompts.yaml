@@ -1,10 +1,56 @@
 simple_prompt: |
-  How many items of the coarse category "{category}" do you see in the image?
+  1. Task: Identify items in the image that belong to the specified category: "{category}".
+  
+  2. Instructions:
+     - For each item, provide the fine-grained category (if applicable) and the coarse category.
+     - Per fine-grained category, list how many there are.
+     - If you cannot identify a specific fine-grained category, repeat the coarse category for both.
+     - If multiple items of the same category but different fine-grained category appear (e.g., different variations), list each separately.
+     - Do not name product brands
+  
+  3. Coarse and fine-grained Categories:
+     Use only the following coarse categories. In parentheses are good examples for fine-grained categories for each coarse category. The examples in parentheses are non-exhaustive:
+     - fruit (banana, apple, strawberry)
+     - vegetable (cucumber, onion, potato)
+     - beverage (juice, milk, soda, water, beer)
+     - seasoning (salt, paprika, oregano)
+     - sweetener (honey, sugar)
+     - staple food (corn, flour, rice)
+     - coffee (ground coffee, whole bean coffee, instant coffee)
+     - tea (green tea, black tea, chamomile tea)
+     - pasta (spaghetti, penne, fusilli)
+     - dairy product (cheese, butter, yogurt)
+     - seeds (sunflower seeds, chia seeds, pumpkin seeds)
+     - nuts (almonds, walnuts, cashews)
+     - oil (olive oil, coconut oil, canola oil)
+     - animal product (fish, eggs, chicken)
+     - cereal (cornflakes, muesli)
+     - sweets (cake, candy, chocolate)
+     - savory snacks (chips, crackers)
+     - kitchen supplies (filter, baking paper, aluminum foil)
+     - sauces & condiments (vinegar, jam, mustard)
+     - canned & jarred goods (kidney beans, tomato sauce, pickles)
+  
+  4. Answer Format:
+     For each identified item, use the following structure:
+  
+       Category: <common or short name of item>
+       Coarse-category: <coarse category from list above>
+       Count: <number of items found>
+       Fine-grained category: <specific variant or brand if identifiable, otherwise repeat the coarse category>
+  
+     Leave a blank line between each item’s response.
+  
+  Example of a Correct Answer:
 
-  If applicable, name the fine-grained category for the coarse category, if the coarse category itself is not already a fine-grained (such as water). 
-  Do not name brands. If you cant identify a well suited fine-grained category, write "NA". List different fine-grained category items separately.
+  Category: Sugar 
+  Coarse-category: Sweetener 
+  Count: 2 
+  Fine-grained category: Powdered Sugar
 
-  Answer in the following format: 
-  Category: {category}
-  Count: 2
-  Fine-grained category: mint tea
+  Category: Sugar 
+  Coarse-category: Sweetener 
+  Count: 1 
+  Fine-grained category: Vanilla Sugar
+  
+

@@ -1,0 +1,39 @@
+simple_prompt: |
+  1. Task: Identify items in the image that belong to the specified category: "{category}".
+  
+  2. Instructions:
+     - For each item, provide the coarse category.
+     - If multiple items of the same coarse category but different fine-grained category appear (e.g., different brands or variations), list each separately.
+     - If the image does not portray a realistic representation of the specified category — for example, using symbols like smileys or logos instead of the actual object—please - respond with NA.
+
+  3. Coarse Categories:
+     Use only the following coarse categories:
+     - fruit
+     - vegetable
+  
+  4. Answer Format:
+     For each identified item, use the following structure:
+  
+       Category: <common or short name of item>
+       Coarse-category: <coarse category from list above>
+       Count: <number of items found>
+  
+     Leave a blank line between each item’s response.
+  
+  Example of a Correct Answer:
+
+  Category: fruit
+  Coarse-category: banana 
+  Count: 2 
+
+  Category: fruit 
+  Coarse-category: cucumber 
+  Count: 1 
+
+  Example of a Correct Answer (image with symbol, etc.):
+  
+  Category: NA 
+  Coarse-category: NA 
+  Count: 0
+  
+

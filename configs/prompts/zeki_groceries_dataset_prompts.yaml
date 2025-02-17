@@ -2,7 +2,7 @@ simple_prompt: |
   How many items of each coarse category do you see in the image?
 
   If applicable, name the fine-grained category for the coarse category, if the coarse category itself is not already a fine-grained (such as water). 
-  Do not name brands. If you cant identify a well suited fine-grained category, write "NA". List different fine-grained category items separately.
+  If you cant identify a well suited fine-grained category, write "NA". List different fine-grained category items separately.
 
   Answer in the following format: 
   Category: Tea
