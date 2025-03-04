@@ -1,0 +1,3987 @@
+[
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_0.jpg",
+        "items": [
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Cacao  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_1.jpg",
+        "items": [
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "cacao"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_10.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Fried Noodles  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_100.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Peas"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_101.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Peas  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_102.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Canned & Jarred Goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_103.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_104.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_105.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_106.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_107.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Canned & Jarred Goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_108.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Hot Peppers  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_109.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Hot Peppers"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_11.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Fried Noodles"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_110.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Canned & Jarred Goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_111.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_112.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_113.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_114.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_115.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Soy Sauce  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_116.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Soy Sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_117.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Soy Sauce  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_118.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Soy Sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_119.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Soy Sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_12.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Fried Noodles  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_120.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Soy Sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_121.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_122.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Sunflower Oil  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_123.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Sunflower Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_124.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Sunflower Oil  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_125.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Sunflower Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_126.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_127.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Walnut Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_128.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Walnut Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_129.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_13.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_130.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 2,
+                "fine-grained category": "Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_131.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Sunflower Oil"
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_132.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_133.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_134.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_135.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_136.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_137.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_138.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_139.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_14.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_140.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_141.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_142.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_143.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_144.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 3,
+                "fine-grained category": "Beer  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_145.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 3,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_146.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_147.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_148.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Milk  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_149.jpg",
+        "items": [
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_15.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_150.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_151.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange Juice  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_152.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange Juice  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_153.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Cranberry Juice  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_154.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Cranberry Juice  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_155.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Juice  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_156.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_157.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Cranberry Juice  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_158.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Wine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_159.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Wine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_16.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Cranberries"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_160.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Wine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_161.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Wine  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_162.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Sweet Chili Sauce  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_163.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Sweet Chili Sauce  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_164.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Sweet Chili Sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_165.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Sweet Chili Sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_166.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 4,
+                "fine-grained category": "Lime  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_167.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 4,
+                "fine-grained category": "Lime"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_168.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 4,
+                "fine-grained category": "Lime"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_169.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "Tofu"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_17.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Cranberries"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_170.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "Tofu"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_171.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "tofu"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_172.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "tofu"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_173.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "Pulled Soy Meat  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_174.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "pulled soy meat"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_175.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "staple food"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_176.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "staple food"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_177.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Canned & Jarred Goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_178.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "dried tomato"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_179.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "dried tomato"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_18.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Cranberries  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_180.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "dried tomato"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_181.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 0,
+                "fine-grained category": "Canned & Jarred Goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_182.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_183.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_184.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_185.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "marmelade"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_186.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Raspberry Jam  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_187.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Raspberry Jam"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_188.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Canned & Jarred Goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_189.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "horseradish"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_19.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "peanut butter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_190.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "horseradish"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_192.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Lime Concentrate  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_193.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Lime Concentrate  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_194.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Horseradish  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_195.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Capers"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_196.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Olives  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_197.jpg",
+        "items": [
+            {
+                "category": "animal product",
+                "count": 1,
+                "fine-grained category": "parmesan"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_198.jpg",
+        "items": [
+            {
+                "category": "animal product",
+                "count": 1,
+                "fine-grained category": "parmesan"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_199.jpg",
+        "items": [
+            {
+                "category": "animal product",
+                "count": 1,
+                "fine-grained category": "parmesan"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_2.jpg",
+        "items": [
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Cacao"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_20.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Peanut Butter  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_200.jpg",
+        "items": [
+            {
+                "category": "animal product",
+                "count": 1,
+                "fine-grained category": "parmesan"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_201.jpg",
+        "items": [
+            {
+                "category": "animal product",
+                "count": 1,
+                "fine-grained category": "parmesan"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_202.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Jam  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_203.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "jam"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_204.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_205.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "jam"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_206.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Jam"
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Jam"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_207.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "curry"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_208.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "curry"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_209.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "curry"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_21.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Peanut Butter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_210.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Curry Paste"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_211.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Ketchup"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_212.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Ketchup"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_213.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Ketchup"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_215.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "red Pesto"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_216.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Red Pesto"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_217.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Jogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_218.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Jogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_219.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Jogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_22.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Peanut Butter  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_220.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beverage"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_221.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beverage  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_222.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Cider"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_223.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Grated Cheese"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_224.jpg",
+        "items": [
+            {
+                "category": "dairy product",
+                "count": 1,
+                "fine-grained category": "Grated Cheese"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_225.jpg",
+        "items": [
+            {
+                "category": "dairy product",
+                "count": 1,
+                "fine-grained category": "Grated Cheese"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_226.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Jogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_227.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Jogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_228.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Jogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_229.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Jogurt  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_23.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_230.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 2,
+                "fine-grained category": "Jogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_231.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Salad  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_232.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Salad"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_233.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Salad"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_234.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Salad"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_235.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Potato"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_236.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Potato"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_237.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 3,
+                "fine-grained category": "Potato  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_238.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 3,
+                "fine-grained category": "Potato"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_239.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 3,
+                "fine-grained category": "Potato  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_24.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_240.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Spring Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_241.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Spring Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_242.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Carrot"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_243.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Carrot  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_244.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Carrot"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_245.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Salad  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_246.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Salad"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_247.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Potato"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_248.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Potato"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_249.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Cucumber  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_25.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_250.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Cucumber"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_251.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Cucumber"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_252.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Cucumber"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_253.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Lemon"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_254.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Lemon"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_255.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Tomato"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_256.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Tomato"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_257.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_258.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_259.jpg",
+        "items": [
+            {
+                "category": "Animal Product",
+                "count": 1,
+                "fine-grained category": "Minced Meat  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_26.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_260.jpg",
+        "items": [
+            {
+                "category": "Animal product",
+                "count": 1,
+                "fine-grained category": "Minced Meat  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_261.jpg",
+        "items": [
+            {
+                "category": "Animal product",
+                "count": 1,
+                "fine-grained category": "Minced Meat  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_262.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Mushrooms  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_263.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Mushrooms  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_264.jpg",
+        "items": [
+            {
+                "category": "vegetable",
+                "count": 1,
+                "fine-grained category": "vegetable"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_265.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Mushrooms  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_266.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_267.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_268.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "canned & jarred goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_269.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "canned & jarred goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_27.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "cornstarch"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_270.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 2,
+                "fine-grained category": "lentils"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_271.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 2,
+                "fine-grained category": "canned & jarred goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_272.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Oil"
+            },
+            {
+                "category": "Dairy product",
+                "count": 2,
+                "fine-grained category": "Jogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_273.jpg",
+        "items": [
+            {
+                "category": "oil",
+                "count": 2,
+                "fine-grained category": "oil"
+            },
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Jogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_274.jpg",
+        "items": [
+            {
+                "category": "oil",
+                "count": 1,
+                "fine-grained category": "oil"
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Jogurt  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "seasoning"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_275.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey"
+            },
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Jogurt"
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "seasoning"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_276.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Cinnamon Powder"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Garlic Powder"
+            },
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Jogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_277.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Garlic Powder"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Cinnamon Powder"
+            },
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Nut Mix"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_278.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey"
+            },
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Nut Mix"
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "vegetable broth"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_279.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey"
+            },
+            {
+                "category": "Fruit",
+                "count": 4,
+                "fine-grained category": "Lime"
+            },
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Nut Mix"
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "vegetable broth"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_28.jpg",
+        "items": [
+            {
+                "category": "Staple Food",
+                "count": 1,
+                "fine-grained category": "cornstarch"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_280.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey"
+            },
+            {
+                "category": "Fruit",
+                "count": 4,
+                "fine-grained category": "Lime"
+            },
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Nuts"
+            },
+            {
+                "category": "canned & jarred goods",
+                "fine-grained category": "vegetable broth",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_281.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Camomile Tea  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Pepper  "
+            },
+            {
+                "category": "Fruit",
+                "count": 4,
+                "fine-grained category": "Lime  "
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "canned & jarred goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_282.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Camomile Tea  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Ingwer Orange Tea  "
+            },
+            {
+                "category": "Fruit",
+                "count": 4,
+                "fine-grained category": "Lime  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Pepper  "
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "canned & jarred goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_283.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "chilli pepper"
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange Ginger Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_284.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "chilli pepper"
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Ingwer Orange Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_285.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "chilli pepper"
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange Ginger Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_287.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Red Pesto  "
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "chilli pepper"
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Canned & Jarred Goods"
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "salt"
+            },
+            {
+                "category": "seasoning",
+                "fine-grained category": "chili powder",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_288.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Red Pesto  "
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Peas  "
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "chilli pepper"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Chili Powder  "
+            },
+            {
+                "category": "Staple Food",
+                "count": 1,
+                "fine-grained category": "salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_289.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Cranberries"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Chili Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_29.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "cornstarch"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_290.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Cranberries  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Wheat Flour  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "chili powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_291.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Cranberries"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea"
+            },
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_292.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats  "
+            },
+            {
+                "category": "Staple Food",
+                "count": 1,
+                "fine-grained category": "Wheat Flour  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_293.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea"
+            },
+            {
+                "category": "Staple Food",
+                "count": 1,
+                "fine-grained category": "cornstarch"
+            },
+            {
+                "category": "Staple Food",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_294.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea  "
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Red Pesto  "
+            },
+            {
+                "category": "Staple Food",
+                "count": 1,
+                "fine-grained category": "Cornstarch  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_295.jpg",
+        "items": [
+            {
+                "category": "Staple Food",
+                "count": 1,
+                "fine-grained category": "Cornstarch  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Tea  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "soy sauce"
+            },
+            {
+                "category": "canned & jarred goods",
+                "fine-grained category": "canned & jarred goods",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_296.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "cornstarch"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "fennel tea"
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "canned & jarred goods"
+            },
+            {
+                "category": "sauces & condiments",
+                "fine-grained category": "soy sauce",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_297.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Siracha  "
+            },
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "cornstarch"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea"
+            },
+            {
+                "category": "Sauces & Condiments",
+                "fine-grained category": "soy sauce",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_299.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Siracha  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Tea  "
+            },
+            {
+                "category": "sauces & condiments",
+                "fine-grained category": "soy sauce",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_3.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Red Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_30.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_300.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Beer"
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Siracha"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea"
+            },
+            {
+                "category": "sauces & condiments",
+                "fine-grained category": "soy sauce",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_301.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Beer  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Whole Bean Coffee  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_302.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Beer"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Tea"
+            },
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "tofu"
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Whole Bean Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_303.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "tofu"
+            },
+            {
+                "category": "staple food",
+                "fine-grained category": "pulled soy meat",
+                "count": 1
+            },
+            {
+                "category": "tea",
+                "fine-grained category": "fennel tea",
+                "count": 1
+            },
+            {
+                "category": "Coffee",
+                "fine-grained category": "Whole Bean Coffee",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_306.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Ketchup  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange Juice  "
+            },
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "staple food"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_307.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Ketchup  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange Juice  "
+            },
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "staple food"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_308.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange Juice  "
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 2,
+                "fine-grained category": "Canned & Jarred Goods  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_309.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam"
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 3,
+                "fine-grained category": "Canned & Jarred Goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_31.jpg",
+        "items": [
+            {
+                "category": "Staple Food",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_310.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam  "
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 2,
+                "fine-grained category": "Canned & Jarred Goods  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Red Onion  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_311.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto"
+            },
+            {
+                "category": "Vegetable",
+                "count": 5,
+                "fine-grained category": "Red Onion  "
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "fine-grained category": "Canned & Jarred Goods",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_312.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 5,
+                "fine-grained category": "Red Onion  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "red pesto"
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Canned & Jarred Goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_313.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onion  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt  "
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Canned & Jarred Goods  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Red Pesto  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_314.jpg",
+        "items": [
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Cacao  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onion  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Sauces & Condiments"
+            },
+            {
+                "category": "sauces & condiments",
+                "fine-grained category": "red pesto",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_315.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onion  "
+            },
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Cacao  "
+            },
+            {
+                "category": "pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt  "
+            },
+            {
+                "category": "canned & jarred goods",
+                "fine-grained category": "canned & jarred goods",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_316.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onion  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Lime Concentrate  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt  "
+            },
+            {
+                "category": "sweets",
+                "fine-grained category": "cacao",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_317.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Cranberry Juice"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Lime Concentrate"
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "canned & jarred goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_318.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Cranberry Juice  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt  "
+            },
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Milk  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Lime Concentrate  "
+            },
+            {
+                "category": "canned & jarred goods",
+                "fine-grained category": "canned & jarred goods",
+                "count": 1
+            },
+            {
+                "category": "canned & jarred goods",
+                "fine-grained category": "canned & jarred goods",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_32.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_320.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Sweet Chili Sauce  "
+            },
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Milk  "
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Peanut Butter  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Lime Concentrate  "
+            },
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "grated cheese"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_321.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Milk  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Sweet Chili Sauce  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "peanut butter"
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Lime Concentrate  "
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "capers"
+            },
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Grated Cheese  "
+            },
+            {
+                "category": "beverage",
+                "fine-grained category": "beer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_322.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 2,
+                "fine-grained category": "Grated Cheese"
+            },
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Milk"
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "beer"
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Peanut Butter"
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Lime Concentrate"
+            },
+            {
+                "category": "canned & jarred goods",
+                "fine-grained category": "capers",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_324.jpg",
+        "items": [
+            {
+                "category": "Dairy Product",
+                "count": 2,
+                "fine-grained category": "Grated Cheese  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Curry Paste"
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "horseradish"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Lime Concentrate  "
+            },
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Capers  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "peanut butter"
+            },
+            {
+                "category": "beverage",
+                "fine-grained category": "beer",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_325.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Lime Concentrate  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "wine"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Fried Noodles  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "curry paste"
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "horseradish"
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "capers"
+            },
+            {
+                "category": "canned & jarred goods",
+                "fine-grained category": "peanut butter",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_33.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_34.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_35.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_36.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_37.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_38.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_39.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_4.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_40.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_41.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Ingwer Orange Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_42.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Ingwer Orange Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_43.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Ingwer Orange Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_44.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_45.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_46.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Tea"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Ingwer Orange Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_47.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Tea  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Ingwer Orange Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_48.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Ingwer Orange Tea  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_49.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Pepper"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_5.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 5,
+                "fine-grained category": "Red Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_50.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Pepper"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_51.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "pepper"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_52.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Pepper"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_53.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Nut Mix  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_54.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Nut Mix"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_55.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Nut Mix"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_56.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Camomile Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_57.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Camomile Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_58.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_59.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_6.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_60.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Ingwer Orange Tea  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_61.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Ingwer Orange Tea"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_62.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Ingwer Orange Tea"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_63.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Whole Bean Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_64.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Whole Bean Coffee  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_65.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Whole Bean Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_66.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Whole Bean Coffee  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_67.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "canned & jarred goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_68.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_69.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_7.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_70.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 0,
+                "fine-grained category": "vegetable broth"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_71.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Vegetable Broth"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_72.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "vegetable broth"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_73.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "vegetable broth"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_74.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "seasoning"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_75.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Cinnamon Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_76.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Garlic Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_77.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "seasoning"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_78.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Garlic Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_79.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Garlic Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_8.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_80.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Garlic Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_81.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Chili Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_82.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Chili Powder  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_83.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Chili Powder  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_84.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "seasoning"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_85.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 3,
+                "fine-grained category": "seasoning"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_86.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Chili Powder"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Cinnamon Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_87.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Cinnamon Powder  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Chili Powder  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Garlic Powder  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_88.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Olives  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_89.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Canned & Jarred Goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_9.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_90.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Olives"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_91.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Olives  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_92.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Canned & Jarred Goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_93.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Siracha"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_94.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Siracha"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_95.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Siracha  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_96.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Siracha  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_97.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Siracha"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_98.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Canned & Jarred Goods  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_99.jpg",
+        "items": [
+            {
+                "category": "Canned & Jarred Goods",
+                "count": 1,
+                "fine-grained category": "Peas  "
+            }
+        ]
+    }
+]
