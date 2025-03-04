@@ -1,17 +1,33 @@
 simple_prompt: |
-  How many items of each coarse category do you see in the image?
+  1. Task: How many items of each coarse category do you see in the image?.
+  
+  2. Instructions:
+     - For each item, provide the fine-grained category (if applicable) and the coarse category.
+     - Per fine-grained category, list how many there are.
+     - If you cannot identify a specific fine-grained category, repeat the coarse category for both.
+     - If multiple items of the same category but different fine-grained category appear (e.g., different variations), list each separately.
+  
+  3. Coarse and fine-grained Categories:
+     Use only the following coarse categories:
+     - fruit, vegetable, beverage, seasoning, sweetener, staple food, coffee, tea, pasta, dairy product, seeds, nuts, oil, animal product, cereal, sweets, savory snacks, kitchen supplies, sauces & condiments, canned & jarred goods
+    Use only the following fine-grained categories:
+     - Oats, Red Onion, Garlic, Spaghetti, Salt, Cacao, Cranberries, Cinnamon Powder, Garlic Powder, Chili Powder, Whole Bean Coffee, Ingwer Orange Tea, Camomile Tea, Nut Mix, Fennel Tea, Pepper, Vegetable Broth, Fried Noodles, Wheat Flour, Honey, Hot Peppers, Peas, Red Pesto, Olives, Siracha, Soy Sauce, Hazelnut Spread, Cornstarch, Peanut Butter, Milk, Wine, Sweet Chili Sauce, Beer, Orange Juice, Cranberry Juice, Lime Concentrate, Capers, Horseradish, Grated Cheese, Jogurt, Ketchup, Curry Paste, Raspberry Jam, Lime, Tofu, Mayonnaise, Cider, Minced Meat, Pulled Soy Meat, dried tomatos, blueberry jam, salad, carot, potato, Spring Onion, cucumber, garlic, tomato, lemon, lentils, onion, mushrooms
+  
+  4. Answer Format:
+     For each identified item, use the following structure:
+  
+       Category: <coarse category from list above>
+       Count: <number of items found>
+       Fine-grained category: <specific variant or brand if identifiable, otherwise repeat the coarse category>
+  
+     Leave a blank line between each item’s response.
+  
+  Example of a Correct Answer:
 
-  If applicable, name the fine-grained category for the coarse category, if the coarse category itself is not already a fine-grained (such as water). 
-  If you cant identify a well suited fine-grained category, write "NA". List different fine-grained category items separately.
+  Category: Sweetener 
+  Count: 2 
+  Fine-grained category: Powdered Sugar
 
-  Answer in the following format: 
-  Category: Tea
-  Count: 2
-  Fine-grained category: Mint tea
-
-  Category: Bread
-  Count: 1
-  Fine-grained category: White Bread
-
-
-  Products: Oats, Red Onion, Garlic, Spaghetti, Salt, Cacao, Cranberries, Cinnamon Powder, Garlic Powder, Chili Powder, Whole Bean Coffee, Ingwer Orange Tea, Camomile Tea, Nut Mix, Fennel Tea, Pepper, Vegetable Broth, Fried Noodles, Wheat Flour, Honey, Hot Peppers, Peas, Red Pesto, Olives, Siracha, Soy Sauce, Hazelnut Spread, Cornstarch, Peanut Butter, Milk, Wine, Sweet Chili Sauce, Beer, Orange Juice, Cranberry Juice, Lime Concentrate, Capers, Horseradish, Grated Cheese, Jogurt, Ketchup, Curry Paste, Raspberry Jam, Lime, Tofu, Mayonnaise, Cider, Minced Meat, Pulled Soy Meat, dried tomatos, blueberry jam, salad, carot, potato, Spring Onion, cucumber, garlic, tomato, lemon, lentils, onion, mushrooms
+  Category: Sweetener 
+  Count: 1 
+  Fine-grained category: Vanilla Sugar

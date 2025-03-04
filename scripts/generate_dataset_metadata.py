@@ -111,19 +111,19 @@ def save_metadata(output_file, metadata):
         json.dump(metadata, json_file, indent=4)
 
 def main():
-    # Usage for Freiburg Dataset
-    freiburg_image_directory = "datasets/freiburg_groceries_dataset/images"
-    freiburg_output_json = "datasets/freiburg_groceries_dataset_info_raw_v2.json"
-    metadata = generate_dataset_metadata(freiburg_image_directory, dataset_name="freiburg", prompt_path="configs/prompts/freiburg_groceries_dataset_prompts.yaml")
-    save_metadata(freiburg_output_json, metadata)
-    print(f"Metadata with counts saved to {freiburg_output_json}")
-
-    # # Usage for Zeki Dataset
-    # freiburg_image_directory = "datasets/binaries/captured_images"
-    # freiburg_output_json = "datasets/zeki_groceries_dataset_info.json"
-    # metadata = generate_zeki_groceries_metadata(freiburg_image_directory)
+    # # Usage for Freiburg Dataset
+    # freiburg_image_directory = "datasets/freiburg_groceries_dataset/images"
+    # freiburg_output_json = "datasets/freiburg_groceries_dataset_info_raw_v2.json"
+    # metadata = generate_dataset_metadata(freiburg_image_directory, dataset_name="freiburg", prompt_path="configs/prompts/freiburg_groceries_dataset_prompts.yaml")
     # save_metadata(freiburg_output_json, metadata)
     # print(f"Metadata with counts saved to {freiburg_output_json}")
+
+    # Usage for Zeki Dataset
+    freiburg_image_directory = "datasets/binaries/captured_images_home"
+    freiburg_output_json = "datasets/zeki_2_groceries_dataset_info.json"
+    metadata = generate_zeki_groceries_metadata(freiburg_image_directory)
+    save_metadata(freiburg_output_json, metadata)
+    print(f"Metadata with counts saved to {freiburg_output_json}")
 
     # # Usage for Fruits and Vegs Dataset
     # fruits_and_vegs_image_directory = "datasets/fruits_and_vegs"
