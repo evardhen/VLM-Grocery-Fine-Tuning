@@ -108,11 +108,11 @@ def save_dataset(output_file, data):
         json.dump(data, json_file, indent=4)
 
 def main():
-    dataset_path = "datasets/freiburg_groceries_dataset_info_preprocessed_v2.json"
-    output_path = "datasets/freiburg_groceries_dataset_info_preprocessed_v2.json"
+    dataset_path = "datasets/metadata/freiburg_groceries_dataset_info_preprocessed_v2.json"
+    output_path = "datasets/metadata/freiburg_groceries_dataset_info_preprocessed_v2.json"
 
-    # dataset_path = "datasets/fruits_and_vegs_dataset_info_preprocessed.json"
-    # output_path = "datasets/fruits_and_vegs_dataset_info_preprocessed.json"
+    # dataset_path = "datasets/metadata/fruits_and_vegs_dataset_info_preprocessed.json"
+    # output_path = "datasets/metadata/fruits_and_vegs_dataset_info_preprocessed.json"
 
     # new_data = remove_empty_items(dataset_path)
     # new_data = remove_items_count_above(dataset_path, threshold=8)

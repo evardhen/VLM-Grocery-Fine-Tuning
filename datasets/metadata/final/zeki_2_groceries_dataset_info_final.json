@@ -929,7 +929,7 @@
         "items": [
             {
                 "category": "Canned & Jarred Goods",
-                "count": 0,
+                "count": 1,
                 "fine-grained category": "Canned & Jarred Goods"
             }
         ]
@@ -3654,7 +3654,7 @@
         "items": [
             {
                 "category": "Seasoning",
-                "count": 0,
+                "count": 1,
                 "fine-grained category": "vegetable broth"
             }
         ]

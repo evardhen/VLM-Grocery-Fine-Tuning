@@ -3,3 +3,4 @@ datasets/freiburg_groceries_dataset
 datasets/fruits_and_vegs
 .env
 *.pyc
+.venv

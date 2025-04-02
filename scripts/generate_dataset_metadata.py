@@ -109,6 +109,7 @@ def generate_zeki_groceries_metadata(image_dir):
 def save_metadata(output_file, metadata):
     with open(output_file, 'w') as json_file:
         json.dump(metadata, json_file, indent=4)
+        
 
 def main():
     # # Usage for Freiburg Dataset
