@@ -1,0 +1,18 @@
+{
+    "api": {},
+    "api_with_threading": {},
+    "chat": {},
+    "vllm": {
+        "multiple_queries_single_image": {
+            "total_time": 500.33952927589417,
+            "avg_time": 0.1836108364315208,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 201.0,
+            "avg_completion_tokens_per_query": 69.26605504587155,
+            "max_prompt_tokens_per_query": 201,
+            "min_prompt_tokens_per_query": 201,
+            "max_completion_tokens_per_query": 1024,
+            "min_completion_tokens_per_query": 3
+        }
+    }
+}

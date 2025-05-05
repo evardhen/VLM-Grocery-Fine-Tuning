@@ -1,0 +1,29 @@
+{
+    "freiburg_grocery": {
+      "file_name": "freiburg_grocery.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "zeki_grocery": {
+      "file_name": "zeki_grocery.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "fruits_and_vegs_grocery": {
+      "file_name": "fruits_and_vegs_grocery.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    }
+  }

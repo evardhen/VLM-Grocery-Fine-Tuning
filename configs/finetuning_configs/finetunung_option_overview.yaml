@@ -1,0 +1,72 @@
+# Model Configuration
+model:
+  model_name_or_path: meta-llama/Meta-Llama-3-8B-Instruct  # Specify the pre-trained model to fine-tune
+  quantization_bit: 4  # Quantization level: choices [2, 3, 4, 5, 6, 8, none]
+  quantization_method: bitsandbytes  # Quantization method: choices [bitsandbytes (4/8), hqq (2/3/4/5/6/8), eetq (8)]
+
+# Fine-Tuning Method
+method:
+  stage: sft  # Training stage: options [sft (Supervised Fine-Tuning), Reward Modeling, PPO, DPO, KTO, Pre-Training]
+  # SFT: Fine-tunes a pre-trained model on a labeled dataset where inputs and expected outputs are explicitly provided; Use Case: Adapt model to downstream task
+  # Reward Modeling: 1. Train a reward model based on human preference data 2. Use this reward model to optimize a generative model during reinforcement learning
+  # PPO (Proximal Policy Optimization): A reinforcement learning algorithm used to fine-tune LLMs; Used to improve models for dialogue generation
+  # DPO (Direct Preference Optimization): An alternative to PPO that directly optimizes a model using human preference data
+  # KTO (Knowledge Transfer Optimization): Allows a smaller or newer model to learn from a larger, pre-trained teacher model
+  # Pre-Training: Initial training phase where the model learns general patterns from a large, unlabeled dataset (Self-supervised task)
+  do_train: true  # Whether to perform training
+
+LoRA:
+  finetuning_type: lora  # Finetuning approach: choices [lora, full, freeze]
+  lora_target: all  # Target layers for LoRA application: options [all, attention, etc.]
+  lora_rank: 8  # Dimensionality of these low-rank matrices which are updated during training
+  lora_alpha: 16  # Scales the LoRA weight matrices before they are added back to the original pretrained weights --> controls magnitude; Common range: 16 to 64
+  lora_dropout: 0  # Dropout rate applied to the LoRA weight updates during fine-tuning; Range: 0-1
+  create_new_adapter: true # A new LoRA adapter is initialized with random weights and applied to the model for fine-tuning, separated from other existing adapters
+  loraplus_lr_ratio: 0 # Scales the base learning rate for the LoRA B matrices in LoRA+ (LoRA+ separates the learning rates of the A and B matrices, as higher B matrix learning rate may be desired)
+  use_rslora: false # Enables Rank Stabilized LoRA, ensures that the rank of the LoRA matrices remains stable, preventing numerical instability
+  use_dora: false # Decomposed LoRA is an extension of LoRA that decomposes the weight matrices into even smaller, low-rank components --> less computational resources
+  pissa_init: false # Initializes the LoRA adapters with preconditioned weights to improve stability and convergence during fine-tuning
+  pissa_convert: false # Converts existing pre-trained model weights to PiSSA-compatible weights before fine-tuning
+
+# Dataset Configuration
+dataset:
+  dataset: identity,alpaca_en_demo  # Comma-separated list of datasets to use
+  template: llama3  # Template to format input prompts
+  cutoff_len: 8192  # Maximum sequence length for each dataset entry
+  max_samples: 1000  # Maximum number of samples to use from the dataset
+  overwrite_cache: true  # Whether to overwrite cached preprocessed datasets
+  preprocessing_num_workers: 16  # Number of parallel workers (processes) for dataset preprocessing (tokenizing text, formatting inputs, truncating/padding sequences, applying data augmentation)
+  packing: false  # Whether to pack (append) multiple sequences or using padding to esablish sequences of equal length according to the cutoff_len parameter (--> can lead to inefficient use of memory and compute resources)
+
+# Output Configuration
+output:
+  output_dir: saves/llama3-8b/lora/sft  # Directory to save model checkpoints and outputs
+  logging_steps: 10  # Interval for logging training metrics per batch
+  save_steps: 500  # Interval for saving model checkpoints per batch
+  plot_loss: true  # Whether to generate loss plots
+  overwrite_output_dir: true  # Whether to overwrite existing files in the output directory
+  report_to: none  # Disable reporting to external trackers (e.g., wandb)
+
+# Training Parameters
+train:
+  per_device_train_batch_size: 1  # Training batch size (--> parallel processing of subset of dataset) per available GPU
+  gradient_accumulation_steps: 8  # Steps to accumulate gradients before model update (here, we apply 8 forward passes before adjusting the gradients)
+  learning_rate: 1.0e-4  # Learning rate for the optimizer
+  num_train_epochs: 3.0  # Total number of training epochs (iterations over the dataset)
+  lr_scheduler_type: cosine  # Adaptive learning rate scheduler: choices [linear, cosine, constant, etc.]
+  warmup_ratio: 0.1  # Specifies the fraction of the total training steps during which the learning rate linearly increases from 0 to the specified maximum learning rate (i.e. 0.1 * 10000 = 1000 steps will be warmup)
+  bf16: true  # Options: [bf16, fp16, fp32, pure_bf16], bf16 vs. f16: Larger range of values (--> higher numerical stability) but lower precision than f16
+  ddp_timeout: 180000000  # Timeout (in seconds) for distributed training processes to shutdown pending processes
+  max_grad_norm: 1.0  # Gradient clipping norm to prevent exploding gradients during training and prevent large updates; estimated range: 0.5 - 5
+  optim: adamw_torch  # Optimizer type (AdamW in PyTorch backend)
+  flash_attn: auto  # Optimized algorithm for calculating the attention operation in transformer models
+  use_unsloth_gc: true # Optimization library specifically developed to speed up LoRA
+  enable_liger_kernel: true # LigerKernel acts as the backend CUDA kernel implementation to speed up the core computations for FlashAttention and LoRA
+  rope_scaling: none # Options: [none, dynamic, linear], RoPE (Rotary Positional Embeddings) is an efficient method to encode positional information into the input tokens without requiring fixed position embeddings, especially for longer sequence length
+
+# Evaluation Parameters
+eval:
+  val_size: 0.1  # Fraction of dataset to use for validation during training
+  per_device_eval_batch_size: 1  # Evaluation batch size (--> parallel processing of subset of dataset) per available GPU
+  eval_strategy: steps  # Frequency type of model evaluation: choices [steps, epoch]
+  eval_steps: 500  # Interval for performing evaluation during training

@@ -1,6 +1,7 @@
-datasets/binaries
-datasets/freiburg_groceries_dataset
-datasets/fruits_and_vegs
+data/binaries
+data/freiburg_groceries_dataset
+data/fruits_and_vegs
 .env
 *.pyc
 .venv
+saves/

@@ -13,7 +13,7 @@ def alpaca_format(dataset_path):
         new_entry = {
             "question": BASE_QUESTION,
             "answer": None,
-            "images": [entry["path"]],
+            "images": [entry["path"].replace("datasets/", "data/", 1)],
             "system": SYSTEM_PROMPT,
             }
         answer = "" if len(entry["items"]) != 0 else "There are no items in the image."
@@ -34,7 +34,10 @@ def save_alpaca_format(dataset, path):
     print(f"File saved successfully to: {path}")
 
 if __name__ == "__main__":
-    dataset_path = "datasets/metadata/final/freiburg_groceries_dataset_final.json"
-    output_path = "datasets/freiburg_groceries.json"
+    dataset_path = "data/metadata/final/freiburg_grocery_dataset.json"
+    # dataset_path = "data/metadata/final/fruits_and_vegs_dataset.json"
+    # dataset_path = "data/metadata/final/zeki_grocery_dataset.json"
+    # dataset_path = "data/metadata/final/zeki_2_grocery_dataset.json"
+    output_path = "data/freiburg_grocery.json"
     data = alpaca_format(dataset_path)
     save_alpaca_format(data, output_path)

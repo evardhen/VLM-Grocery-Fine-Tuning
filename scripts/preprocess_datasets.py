@@ -1,5 +1,6 @@
 import json
 import re
+from PIL import Image
 
 def remove_empty_items(dataset_path):
     new_data = []
@@ -103,23 +104,46 @@ def remove_brackets_from_items(dataset_path):
 
     return data
 
+def remove_resolution_above(dataset_path, threshold):
+    with open(dataset_path, "r") as f:
+        dataset = json.load(f)
+
+    filtered_dataset = []
+    count = 0
+    for entry in dataset:
+        try:
+            with Image.open(entry["path"]) as img:
+                width, height = img.size
+                resolution = width * height
+
+            if resolution <= threshold:
+                # Optionally update the path
+                filtered_dataset.append(entry)
+            else:
+                count += 1
+
+        except Exception as e:
+            print(f"Skipping {entry['path']}: {e}")
+
+    print(f"{count} items above the threshold of: {threshold}")
+    return filtered_dataset
+
+
 def save_dataset(output_file, data):
     with open(output_file, 'w') as json_file:
         json.dump(data, json_file, indent=4)
 
 def main():
-    dataset_path = "datasets/metadata/freiburg_groceries_dataset_info_preprocessed_v2.json"
-    output_path = "datasets/metadata/freiburg_groceries_dataset_info_preprocessed_v2.json"
-
-    # dataset_path = "datasets/metadata/fruits_and_vegs_dataset_info_preprocessed.json"
-    # output_path = "datasets/metadata/fruits_and_vegs_dataset_info_preprocessed.json"
+    dataset_path = "data/metadata/preprocessed/zeki_2_groceries_dataset.json"
+    output_path = "data/metadata/final/zeki_2_grocery_dataset.json"
 
     # new_data = remove_empty_items(dataset_path)
     # new_data = remove_items_count_above(dataset_path, threshold=8)
     # new_data = remove_items_per_image_above(dataset_path, threshold=3)
     # new_data = remove_item_count_zero(dataset_path)
     # new_data = fix_wrong_category_allocation_vegs_and_fruits(dataset_path)
-    new_data = remove_brackets_from_items(dataset_path)
+    # new_data = remove_brackets_from_items(dataset_path)
+    new_data = remove_resolution_above(dataset_path, 10000000)
 
     save_dataset(output_path, new_data)
 

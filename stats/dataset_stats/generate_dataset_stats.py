@@ -14,19 +14,32 @@ def _get_image_resolution(image_path):
         print(f"Error processing {image_path}: {e}")
         return None
     
-def extract_and_safe_dataset_info(dataset_path, output_file):
+def extract_and_safe_dataset_info(dataset_path, dataset_path_alpaca_format, output_file):
     # Sample dataset
     dataset = []
     for path in dataset_path:
         with open(path, "r") as f:
             dataset += json.load(f)
 
+    with open(dataset_path_alpaca_format, "r") as f:
+        dataset_alpaca = json.load(f)
+
+    total_entries = len(dataset)
+    question_lengths = [len(entry["question"].split()) for entry in dataset_alpaca]
+    answer_lengths = [len(entry["answer"].split()) for entry in dataset_alpaca]
     # Extract properties
     summary = {
+        "avg_images_per_query": 1,
+        "max_images_per_query": 1,
+        "min_images_per_query": 1,
+        "avg_question_length": sum(question_lengths) / total_entries if total_entries > 0 else 0,
+        "max_question_length": max(question_lengths, default=0),
+        "avg_answer_length": sum(answer_lengths) / total_entries if total_entries > 0 else 0,
+        "max_answer_length": max(answer_lengths, default=0),
         "average_resolution": 0,
         "min_resolution": float('inf'),
         "max_resolution": float('-inf'),
-        "total_images": len(dataset),  # Count of images
+        "total_images": total_entries,  # Count of images
         "average_items_per_entry": 0,
         "min_items_per_entry": float('inf'),
         "max_items_per_entry": float('-inf'),
@@ -40,14 +53,12 @@ def extract_and_safe_dataset_info(dataset_path, output_file):
     total_items = 0
     total_count = 0
     total_res = 0
-    above_5 = 0
 
     for entry in dataset:
         res = _get_image_resolution(entry["path"])
         summary["min_resolution"] = min(summary["min_resolution"], res)
         summary["max_resolution"] = max(summary["max_resolution"], res)
         total_res += res
-
 
         num_items = len(entry["items"])
         total_items += num_items
@@ -57,8 +68,6 @@ def extract_and_safe_dataset_info(dataset_path, output_file):
         for item in entry["items"]:
             
             total_count += item["count"]
-            if item["count"] > 10:
-                above_5 += 1
             summary["min_count_per_entry"] = min(summary["min_count_per_entry"], item["count"])
             summary["max_count_per_entry"] = max(summary["max_count_per_entry"], item["count"])
             
@@ -81,17 +90,19 @@ def extract_and_safe_dataset_info(dataset_path, output_file):
         json.dump(summary, f, indent=4)
 
     print(f"Summary saved to {output_file}")
-    print(f"Items above 10 count: {above_5}")
 
 if __name__ == "__main__":
-    # dataset_path = "datasets/metadata/freiburg_groceries_dataset_final.json"
-    # output_file = "stats/freiburg_dataset_final_stats.json"
-    # dataset_path = "datasets/metadata/fruits_and_vegs_dataset_final.json"
-    # output_file = "stats/fruits_and_vegs_dataset_info_final_stats.json"
-    # extract_and_safe_dataset_info(dataset_path=[dataset_path], output_file=output_file)
+    # dataset_path = "data/metadata/final/freiburg_grocery_dataset.json"
+    # dataset_path_alpaca = "data/freiburg_grocery.json"
+    # output_file = "stats/dataset_stats/freiburg_dataset_final_stats.json"
+    # dataset_path = "data/metadata/final/fruits_and_vegs_dataset.json"
+    # dataset_path_alpaca = "data/fruits_and_vegs_grocery.json"
+    # output_file = "stats/dataset_stats/fruits_and_vegs_dataset_final_stats.json"
+    # extract_and_safe_dataset_info(dataset_path=[dataset_path], dataset_path_alpaca_format=dataset_path_alpaca, output_file=output_file)
 
 
-    dataset_path = "datasets/metadata/zeki_groceries_dataset_preprocessed.json"
-    dataset_path_2 = "datasets/metadata/zeki_2_groceries_dataset_info_final.json"
-    output_file = "stats/zeki_groceries_dataset_final_stats.json"
-    extract_and_safe_dataset_info(dataset_path=[dataset_path, dataset_path_2], output_file=output_file)
+    dataset_path = "data/metadata/final/zeki_grocery_dataset.json"
+    dataset_path_2 = "data/metadata/final/zeki_2_grocery_dataset.json"
+    dataset_path_alpaca = "data/zeki_grocery.json"
+    output_file = "stats/dataset_stats/zeki_grocery_dataset_final_stats.json"
+    extract_and_safe_dataset_info(dataset_path=[dataset_path, dataset_path_2], dataset_path_alpaca_format=dataset_path_alpaca, output_file=output_file)
