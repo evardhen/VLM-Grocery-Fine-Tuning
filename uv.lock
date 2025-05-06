@@ -117,6 +117,15 @@ wheels = [
 ]
 
 [[package]]
+name = "anls"
+version = "0.0.2"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/63/89/af7f09252bd4e9932893c0f167fe33baf338f673f8fd4130d7f01c170fb0/anls-0.0.2.tar.gz", hash = "sha256:2a0c1223c63a310dca916f130a96cbb33d2145af5fbc6dbb337e160a6e2fbed7", size = 10396, upload-time = "2022-07-14T03:20:22.801Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/16/6f/bd3b85c757a57c38955ae0c705357aac1ec282f5281cff7679d00620440c/anls-0.0.2-py3-none-any.whl", hash = "sha256:f6273fc31188784cd3f6ac083412f70be095ab531847580a88245ee836abe811", size = 12050, upload-time = "2022-07-14T03:20:21.311Z" },
+]
+
+[[package]]
 name = "annotated-types"
 version = "0.7.0"
 source = { registry = "https://pypi.org/simple" }
@@ -321,6 +330,25 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/d8/e4/0c4c39e18fd76d6a628d4dd8da40543d136ce2d1752bd6eeeab0791f4d6b/beautifulsoup4-4.13.4.tar.gz", hash = "sha256:dbb3c4e1ceae6aefebdaf2423247260cd062430a410e38c66f2baa50a8437195", size = 621067, upload-time = "2025-04-15T17:05:13.836Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/50/cd/30110dc0ffcf3b131156077b90e9f60ed75711223f306da4db08eff8403b/beautifulsoup4-4.13.4-py3-none-any.whl", hash = "sha256:9bbbb14bfde9d79f38b8cd5f8c7c85f4b8f2523190ebed90e950a8dea4cb1c4b", size = 187285, upload-time = "2025-04-15T17:05:12.221Z" },
+]
+
+[[package]]
+name = "bert-score"
+version = "0.3.13"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "matplotlib" },
+    { name = "numpy" },
+    { name = "packaging" },
+    { name = "pandas" },
+    { name = "requests" },
+    { name = "torch" },
+    { name = "tqdm" },
+    { name = "transformers" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/1c/93/2c97a85cbb66a8a256a13176e11c9c4508074e2341299fe75ee955c81eff/bert_score-0.3.13.tar.gz", hash = "sha256:8ffe5838eac8cdd988b8b1a896af7f49071188c8c011a1ed160d71a9899a2ba4", size = 48621, upload-time = "2023-02-20T21:07:29.477Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/c6/8c/bc5457de4c004b1a623b31f7bc8d0375fb699b7d67df11879098b4b7b7c8/bert_score-0.3.13-py3-none-any.whl", hash = "sha256:bbbb4c7fcdaa46d7681aff49f37f96faa09ed74e1b150e659bdc6b58a66989b9", size = 61135, upload-time = "2023-02-20T21:07:27.226Z" },
 ]
 
 [[package]]
@@ -875,6 +903,17 @@ dependencies = [
     { name = "termcolor" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/6b/b6/82c7e601d6d3c3278c40b7bd35e17e82aa227f050aa9f66cb7b7fce29471/fire-0.7.0.tar.gz", hash = "sha256:961550f07936eaf65ad1dc8360f2b2bf8408fad46abbfa4d2a3794f8d2a95cdf", size = 87189, upload-time = "2024-10-01T14:29:31.585Z" }
+
+[[package]]
+name = "flashinfer-python"
+version = "0.2.5"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "ninja" },
+    { name = "numpy" },
+    { name = "torch" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/b2/c4/9ec0f79e2480fc5c93307c4a1ac903e5cf33c551c0eaeb648196234b55af/flashinfer_python-0.2.5.tar.gz", hash = "sha256:990aa090ef781783e76b836696ece4efd23956f72b5696d622fc619a61162aef", size = 2492267, upload-time = "2025-04-04T15:06:42.864Z" }
 
 [[package]]
 name = "fonttools"
@@ -2297,6 +2336,21 @@ wheels = [
 ]
 
 [[package]]
+name = "nltk"
+version = "3.9.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "click" },
+    { name = "joblib" },
+    { name = "regex" },
+    { name = "tqdm" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/3c/87/db8be88ad32c2d042420b6fd9ffd4a149f9a0d7f0e86b3f543be2eeeedd2/nltk-3.9.1.tar.gz", hash = "sha256:87d127bd3de4bd89a4f81265e5fa59cb1b199b27440175370f7417d2bc7ae868", size = 2904691, upload-time = "2024-08-18T19:48:37.769Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/4d/66/7d9e26593edda06e8cb531874633f7c2372279c3b0f46235539fe546df8b/nltk-3.9.1-py3-none-any.whl", hash = "sha256:4fa26829c5b00715afe3061398a8989dc643b92ce7dd93fb4585a70930d168a1", size = 1505442, upload-time = "2024-08-18T19:48:21.909Z" },
+]
+
+[[package]]
 name = "notebook"
 version = "7.4.1"
 source = { registry = "https://pypi.org/simple" }
@@ -3654,6 +3708,25 @@ wheels = [
 ]
 
 [[package]]
+name = "sentence-transformers"
+version = "4.1.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "huggingface-hub" },
+    { name = "pillow" },
+    { name = "scikit-learn" },
+    { name = "scipy" },
+    { name = "torch" },
+    { name = "tqdm" },
+    { name = "transformers" },
+    { name = "typing-extensions" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/73/84/b30d1b29ff58cfdff423e36a50efd622c8e31d7039b1a0d5e72066620da1/sentence_transformers-4.1.0.tar.gz", hash = "sha256:f125ffd1c727533e0eca5d4567de72f84728de8f7482834de442fd90c2c3d50b", size = 272420, upload-time = "2025-04-15T13:46:13.732Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/45/2d/1151b371f28caae565ad384fdc38198f1165571870217aedda230b9d7497/sentence_transformers-4.1.0-py3-none-any.whl", hash = "sha256:382a7f6be1244a100ce40495fb7523dbe8d71b3c10b299f81e6b735092b3b8ca", size = 345695, upload-time = "2025-04-15T13:46:12.44Z" },
+]
+
+[[package]]
 name = "sentencepiece"
 version = "0.2.0"
 source = { registry = "https://pypi.org/simple" }
@@ -4443,9 +4516,12 @@ name = "vlm-grocery-fine-tuning"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "anls" },
+    { name = "bert-score" },
     { name = "bitsandbytes" },
     { name = "deepspeed" },
     { name = "ffmpeg" },
+    { name = "flashinfer-python" },
     { name = "gdown" },
     { name = "gradio" },
     { name = "ipykernel" },
@@ -4453,12 +4529,14 @@ dependencies = [
     { name = "kokoro" },
     { name = "liger-kernel" },
     { name = "llamafactory" },
+    { name = "nltk" },
     { name = "numpy" },
     { name = "openai" },
     { name = "openai-whisper" },
     { name = "pip" },
     { name = "py-espeak-ng" },
     { name = "qwen-vl-utils" },
+    { name = "sentence-transformers" },
     { name = "setuptools" },
     { name = "speechrecognition" },
     { name = "torch" },
@@ -4469,9 +4547,12 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "anls", specifier = ">=0.0.2" },
+    { name = "bert-score", specifier = ">=0.3.13" },
     { name = "bitsandbytes", specifier = ">=0.44.1" },
     { name = "deepspeed", specifier = ">=0.16.3" },
     { name = "ffmpeg", specifier = ">=1.4" },
+    { name = "flashinfer-python", specifier = ">=0.2.5" },
     { name = "gdown" },
     { name = "gradio", specifier = ">=5.12.0" },
     { name = "ipykernel", specifier = ">=6.29.5" },
@@ -4479,12 +4560,14 @@ requires-dist = [
     { name = "kokoro", specifier = ">=0.7.13" },
     { name = "liger-kernel", specifier = ">=0.4.2" },
     { name = "llamafactory", git = "https://github.com/hiyouga/LLaMA-Factory.git" },
+    { name = "nltk", specifier = ">=3.9.1" },
     { name = "numpy", specifier = ">=1.26.4" },
     { name = "openai", specifier = ">=1.57.1" },
     { name = "openai-whisper", specifier = ">=20240930" },
     { name = "pip", specifier = ">=25.0.1" },
     { name = "py-espeak-ng", specifier = ">=0.1.8" },
     { name = "qwen-vl-utils", specifier = ">=0.0.8" },
+    { name = "sentence-transformers", specifier = ">=4.1.0" },
     { name = "setuptools", specifier = ">=75.6.0" },
     { name = "speechrecognition", specifier = ">=3.14.1" },
     { name = "torch" },

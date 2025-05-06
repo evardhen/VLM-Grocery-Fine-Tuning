@@ -5,3 +5,4 @@ data/fruits_and_vegs
 *.pyc
 .venv
 saves/
+logs/

@@ -1,0 +1,1002 @@
+[
+    {
+        "question_id": 0,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a box of coffee filters. Here is the detailed breakdown:\n\n- **Grocery Item:** Coffee Filters\n- **Category:** Beverages\n- **Subcategory:** Coffee and Tea\n- **Count:** 1 box\n\nThe box appears to be for a brand called \"Cafet\" and is labeled as \"Kaffee-Filter\" (Coffee Filters)."
+    },
+    {
+        "question_id": 1,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single grocery item:\n\n- **Grocery Item**: Apple\n- **Category**: Fruits\n- **Fine-grained Category**: Apples\n- **Count**: 1\n\nThere are no other groceries visible in the image."
+    },
+    {
+        "question_id": 2,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single grocery item, which is an apple. Here are the details:\n\n- **Grocery Item**: Apple\n- **Category**: Fruits\n- **Fine-Grained Category**: Apples\n- **Count**: 1"
+    },
+    {
+        "question_id": 3,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single item, which is a banana. Here are the details:\n\n- **Item**: Banana\n- **Category**: Fruits\n- **Fine-grained Category**: Yellow Banana\n\n**Count**: 1"
+    },
+    {
+        "question_id": 4,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single banana. Here are the details:\n\n- **Grocery Item**: Banana\n- **Category**: Fruit\n- **Fine-Grained Category**: Banana\n- **Count**: 1\n\nThe image shows two bananas, but since they are overlapping, they are counted as a single item."
+    },
+    {
+        "question_id": 5,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains three apples. Here is the list with their categories and fine-grained categories:\n\n- **Apples**:\n  - Category: Fruits\n  - Fine-grained Category: Red Apples\n  - Count: 3"
+    },
+    {
+        "question_id": 6,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains two bottles of water. Here are the details:\n\n1. **Bottle 1:**\n   - **Category:** Beverages\n   - **Subcategory:** Water\n   - **Count:** 1\n\n2. **Bottle 2:**\n   - **Category:** Beverages\n   - **Subcategory:** Water\n   - **Count:** 1\n\nSo, there are a total of 2 bottles of water in the image."
+    },
+    {
+        "question_id": 7,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows three bottles with caps. Here are the details:\n\n1. **Category**: Beverages\n2. **Fine-Grained Category**: Bottles\n3. **Count**: 3"
+    },
+    {
+        "question_id": 8,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single grocery item:\n\n1. Category: Food\n2. Fine-grained category: Nutella\n3. Count: 1 jar\n\nThe jar of Nutella is placed on a flat surface."
+    },
+    {
+        "question_id": 9,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single item:\n\n1. **Item**: Nutella\n   - **Category**: Food\n   - **Fine-grained Category**: Chocolate Hazelnut Spread\n   - **Count**: 1"
+    },
+    {
+        "question_id": 10,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single grocery item, which is a container of tomato sauce. Here is the detailed breakdown:\n\n- **Grocery Item**: Tomato Sauce\n- **Category**: Food\n- **Fine-Grained Category**: Condiments\n- **Count**: 1"
+    },
+    {
+        "question_id": 11,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a jar with a barcode and a label. Based on the visible details, the groceries and their categories can be identified as follows:\n\n1. **Jar with a barcode and label**\n   - **Category**: Jar\n   - **Fine-grained Category**: Jar with a barcode and label\n   - **Count**: 1\n\nThere are no other groceries visible in the image."
+    },
+    {
+        "question_id": 12,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a box of \"8 Kr\u00e4uter\" tea from Teekanne. Here are the details:\n\n- **Grocery Item**: 8 Kr\u00e4uter tea\n- **Category**: Beverages\n- **Subcategory**: Tea\n- **Count**: 50 tea bags\n\nThis is a box of herbal tea with 50 individual tea bags."
+    },
+    {
+        "question_id": 13,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single grocery item, which is a box of \"8xtra\" tea. Here is the detailed breakdown:\n\n- **Grocery Item**: 8xtra Tea\n- **Category**: Beverages\n- **Subcategory**: Tea\n- **Count**: 1 box\n\nThe box is partially visible on the right side of the image."
+    },
+    {
+        "question_id": 14,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a box on a surface. However, the box is not clearly visible, and it's difficult to determine the exact groceries and their categories. Based on the visible part of the box, it appears to be a package of tea bags. Here is the information:\n\n1. **Grocery**: Tea bags\n   - **Category**: Beverages\n   - **Fine-grained Category**: Tea (specifically, herbal or black tea)\n   - **Count**: 1 package\n\nIf there are any other items in the image, they are not clearly visible due to the angle and focus of the photo."
+    },
+    {
+        "question_id": 15,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single item on the floor, which appears to be a box. Here is the detailed information:\n\n- **Item**: Box\n- **Category**: Groceries\n- **Fine-grained Category**: Not applicable, as the box does not appear to contain any groceries.\n- **Count**: 1\n\nSince the box does not contain any groceries, the count for groceries in this image is 0."
+    },
+    {
+        "question_id": 16,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a box of \"Jal\" with the text \"Henchel Anis Kummel\" on it. Based on the visible text, it appears to be a product related to alcoholic beverages, specifically a type of aniseed liqueur. Here is the breakdown:\n\n1. **Grocery Item:**\n   - Jal\n   - H enchel Anis Kummel\n\n2. **Category:**\n   - Beverages\n\n3. **Sub-Category:**\n   - Alcoholic Beverages\n\n4. **Count:**\n   - 1 box\n\nThe box is yellow and appears to be a small, rectangular package, typically used for storing and transporting such beverages."
+    },
+    {
+        "question_id": 17,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a packet of coffee from the brand \"Moveneck Himmlische.\" Here is the breakdown of the groceries and their categories:\n\n### Grocery Items\n1. **Coffee** - This is the main product shown in the image. It is a packet of coffee from the brand \"Moveneck Himmlische.\"\n\n### Categories and Fine-Grained Categories\n- **Grocery** - This is the main category for the coffee packet.\n  - **Coffee** - The specific type of grocery item in this category.\n  - **Brand** - \"Moveneck Himmlische\" is the brand of the coffee.\n\n### Counts\n- **1 Packet of Coffee** - There is one packet of coffee visible in the image.\n\n### Additional Details\n- The coffee packet is on a dark surface, which could be a countertop or a table.\n\nThis is the detailed analysis of the groceries in the image."
+    },
+    {
+        "question_id": 18,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows three boxes of groceries:\n\n1. **Box 1:**\n   - **Category:** Beverages\n   - **Subcategory:** Tea\n   - **Count:** 1\n\n2. **Box 2:**\n   - **Category:** Beverages\n   - **Subcategory:** Tea\n   - **Count:** 1\n\n3. **Box 3:**\n   - **Category:** Beverages\n   - **Subcategory:** Tea\n   - **Count:** 1\n\nThese boxes appear to contain different types of tea, as indicated by the packaging and labels."
+    },
+    {
+        "question_id": 19,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single item, which is a jar of Jacobs Gold instant coffee. Here is the breakdown:\n\n1. **Grocery:**\n   - **Category:** Instant Coffee\n   - **Fine-grained Category:** Jacobs Gold Instant Coffee\n   - **Count:** 1 jar"
+    },
+    {
+        "question_id": 20,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single item:\n\n1. **Item**: A green-lidded spice jar.\n   - **Category**: Spices.\n   - **Fine-grained Category**: Green-lidded spice jar.\n   - **Count**: 1"
+    },
+    {
+        "question_id": 21,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here are the groceries in the image along with their categories and fine-grained categories:\n\n1. **Lavender** (category: Herbs and Spices, fine-grained category: Lavender)\n2. **Paprika** (category: Herbs and Spices, fine-grained category: Paprika)\n3. **Cinnamon** (category: Herbs and Spices, fine-grained category: Cinnamon)\n4. **Oregano** (category: Herbs and Spices, fine-grained category: Oregano)\n5. **Lavender** (category: Herbs and Spices, fine-grained category: Lavender)\n\nThere are 5 items in total."
+    },
+    {
+        "question_id": 22,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows the following groceries:\n\n1. **Alpen Salz (Alpine Salt)**\n   - **Category:** Salt\n   - **Subcategory:** Alpine Salt\n   - **Count:** 1\n\n2. **Zimt (Cinnamon)**\n   - **Category:** Spices\n   - **Subcategory:** Cinnamon\n   - **Count:** 1\n\n3. **Blatterbl\u00e4tter (Lobster Leaves)**\n   - **Category:** Herbs and Spices\n   - **Subcategory:** Lobster Leaves\n   - **Count:** 1\n\n4. **Unidentified Item (Small red container)**\n   - **Category:** Condiments\n   - **Subcategory:** Unidentified (possibly a spice or seasoning)\n   - **Count:** 1\n\nThe total number of groceries is 4."
+    },
+    {
+        "question_id": 23,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single garlic bulb. Here are the details:\n\n- **Grocery Item**: Garlic\n- **Category**: Vegetables\n- **Fine-Grained Category**: Garlic\n- **Count**: 1"
+    },
+    {
+        "question_id": 24,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single garlic bulb. Here is the breakdown:\n\n- **Grocery**: Garlic\n- **Category**: Vegetables\n- **Fine-grained Category**: Garlic\n- **Count**: 1"
+    },
+    {
+        "question_id": 25,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows three garlic bulbs on a flat surface. Here is the breakdown:\n\n1. **Garlic Bulbs**\n   - **Category**: Vegetables\n   - **Fine-grained Category**: Garlic\n   - **Count**: 3"
+    },
+    {
+        "question_id": 26,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a concrete floor with a partially visible grocery bag on the right side. Here are the groceries and their categories:\n\n1. **Grocery Bag**:\n   - **Category**: Grocery\n   - **Fine-grained Category**: Unspecified (cannot be determined from the image)\n\n2. **Count**: 1 (the grocery bag)\n\nSince the grocery bag is not fully visible, the fine-grained category for the bag cannot be determined."
+    },
+    {
+        "question_id": 27,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single item, which appears to be a package of \"Haffelboden Vollladen.\" Based on the visible text, it seems to be a type of food product, possibly a type of bread or baked good. However, without more context or a clearer view of the packaging, it's challenging to provide a more detailed categorization.\n\nHere is the list:\n\n1. **Grocery:**\n   - Haffelboden Vollladen\n   - Category: Food\n   - Fine-grained category: Bread or Baked Goods\n   - Count: 1"
+    },
+    {
+        "question_id": 28,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a small red box placed on a flat surface. Here is the breakdown of the objects in the image:\n\n1. **Grocery Item: Red Box**\n   - **Category:** Unknown\n   - **Fine-Grained Category:** Food packaging\n   - **Count:** 1\n\nSince the image is quite dark and the details are not clear, it is difficult to identify the specific food item or type of packaging. The box appears to be a small, rectangular container, possibly for a snack or a small food item."
+    },
+    {
+        "question_id": 29,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a box of \"Bonduelle Kakao\" which is a product of Bonduelle, a company known for producing cocoa products. Here is the breakdown:\n\n- **Product Name**: Bonduelle Kakao\n- **Category**: Cocoa\n- **Fine-Grained Category**: Cocoa Powder\n- **Count**: 1 box\n\nThis is a single box of cocoa powder, which is typically used in baking and cooking to add a chocolate flavor."
+    },
+    {
+        "question_id": 30,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of rice. Here is the detailed breakdown:\n\n- **Item**: Oryza Spitzen Lang Reis\n- **Category**: Rice\n- **Fine-Grained Category**: Long Grain Rice\n- **Count**: 1 package\n\nThis package contains long grain rice, as indicated by the label \"Spitzen Lang Reis.\""
+    },
+    {
+        "question_id": 31,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single grocery item, which is a bottle of sunflower oil. Here is the detailed breakdown:\n\n- **Item**: Sunflower Oil\n- **Category**: Groceries\n- **Subcategory**: Cooking Oils\n- **Count**: 1 bottle\n\nThis is the only item visible in the image."
+    },
+    {
+        "question_id": 32,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single grocery item:\n\n- **Grocery Item**: Spitzen Langkobels Kebis\n- **Category**: Groceries\n- **Fine-Grained Category**: Frozen Food\n- **Count**: 1"
+    },
+    {
+        "question_id": 33,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single grocery item:\n\n1. **Grocery Item**: Spritzbrot\n   - **Category**: Bread\n   - **Fine-Grained Category**: Whole Grain Bread\n   - **Count**: 1 pack\n\nThe image only contains one item, which is a package of whole grain bread."
+    },
+    {
+        "question_id": 34,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of bread. Here is the list with the categories and fine-grained categories:\n\n1. **Bread**\n   - **Fine-grained category**: Loaf of bread\n\nSince the image only shows one item, the count for each category is:\n\n- **Bread**: 1 loaf"
+    },
+    {
+        "question_id": 35,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of bread. Here are the details:\n\n- **Grocery Item:** Bread\n- **Category:** Baked Goods\n- **Fine-Grained Category:** Loaf of Bread\n\n**Count:** 1 loaf of bread"
+    },
+    {
+        "question_id": 36,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of pasta, specifically linguine. Here are the details:\n\n- **Grocery Item**: Linguine\n- **Category**: Pasta\n- **Subcategory**: Long Noodles\n- **Count**: 1 package\n\nThe package appears to be partially opened, with some of the pasta strands sticking out."
+    },
+    {
+        "question_id": 37,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains two grocery items:\n\n1. **Linguine Pasta**:\n   - Category: Pasta\n   - Subcategory: Linguine\n   - Count: 1 package\n\n2. **Cavatappi Pasta**:\n   - Category: Pasta\n   - Subcategory: Cavatappi\n   - Count: 1 package\n\nBoth items are packages of pasta."
+    },
+    {
+        "question_id": 38,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a close-up of a concrete floor with a few items on it. Here is the analysis:\n\n1. **Item 1:**\n   - Category: Grocery\n   - Fine-grained Category: Plastic Bag\n   - Count: 1\n\n2. **Item 2:**\n   - Category: Grocery\n   - Fine-grained Category: Trash\n   - Count: 1\n\nThe image does not provide enough detail to accurately count or identify any specific items beyond these two categories."
+    },
+    {
+        "question_id": 39,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of organic sesame seeds. Here is the breakdown:\n\n- **Grocery Item**: Organic Sesame Seeds\n- **Category**: Nuts and Seeds\n- **Subcategory**: Organic Nuts and Seeds\n- **Count**: 1 package\n\nThe package contains 250 grams of organic sesame seeds."
+    },
+    {
+        "question_id": 40,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a green package of sesame seeds. Here is the detailed breakdown:\n\n- **Grocery Item:** Sesame Seeds\n- **Category:** Nuts and Seeds\n- **Fine-Grained Category:** Sesame Seeds\n\n**Count:** 1 package"
+    },
+    {
+        "question_id": 41,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a small rectangular box on a concrete floor. Here are the details:\n\n1. **Box with Brand Name**:\n   - **Brand Name**: Mondamin\n   - **Category**: Grocery\n   - **Fine-Grained Category**: Food Product\n   - **Count**: 1\n\n2. **Barcode and Additional Information**:\n   - **Barcode**: L 4298 04904\n   - **Category**: Product Information\n   - **Fine-Grained Category**: Product Details\n   - **Count**: 1\n\n3. **Box Design**:\n   - **Color**: Yellow\n   - **Shape**: Rectangular\n   - **Material**: Cardboard\n   - **Category**: Packaging\n   - **Fine-Grained Category**: Box Design\n   - **Count**: 1\n\n4. **Additional Markings**:\n   - **Text**: Mondamin\n   - **Category**: Product Branding\n   - **Fine-Grained Category**: Brand Markings\n   - **Count**: 1\n\n5. **Surface**:\n   - **Surface Type**: Concrete Floor\n   - **Category**: Surface\n   - **Fine-Grained Category**: Concrete Surface\n   - **Count**: 1\n\nThe image does not show any other groceries or items."
+    },
+    {
+        "question_id": 42,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single grocery item, which is a box of pasta. Here are the details:\n\n- **Item**: Box of pasta\n- **Category**: Groceries\n- **Subcategory**: Pasta\n- **Count**: 1 box"
+    },
+    {
+        "question_id": 43,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single item on a surface. Here are the details:\n\n- **Item**: Bourbon Vanille Zucker\n- **Category**: Food\n- **Subcategory**: Sweeteners\n\n**Count**: 1"
+    },
+    {
+        "question_id": 44,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows two packets of vanilla products. Here is the breakdown:\n\n1. **Vanilla Zutat (Vanilla Flavoring)**\n   - **Category:** Flavors and Extracts\n   - **Subcategory:** Vanilla Extract or Flavoring\n   - **Count:** 1 packet\n\n2. **Vanille Zutat (Vanilla Flavoring)**\n   - **Category:** Flavors and Extracts\n   - **Subcategory:** Vanilla Extract or Flavoring\n   - **Count:** 1 packet\n\nBoth packets are vanilla flavorings, which are typically used in baking and cooking to add vanilla flavor to various dishes."
+    },
+    {
+        "question_id": 45,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a box of \"Puderzucker\" (powdered sugar) from the brand \"Diamant.\" Here is the list with categories and fine-grained categories:\n\n1. **Grocery Category:**\n   - **Fine-grained Category:** Powdered Sugar\n\n2. **Count:**\n   - **Count:** 1 box\n\nThere are no other groceries visible in the image."
+    },
+    {
+        "question_id": 46,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single item, which appears to be a bag of \"Alfalfa\" seeds. Here is the breakdown:\n\n- **Item**: Alfalfa Seeds\n- **Category**: Grocery\n- **Fine-grained Category**: Seeds\n- **Count**: 1 bag\n\nThere are no other visible groceries in the image."
+    },
+    {
+        "question_id": 47,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single grocery item:\n\n- **Item**: Hit (presumably a brand name)\n- **Category**: Groceries\n- **Fine-grained Category**: Not specified in the image\n- **Count**: 1"
+    },
+    {
+        "question_id": 48,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a grocery bag on a flat surface. Here is the list of groceries along with their categories:\n\n1. **Walnut Bistro Chips** - Snack\n2. **Hit** - Snack\n\nBoth items are snacks."
+    },
+    {
+        "question_id": 49,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of Lowend\u00f6rfer ground beef. Here is the list with categories and counts:\n\n- **Category:** Meat\n- **Fine-grained Category:** Ground Beef\n- **Count:** 1 package\n\nThe package appears to be from Lowend\u00f6rfer, a brand known for its organic and natural products."
+    },
+    {
+        "question_id": 50,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "In the image, there are two eggs. Here is the list along with their categories:\n\n1. **Eggs**\n   - Category: Groceries\n   - Fine-grained Category: Food\n   - Count: 2"
+    },
+    {
+        "question_id": 51,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single item, which appears to be a box of \"Pulse\" branded product. Based on the visible text, it seems to be a type of cereal or similar product. Here is the detailed breakdown:\n\n1. **Grocery Item**: Pulse\n2. **Category**: Cereal\n3. **Fine-Grained Category**: Unspecified, but likely a type of cereal or grain product\n4. **Count**: 1 box\n\nThis is the only item visible in the image."
+    },
+    {
+        "question_id": 52,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of butter. Here are the details:\n\n- **Grocery Item**: Butter\n- **Category**: Dairy\n- **Fine-Grained Category**: Spreadable Dairy Product\n\nThere is one package of butter in the image."
+    },
+    {
+        "question_id": 53,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single object, which appears to be a bottle. Here is the detailed breakdown:\n\n1. **Object**: Bottle\n   - **Category**: Beverages\n   - **Fine-grained Category**: Unspecified (e.g., soda, water, juice)\n   - **Count**: 1\n\nThis is the only object present in the image."
+    },
+    {
+        "question_id": 54,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here are the groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Water Bottle**\n   - Category: Beverages\n   - Fine-grained Category: Water\n   - Count: 1\n\n2. **Nutter Butter**\n   - Category: Snacks\n   - Fine-grained Category: Cookie\n   - Count: 1\n\n3. **Almond Milk**\n   - Category: Beverages\n   - Fine-grained Category: Milk\n   - Count: 1\n\n4. **Unidentified Item**\n   - Category: Unknown\n   - Fine-grained Category: Unknown\n   - Count: 1 (This item is not clearly identifiable in the image)\n\nTotal count: 4"
+    },
+    {
+        "question_id": 55,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows the following groceries and their categories:\n\n1. **Water Bottle** - Drink\n2. **Nutella** - Snack/Spread\n3. **Butter** - Dairy/Fat\n4. **Milk** - Dairy\n\nCounts:\n- Water Bottle: 1\n- Nutella: 1\n- Butter: 1\n- Milk: 1"
+    },
+    {
+        "question_id": 56,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories:\n\n1. **Water Bottle** - Beverages\n   - Fine-grained category: Water\n\n2. **Nutella** - Confectionery\n   - Fine-grained category: Chocolate Spread\n\n3. **Bread** - Bakery Items\n   - Fine-grained category: White Bread\n\n4. **Milk** - Dairy Products\n   - Fine-grained category: 1.5% Milk\n\n5. **Feta Cheese** - Dairy Products\n   - Fine-grained category: Feta Cheese\n\n6. **Napkin** - Kitchen Essentials\n   - Fine-grained category: Paper Napkin\n\n7. **Other Bag** - Kitchen Essentials\n   - Fine-grained category: Plastic Bag\n\nTotal count: 7 items"
+    },
+    {
+        "question_id": 57,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image and their categories are as follows:\n\n1. **Water Bottle**:\n   - Category: Beverages\n   - Subcategory: Water\n   - Count: 1\n\n2. **Nestl\u00e9 Butter**:\n   - Category: Dairy\n   - Subcategory: Butter\n   - Count: 1\n\n3. **Yoplait Yogurt**:\n   - Category: Dairy\n   - Subcategory: Yogurt\n   - Count: 1\n\n4. **Jell-O**:\n   - Category: Desserts\n   - Subcategory: Pudding Mix\n   - Count: 1\n\n5. **Biscoff Spread**:\n   - Category: Baking Supplies\n   - Subcategory: Cookie Spread\n   - Count: 1\n\n6. **Bread**:\n   - Category: Baking Supplies\n   - Subcategory: Bread\n   - Count: 1\n\n7. **Tissue Paper**:\n   - Category: Kitchen Supplies\n   - Subcategory: Paper Towels\n   - Count: 1\n\n8. **Spoon**:\n   - Category: Kitchen Supplies\n   - Subcategory: Utensils\n   - Count: 1\n\n9. **Fruit Juice**:\n   - Category: Beverages\n   - Subcategory: Juice\n   - Count: 1\n\n10. **Bread**:\n    - Category: Baking Supplies\n    - Subcategory: Bread\n    - Count: 1\n\nTotal count: 10 items"
+    },
+    {
+        "question_id": 58,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and counts:\n\n1. **Water Bottles**:\n   - **Category**: Beverages\n   - **Count**: 3\n\n2. **Milk Carton**:\n   - **Category**: Dairy Products\n   - **Count**: 1\n\n3. **Bread**:\n   - **Category**: Baked Goods\n   - **Count**: 1\n\n4. **Butter**:\n   - **Category**: Dairy Products\n   - **Count**: 1\n\n5. **Detergent Bottle**:\n   - **Category**: Cleaning Supplies\n   - **Count**: 1\n\n6. **Paper Towel**:\n   - **Category**: Household Supplies\n   - **Count**: 1\n\n7. **Coffee**:\n   - **Category**: Beverages\n   - **Count**: 1\n\n8. **Tea**:\n   - **Category**: Beverages\n   - **Count**: 1\n\nTotal count of groceries: 8"
+    },
+    {
+        "question_id": 59,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **Bottles of water**\n   - **Category**: Beverages\n   - **Fine-grained Category**: Water\n\n2. **Butter**\n   - **Category**: Dairy\n   - **Fine-grained Category**: Butter\n\n3. **Milk**\n   - **Category**: Dairy\n   - **Fine-grained Category**: Milk\n\n4. **Milk carton**\n   - **Category**: Dairy\n   - **Fine-grained Category**: Milk Carton\n\n5. **Bottle of liquid**\n   - **Category**: Beverages\n   - **Fine-grained Category**: Unknown (could be water, juice, etc.)\n\n6. **Plastic bottle**\n   - **Category**: Containers\n   - **Fine-grained Category**: Plastic Bottle\n\n7. **Paper bag**\n   - **Category**: Packaging\n   - **Fine-grained Category**: Paper Bag\n\nThe counts are:\n- Bottles of water: 2\n- Butter: 1\n- Milk: 1\n- Milk carton: 1\n- Bottle of liquid: 1\n- Plastic bottle: 1\n- Paper bag: 1"
+    },
+    {
+        "question_id": 60,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories:\n\n1. **Water Bottles**\n   - Category: Beverages\n   - Fine-grained Category: Water Bottles\n\n2. **Linguine Pasta**\n   - Category: Pasta\n   - Fine-grained Category: Linguine Pasta\n\n3. **Linguine (Brand: Nordenfjord)**\n   - Category: Pasta\n   - Fine-grained Category: Linguine Pasta\n\n4. **Linguine (Brand: Tekanne)**\n   - Category: Pasta\n   - Fine-grained Category: Linguine Pasta\n\n5. **Linguine (Brand: Tekanne)**\n   - Category: Pasta\n   - Fine-grained Category: Linguine Pasta\n\n6. **Yellow Bottle**\n   - Category: Beverages\n   - Fine-grained Category: Yellow Bottle\n\n7. **Green Bottle**\n   - Category: Beverages\n   - Fine-grained Category: Green Bottle\n\n8. **Red Cloth**\n   - Category: Kitchen Supplies\n   - Fine-grained Category: Red Cloth\n\n9. **Plastic Bag**\n   - Category: Packaging\n   - Fine-grained Category: Plastic Bag\n\n10. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n11. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n12. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n13. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n14. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n15. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n16. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n17. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n18. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n19. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n20. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n21. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n22. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n23. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n24. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n25. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n26. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n27. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n28. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n29. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n30. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n31. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n32. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n33. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n34. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n35. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n36. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n37. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n38. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n39. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n40. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n41. **Plastic Bag**\n    - Category: Packaging\n    - Fine-grained Category: Plastic Bag\n\n4"
+    },
+    {
+        "question_id": 61,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image and their categories, fine-grained categories, and counts are as follows:\n\n1. **Water (Fine-grained category: Beverages)**\n   - Count: 2 bottles\n\n2. **Linguine (Fine-grained category: Pasta)**\n   - Count: 1 pack\n\n3. **Lemon Juice (Fine-grained category: Beverages)**\n   - Count: 1 bottle\n\n4. **Fruit Salad (Fine-grained category: Fruits)**\n   - Count: 1 package\n\n5. **Linguine (Fine-grained category: Pasta)**\n   - Count: 1 pack\n\n6. **Bread (Fine-grained category: Baked Goods)**\n   - Count: 1 loaf\n\n7. **Tomato Sauce (Fine-grained category: Sauces)**\n   - Count: 1 bottle\n\n8. **Fruit Salad (Fine-grained category: Fruits)**\n   - Count: 1 package\n\n9. **Bread (Fine-grained category: Baked Goods)**\n   - Count: 1 loaf\n\n10. **Lemon Juice (Fine-grained category: Beverages)**\n    - Count: 1 bottle\n\n11. **Tomato Sauce (Fine-grained category: Sauces)**\n    - Count: 1 bottle\n\n12. **Linguine (Fine-grained category: Pasta)**\n    - Count: 1 pack\n\n13. **Fruit Salad (Fine-grained category: Fruits)**\n    - Count: 1 package\n\n14. **Bread (Fine-grained category: Baked Goods)**\n    - Count: 1 loaf\n\n15. **Linguine (Fine-grained category: Pasta)**\n    - Count: 1 pack\n\n16. **Tomato Sauce (Fine-grained category: Sauces)**\n    - Count: 1 bottle\n\n17. **Fruit Salad (Fine-grained category: Fruits)**\n    - Count: 1 package\n\n18. **Bread (Fine-grained category: Baked Goods)**\n    - Count: 1 loaf\n\n19. **Linguine (Fine-grained category: Pasta)**\n    - Count: 1 pack\n\n20. **Tomato Sauce (Fine-grained category: Sauces)**\n    - Count: 1 bottle\n\n21. **Fruit Salad (Fine-grained category: Fruits)**\n    - Count: 1 package\n\n22. **Bread (Fine-grained category: Baked Goods)**\n    - Count: 1 loaf\n\n23. **Linguine (Fine-grained category: Pasta)**\n    - Count: 1 pack\n\n24. **Tomato Sauce (Fine-grained category: Sauces)**\n    - Count: 1 bottle\n\n25. **Fruit Salad (Fine-grained category: Fruits)**\n    - Count: 1 package\n\n26. **Bread (Fine-grained category: Baked Goods)**\n    - Count: 1 loaf\n\n27. **Linguine (Fine-grained category: Pasta)**\n    - Count: 1 pack\n\n28. **Tomato Sauce (Fine-grained category: Sauces)**\n    - Count: 1 bottle\n\n29. **Fruit Salad (Fine-grained category: Fruits)**\n    - Count: 1 package\n\n30. **Bread (Fine-grained category: Baked Goods)**\n    - Count: 1 loaf\n\n31. **Linguine (Fine-grained category: Pasta)**\n    - Count: 1 pack\n\n32. **Tomato Sauce (Fine-grained category: Sauces)**\n    - Count: 1 bottle\n\n33. **Fruit Salad (Fine-grained category: Fruits)**\n    - Count: 1 package\n\n34. **Bread (Fine-grained category: Baked Goods)**\n    - Count: 1 loaf\n\n35. **Linguine (Fine-grained category: Pasta)**\n    - Count: 1 pack\n\n36. **Tomato Sauce (Fine-grained category: Sauces)**\n    - Count: 1 bottle\n\n37. **Fruit Salad (Fine-grained category: Fruits)**\n    - Count: 1 package\n\n38. **Bread (Fine-grained category: Baked Goods)**\n    - Count: 1 loaf\n\n39. **Linguine (Fine-grained category: Pasta)**\n    - Count: 1 pack\n\n40. **Tomato Sauce (Fine-grained category: Sauces)**\n    - Count: 1 bottle\n\n41. **Fruit Salad (Fine-grained category: Fruits)**\n    - Count: 1 package\n\n"
+    },
+    {
+        "question_id": 62,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here are the groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Classic Spree Quell Water Bottle**\n   - Category: Beverages\n   - Subcategory: Bottled Water\n   - Count: 1\n\n2. **Linguine No. 6 Pasta**\n   - Category: Groceries\n   - Subcategory: Pasta\n   - Count: 1\n\n3. **Lemon Juice Bottle**\n   - Category: Beverages\n   - Subcategory: Fruit Juice\n   - Count: 1\n\n4. **Red Mesh Bag**\n   - Category: Grocery Packaging\n   - Subcategory: Mesh Bag\n   - Count: 1\n\n5. **Green Bag**\n   - Category: Grocery Packaging\n   - Subcategory: Reusable Bag\n   - Count: 1\n\n6. **Red Net Bag**\n   - Category: Grocery Packaging\n   - Subcategory: Net Bag\n   - Count: 1\n\n7. **Other Unidentified Items**\n   - Category: Miscellaneous\n   - Subcategory: Unknown\n   - Count: 1 (Items are not clearly visible)\n\nTotal Count: 7"
+    },
+    {
+        "question_id": 63,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **Spree Quell Classic Regional Klimaneutral** (Bottle of Water)\n2. **Linguine No. 6** (Pasta)\n3. **8 Kruuter** (Pack of Vegetables)\n4. **Yellow Bottle** (Unspecified contents, possibly a cleaning product or sauce)\n5. **Red Mesh Bag** (Contents not visible)\n\nCategories:\n- **Beverages**: 1 (Bottle of Water)\n- **Groceries**: 3 (Pasta, Vegetables, Cleaning Product/Sauce)\n- **Packaging**: 1 (Red Mesh Bag)\n\nFine-grained categories:\n- **Beverages**: 1 (Bottle of Water)\n- **Groceries**: 3 (Pasta, Vegetables, Cleaning Product/Sauce)\n- **Packaging**: 1 (Red Mesh Bag)\n\nCounts:\n- **Beverages**: 1\n- **Groceries**: 3\n- **Packaging**: 1"
+    },
+    {
+        "question_id": 64,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Zimt (Cinnamon)**\n   - Category: Spices\n   - Count: 1\n\n2. **Bl\u00e4tterteig (Pastry Dough)**\n   - Category: Baking Ingredients\n   - Count: 1\n\n3. **8 Karuter (8 Carrots)**\n   - Category: Vegetables\n   - Count: 1\n\n4. **Linguine No. 6**\n   - Category: Pasta\n   - Count: 1\n\n5. **Marmelade (Marmalade)**\n   - Category: Preserves\n   - Count: 1\n\n6. **Eier (Eggs)**\n   - Category: Eggs\n   - Count: 1\n\n7. **Pesto**\n   - Category: Pasta Sauces\n   - Count: 1\n\n8. **Sauce**\n   - Category: Condiments\n   - Count: 1\n\n9. **Balsamico (Balsamic Vinegar)**\n   - Category: Condiments\n   - Count: 1\n\n10. **Tomatenmark (Tomato Paste)**\n    - Category: Condiments\n    - Count: 1\n\n11. **Zwieback (Crackers)**\n    - Category: Snacks\n    - Count: 1\n\n12. **Erdbeere (Strawberries)**\n    - Category: Fruits\n    - Count: 1\n\n13. **Gew\u00fcrz (Spices)**\n    - Category: Spices\n    - Count: 1\n\n14. **Salz (Salt)**\n    - Category: Seasonings\n    - Count: 1\n\n15. **K\u00fcmmel (Caraway Seeds)**\n    - Category: Spices\n    - Count: 1\n\n16. **Lemon**\n    - Category: Fruits\n    - Count: 1\n\n17. **Lavendel (Lavender)**\n    - Category: Herbs\n    - Count: 1\n\n18. **Rahm (Cream)**\n    - Category: Dairy Products\n    - Count: 1\n\n19. **Lachs (Salmon)**\n    - Category: Seafood\n    - Count: 1\n\n20. **Lavendel (Lavender)**\n    - Category: Herbs\n    - Count: 1\n\n21. **Tomatenmark (Tomato Paste)**\n    - Category: Condiments\n    - Count: 1\n\n22. **Zwieback (Crackers)**\n    - Category: Snacks\n    - Count: 1\n\n23. **Tomatenmark (Tomato Paste)**\n    - Category: Condiments\n    - Count: 1\n\n24. **Erdbeere (Strawberries)**\n    - Category: Fruits\n    - Count: 1\n\n25. **Salz (Salt)**\n    - Category: Seasonings\n    - Count: 1\n\n26. **Tomatenmark (Tomato Paste)**\n    - Category: Condiments\n    - Count: 1\n\n27. **Erdbeere (Strawberries)**\n    - Category: Fruits\n    - Count: 1\n\n28. **Lavendel (Lavender)**\n    - Category: Herbs\n    - Count: 1\n\n29. **Tomatenmark (Tomato Paste)**\n    - Category: Condiments\n    - Count: 1\n\n30. **Erdbeere (Strawberries)**\n    - Category: Fruits\n    - Count: 1\n\n31. **Salz (Salt)**\n    - Category: Seasonings\n    - Count: 1\n\n32. **Tomatenmark (Tomato Paste)**\n    - Category: Condiments\n    - Count: 1\n\n33. **Erdbeere (Strawberries)**\n    - Category: Fruits\n    - Count: 1\n\n34. **Salz (Salt)**\n    - Category: Seasonings\n    - Count: 1\n\n35. **Tomatenmark (Tomato Paste)**\n    - Category: Condiments\n    - Count: 1\n\n36. **Erdbeere (Strawberries)**\n    - Category: Fruits\n    - Count: 1\n\n37. **Salz (Salt)**\n    - Category: Seasonings\n    - Count: 1\n\n38. **Tomatenmark (Tomato Paste)**\n    - Category: Condiments\n    - Count: 1\n\n39. **Erdbeere (Str"
+    },
+    {
+        "question_id": 65,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image and their categories are as follows:\n\n1. **Linguine No. 6 (Pasta)**\n   - Category: Pasta\n   - Fine-grained Category: Linguine\n   - Count: 1\n\n2. **8 Krut\u00fcter (Herbs and Spices)**\n   - Category: Herbs and Spices\n   - Fine-grained Category: Herbs and Spices\n   - Count: 1\n\n3. **Lory Bl\u00e4tter (Herbs and Spices)**\n   - Category: Herbs and Spices\n   - Fine-grained Category: Herbs and Spices\n   - Count: 1\n\n4. **Zimt (Cinnamon)**\n   - Category: Herbs and Spices\n   - Fine-grained Category: Cinnamon\n   - Count: 1\n\n5. **Bienenstaub (Bee Pollen)**\n   - Category: Supplements\n   - Fine-grained Category: Bee Pollen\n   - Count: 1\n\n6. **Dose mit K\u00fcrbis\u00f6l (Pumpkin Seed Oil)**\n   - Category: Cooking Oils\n   - Fine-grained Category: Pumpkin Seed Oil\n   - Count: 1\n\n7. **Pralinen (Candy)**\n   - Category: Sweets\n   - Fine-grained Category: Pralines\n   - Count: 1\n\n8. **Dose mit Honig (Honey)**\n   - Category: Spreads and Jams\n   - Fine-grained Category: Honey\n   - Count: 1\n\n9. **Ketchup (Sauce)**\n   - Category: Sauces\n   - Fine-grained Category: Ketchup\n   - Count: 1\n\n10. **Flasche (Bottle)**\n    - Category: Beverages\n    - Fine-grained Category: Unknown (Bottle)\n    - Count: 1\n\n11. **Tee (Tea)**\n    - Category: Beverages\n    - Fine-grained Category: Tea\n    - Count: 1\n\n12. **Ketchup (Sauce)**\n    - Category: Sauces\n    - Fine-grained Category: Ketchup\n    - Count: 1\n\n13. **Bienenstaub (Bee Pollen)**\n    - Category: Supplements\n    - Fine-grained Category: Bee Pollen\n    - Count: 1\n\n14. **Pralinen (Candy)**\n    - Category: Sweets\n    - Fine-grained Category: Pralines\n    - Count: 1\n\n15. **Bienenstaub (Bee Pollen)**\n    - Category: Supplements\n    - Fine-grained Category: Bee Pollen\n    - Count: 1\n\n16. **Dose mit K\u00fcrbis\u00f6l (Pumpkin Seed Oil)**\n    - Category: Cooking Oils\n    - Fine-grained Category: Pumpkin Seed Oil\n    - Count: 1\n\n17. **Dose mit Honig (Honey)**\n    - Category: Spreads and Jams\n    - Fine-grained Category: Honey\n    - Count: 1\n\n18. **Ketchup (Sauce)**\n    - Category: Sauces\n    - Fine-grained Category: Ketchup\n    - Count: 1\n\n19. **Bienenstaub (Bee Pollen)**\n    - Category: Supplements\n    - Fine-grained Category: Bee Pollen\n    - Count: 1\n\n20. **Dose mit K\u00fcrbis\u00f6l (Pumpkin Seed Oil)**\n    - Category: Cooking Oils\n    - Fine-grained Category: Pumpkin Seed Oil\n    - Count: 1\n\n21. **Dose mit Honig (Honey)**\n    - Category: Spreads and Jams\n    - Fine-grained Category: Honey\n    - Count: 1\n\n22. **Ketchup (Sauce)**\n    - Category: Sauces\n    - Fine-grained Category: Ketchup\n    - Count: 1\n\n23. **Bienenstaub (Bee Pollen)**\n    - Category: Supplements\n    - Fine-grained Category: Bee Pollen\n    - Count: 1\n\n24. **Dose mit K\u00fcrbis\u00f6l (Pumpkin Seed Oil)**\n    - Category: Cooking Oils\n    - Fine-grained Category: Pumpkin Seed Oil\n    - Count: 1\n\n25. **Dose mit Honig (Honey)**\n    - Category: Spreads and Jams\n    - Fine-grained Category: Honey\n    - Count: 1\n\n26. **Ketchup (Sauce)**\n    - Category: Sauces\n    - Fine-grained Category: Ketchup\n"
+    },
+    {
+        "question_id": 66,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Sure, here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Packs of pasta**:\n   - Linguine No. 6 (Fine-grained category: Pasta)\n   - Long Blanc (Fine-grained category: Pasta)\n\n2. **Fruit**:\n   - Apples (Fine-grained category: Fruits)\n   - Pears (Fine-grained category: Fruits)\n\n3. **Bottle**:\n   - Lemon juice (Fine-grained category: Beverages)\n\n4. **Spices**:\n   - Zimt (Fine-grained category: Spices)\n\n5. **Other**:\n   - A packet of chocolate (Fine-grained category: Snacks)\n   - A packet of rice (Fine-grained category: Grains)\n\n6. **Bag**:\n   - A shopping bag (Fine-grained category: Packaging)\n\nTotal count of items: 6"
+    },
+    {
+        "question_id": 67,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Packets of Spices**\n   - Category: Seasonings\n   - Fine-grained categories: Zimt (Cinnamon), Osramann (likely a brand name for a spice mix)\n\n2. **Baking Sheets**\n   - Category: Baking Supplies\n   - Fine-grained categories: Baking sheets (likely for baking or cooking)\n\n3. **Baking Soda**\n   - Category: Baking Supplies\n   - Fine-grained categories: Baking soda (used for leavening in baking)\n\n4. **Apples**\n   - Category: Fruits\n   - Fine-grained categories: Red apples\n\n5. **Pears**\n   - Category: Fruits\n   - Fine-grained categories: Pears\n\n6. **Linguine Pasta**\n   - Category: Pasta\n   - Fine-grained categories: Linguine (a type of pasta)\n\n7. **Sauce**\n   - Category: Sauces\n   - Fine-grained categories: (Not specified, but could be a type of sauce)\n\n8. **Bag of Pasta**\n   - Category: Pasta\n   - Fine-grained categories: Linguine (a type of pasta)\n\nThe image shows a variety of groceries, including spices, baking supplies, fruits, and pasta."
+    },
+    {
+        "question_id": 68,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories:\n\n1. **Coffee Filters**\n   - **Category**: Coffee\n   - **Fine-grained Category**: Coffee Filters\n\n2. **Caf\u00e9noir Coffee**\n   - **Category**: Coffee\n   - **Fine-grained Category**: Coffee\n\n3. **Tea Filters**\n   - **Category**: Tea\n   - **Fine-grained Category**: Tea Filters\n\n4. **Apple**\n   - **Category**: Fruits\n   - **Fine-grained Category**: Apples\n\n5. **Pears**\n   - **Category**: Fruits\n   - **Fine-grained Category**: Pears\n\n6. **Bottle of Juice**\n   - **Category**: Beverages\n   - **Fine-grained Category**: Juice\n\n7. **Zimt Glutenfrei**\n   - **Category**: Snacks\n   - **Fine-grained Category**: Gluten-free Snacks\n\n8. **Coconut Milk**\n   - **Category**: Beverages\n   - **Fine-grained Category**: Coconut Milk\n\n9. **Flax Seeds**\n   - **Category**: Groceries\n   - **Fine-grained Category**: Flax Seeds\n\n10. **Milk**\n    - **Category**: Dairy\n    - **Fine-grained Category**: Milk\n\n11. **Coffee Sachets**\n    - **Category**: Coffee\n    - **Fine-grained Category**: Coffee Sachets\n\n12. **Hinze Tea**\n    - **Category**: Tea\n    - **Fine-grained Category**: Tea\n\n13. **Coffee Master No. 4**\n    - **Category**: Coffee\n    - **Fine-grained Category**: Coffee Filters\n\nThese items are arranged on a surface, likely a countertop or a table."
+    },
+    {
+        "question_id": 69,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and counts:\n\n1. **Coffee Filters (No. 4)** - **Grocery** - **Count: 1 box**\n2. **Coffee** - **Grocery** - **Count: 1 packet**\n3. **Apple** - **Fruit** - **Count: 1**\n4. **Pear** - **Fruit** - **Count: 2**\n5. **Caffeine (in a bag)** - **Grocery** - **Count: 1**\n6. **Bottle** - **Grocery** - **Count: 1**\n7. **Pack of Tea** - **Grocery** - **Count: 1**\n8. **Tea Filter** - **Grocery** - **Count: 1**\n\nThese items are arranged on a flat surface."
+    },
+    {
+        "question_id": 70,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains the following groceries and their categories:\n\n1. **M\u00f6venpick Ice Cream** - Category: Frozen Dessert\n   - Fine-grained category: Ice Cream\n\n2. **Orange Juice** - Category: Beverages\n   - Fine-grained category: Juice\n\n3. **Yellow Bottle** - Category: Beverages\n   - Fine-grained category: Unknown (possibly a fruit juice or another type of beverage)\n\n4. **Apple** - Category: Fruits\n   - Fine-grained category: Apple\n\n5. **Pears** - Category: Fruits\n   - Fine-grained category: Pears\n\n6. **Coffee Filters** - Category: Groceries\n   - Fine-grained category: Coffee Filters\n\n7. **Unidentified Black Box** - Category: Groceries\n   - Fine-grained category: Unknown (possibly a type of packaging or container)\n\nThere are a total of 7 items in the image."
+    },
+    {
+        "question_id": 71,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here are the groceries in the image, categorized by type and fine-grained categories:\n\n1. **Coffee Filter (Kaffeefilter)**:\n   - **Category**: Coffee\n   - **Count**: 1\n\n2. **Coffee (Kaffee)**:\n   - **Category**: Coffee\n   - **Count**: 1\n\n3. **M\u00f6venpick Ice Cream**:\n   - **Category**: Dessert\n   - **Count**: 1\n\n4. **Apple**:\n   - **Category**: Fruit\n   - **Count**: 1\n\n5. **Pear**:\n   - **Category**: Fruit\n   - **Count**: 2\n\n6. **Yellow Bottle**:\n   - **Category**: Beverages\n   - **Count**: 1\n\nThese are the items present in the image, categorized by their type and fine-grained categories."
+    },
+    {
+        "question_id": 72,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **M\u00f6venpick** - Ice Cream (Category: Frozen Desserts, Fine-grained Category: Ice Cream, Count: 1)\n2. **Kaffee-Filter** - Coffee Filters (Category: Coffee, Fine-grained Category: Coffee Filters, Count: 1)\n3. **Fruit** - Pears and an Apple (Category: Fruits, Fine-grained Category: Pears and Apple, Count: 3)\n4. **Tee** - Tea (Category: Beverages, Fine-grained Category: Tea, Count: 1)\n\nThese are the groceries present in the image."
+    },
+    {
+        "question_id": 73,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains the following groceries:\n\n1. **Grocery Category**: Coffee\n   - **Fine-Grained Category**: Coffee Filters\n   - **Count**: 2 boxes\n\n2. **Grocery Category**: Coffee\n   - **Fine-Grained Category**: Coffee\n   - **Count**: 1 packet\n\n3. **Grocery Category**: Snacks\n   - **Fine-Grained Category**: Nuts\n   - **Count**: 1 package\n\n4. **Grocery Category**: Fruits\n   - **Fine-Grained Category**: Pears\n   - **Count**: 2 pears\n   - **Fine-Grained Category**: Apple\n   - **Count**: 1 apple\n   - **Fine-Grained Category**: Banana\n   - **Count**: 1 banana"
+    },
+    {
+        "question_id": 74,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and counts:\n\n1. **M\u00f6venpick** - Ice Cream - 1 box\n2. **Caf\u00e9 Filter** - Coffee Filters - 1 box\n3. **Fennel Seeds** - Spices - 1 packet\n4. **Apple** - Fruits - 1\n5. **Banana** - Fruits - 1\n6. **Pear** - Fruits - 1"
+    },
+    {
+        "question_id": 75,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories:\n\n1. **M\u00f6venpick** - Snack, Ice Cream\n2. **Caf\u00e9 Filter** - Coffee, Coffee Filters\n3. **Pencel** - Snack, Snack Bars\n4. **Bananas** - Fruit\n5. **Apples** - Fruit\n6. **Pears** - Fruit\n\nThere are 6 items in total."
+    },
+    {
+        "question_id": 76,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories:\n\n1. **M\u00f6venpick** - Dessert (Ice Cream)\n2. **ja!** - Tea (Tea Bags)\n3. **Caf\u00e9 Filter** - Coffee (Coffee Filters)\n4. **Westminster** - Tea (Tea Bags)\n5. **Fruit** - Fruits (Banana, Apple, Pear)\n\nTotal count: 5 items"
+    },
+    {
+        "question_id": 77,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories:\n\n1. **M\u00f6venpick** (Ice Cream):\n   - Category: Frozen Desserts\n   - Fine-grained Category: Ice Cream\n\n2. **Ja! Fenchel Anis Kummel** (Tea):\n   - Category: Beverages\n   - Fine-grained Category: Tea\n\n3. **Fruchttee-Mischung** (Fruit Tea Blend):\n   - Category: Beverages\n   - Fine-grained Category: Tea\n\n4. **Seiders** (Soda):\n   - Category: Beverages\n   - Fine-grained Category: Soda\n\n5. **Mixed Fruits in Net**:\n   - Category: Fruits\n   - Fine-grained Category: Fruits\n\n6. **Other Unidentified Item** (Partially visible):\n   - Category: Unknown\n   - Fine-grained Category: Unknown\n\nThe total number of groceries is 6."
+    },
+    {
+        "question_id": 78,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **M\u00f6venpick** (category: Food, fine-grained category: Ice Cream)\n2. **Fenchel Anis Kummel** (category: Beverages, fine-grained category: Herbal Tea)\n3. **Sellers** (category: Beverages, fine-grained category: Sparkling Water)\n4. **Fr\u00fcchte Tee Mischung** (category: Beverages, fine-grained category: Fruit Tea Mix)\n\nEach item is listed with its respective category and a more specific fine-grained category."
+    },
+    {
+        "question_id": 79,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **M\u00f6venpick** - Category: Frozen Food, Fine-grained Category: Ice Cream, Count: 1\n2. **ja!** - Category: Snacks, Fine-grained Category: Crackers, Count: 1\n3. **Mandel** - Category: Snacks, Fine-grained Category: Nut Bag, Count: 1\n4. **S-Korn-Mix** - Category: Cereals, Fine-grained Category: Muesli, Count: 1\n5. **Seiders** - Category: Beverages, Fine-grained Category: Bottle, Count: 1\n\nTotal count: 5 items"
+    },
+    {
+        "question_id": 80,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories, fine-grained categories, and counts:\n\n1. **M\u00f6venpick** (Category: Snacks, Fine-grained category: Ice Cream, Count: 1)\n2. **Mandeln** (Category: Snacks, Fine-grained category: Nuts, Count: 1)\n3. **Fenchel Anis Kummel** (Category: Beverages, Fine-grained category: Spices, Count: 1)\n4. **Basis M\u00fcsli 5-Korn-Mix** (Category: Snacks, Fine-grained category: Cereal, Count: 1)\n5. **Selters** (Category: Beverages, Fine-grained category: Carbonated Water, Count: 1)\n\nNote: The counts are based on the visible items in the image."
+    },
+    {
+        "question_id": 81,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image and their categories, fine-grained categories, and counts are as follows:\n\n1. **Vanille Zucker** (Vanilla Sugar)\n   - Category: Sweeteners\n   - Fine-grained Category: Vanilla Extract\n   - Count: 1\n\n2. **Mandel** (Almonds)\n   - Category: Nuts\n   - Fine-grained Category: Almonds\n   - Count: 2\n\n3. **Puderzucker** (Powdered Sugar)\n   - Category: Sweeteners\n   - Fine-grained Category: Powdered Sugar\n   - Count: 1\n\n4. **Basis Korn Mix** (Grain Mix)\n   - Category: Cereals\n   - Fine-grained Category: Grain Mix\n   - Count: 1\n\n5. **Ja! Fenchel Anis Kummel** (Fennel Anise Caraway)\n   - Category: Spices\n   - Fine-grained Category: Fennel Anise Caraway\n   - Count: 1\n\n6. **Sellers** (Unidentified product)\n   - Category: Other\n   - Fine-grained Category: Other\n   - Count: 1\n\nTotal count of groceries: 6"
+    },
+    {
+        "question_id": 82,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Mandeln (Mandarin Oranges)**:\n   - Category: Fruits\n   - Count: 2 packets\n\n2. **Puderzucker (Powdered Sugar)**:\n   - Category: Sweeteners\n   - Count: 1 packet\n\n3. **Fenchel Anis Kummel (Fennel Anise Caraway Tea)**:\n   - Category: Beverages\n   - Count: 1 box\n\n4. **5-Korn-M\u00fcsli (5-Cereal Muesli)**:\n   - Category: Cereals\n   - Count: 1 bag\n\n5. **Ja! (Tea)**:\n   - Category: Beverages\n   - Count: 1 box\n\n6. **Vanille (Vanilla)**:\n   - Category: Flavors\n   - Count: 1 packet\n\n7. **Dr. Oetker (Mandarin Oranges)**:\n   - Category: Fruits\n   - Count: 1 packet\n\n8. **Basis M\u00fcsli (Basic Muesli)**:\n   - Category: Cereals\n   - Count: 1 bag\n\n9. **Selters (Seltzer Water)**:\n   - Category: Beverages\n   - Count: 1 bottle\n\nTotal items: 9"
+    },
+    {
+        "question_id": 83,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **Puderzucker (Powdered Sugar)**\n   - Category: Sweetener\n   - Fine-grained Category: Powdered Sugar\n   - Count: 1\n\n2. **Vanille Zucker (Vanilla Sugar)**\n   - Category: Sweetener\n   - Fine-grained Category: Vanilla Sugar\n   - Count: 2\n\n3. **Vollkorn Haferflocken (Whole Grain Oatmeal)**\n   - Category: Cereal\n   - Fine-grained Category: Whole Grain Oatmeal\n   - Count: 1\n\n4. **Basis Mostl (Basic Muesli)**\n   - Category: Cereal\n   - Fine-grained Category: Basic Muesli\n   - Count: 1\n\n5. **Baking Powder**\n   - Category: Baking Ingredient\n   - Fine-grained Category: Baking Powder\n   - Count: 1\n\n6. **Garlic**\n   - Category: Spices\n   - Fine-grained Category: Garlic\n   - Count: 1\n\n7. **A Bowl**\n   - Category: Kitchenware\n   - Fine-grained Category: Bowl\n   - Count: 1\n\n8. **Bottle of Oil**\n   - Category: Cooking Oil\n   - Fine-grained Category: Cooking Oil\n   - Count: 1\n\n9. **Kitchen Towel**\n   - Category: Kitchen Accessories\n   - Fine-grained Category: Kitchen Towel\n   - Count: 1\n\n10. **Candy Box**\n    - Category: Candy\n    - Fine-grained Category: Candy\n    - Count: 1\n\n11. **Coffee Pot**\n    - Category: Kitchenware\n    - Fine-grained Category: Coffee Pot\n    - Count: 1\n\n12. **Oatmeal Container**\n    - Category: Storage Container\n    - Fine-grained Category: Oatmeal Container\n    - Count: 1\n\n13. **Garlic Clove**\n    - Category: Spices\n    - Fine-grained Category: Garlic Clove\n    - Count: 1\n\n14. **Vanilla Extract**\n    - Category: Flavoring\n    - Fine-grained Category: Vanilla Extract\n    - Count: 1\n\n15. **Cereal Box**\n    - Category: Cereal\n    - Fine-grained Category: Cereal Box\n    - Count: 1\n\n16. **Baking Soda**\n    - Category: Baking Ingredient\n    - Fine-grained Category: Baking Soda\n    - Count: 1\n\n17. **Flour Bag**\n    - Category: Flour\n    - Fine-grained Category: Flour Bag\n    - Count: 1\n\n18. **Baking Powder**\n    - Category: Baking Ingredient\n    - Fine-grained Category: Baking Powder\n    - Count: 1\n\n19. **Cinnamon Stick**\n    - Category: Spices\n    - Fine-grained Category: Cinnamon Stick\n    - Count: 1\n\n20. **Baking Powder**\n    - Category: Baking Ingredient\n    - Fine-grained Category: Baking Powder\n    - Count: 1\n\n21. **Garlic Clove**\n    - Category: Spices\n    - Fine-grained Category: Garlic Clove\n    - Count: 1\n\n22. **Cinnamon Stick**\n    - Category: Spices\n    - Fine-grained Category: Cinnamon Stick\n    - Count: 1\n\n23. **Cinnamon Stick**\n    - Category: Spices\n    - Fine-grained Category: Cinnamon Stick\n    - Count: 1\n\n24. **Cinnamon Stick**\n    - Category: Spices\n    - Fine-grained Category: Cinnamon Stick\n    - Count: 1\n\n25. **Cinnamon Stick**\n    - Category: Spices\n    - Fine-grained Category: Cinnamon Stick\n    - Count: 1\n\n26. **Cinnamon Stick**\n    - Category: Spices\n    - Fine-grained Category: Cinnamon Stick\n    - Count: 1\n\n27. **Cinnamon Stick**\n    - Category: Spices\n    - Fine-grained Category: Cinnamon Stick\n    - Count: 1\n\n28. **Cinnamon Stick**\n    - Category: Spices\n    - Fine-grained Category: Cinnamon Stick\n    - Count: 1\n\n29. **Cinnamon Stick**\n    - Category: Spices\n    - Fine-grained Category: Cinnamon Stick\n    - Count: 1\n\n30. **Cinnamon Stick**\n    - Category: Spices\n    - Fine-grained Category: Cinnamon Stick\n    - Count: 1\n\n31. **Cinnamon"
+    },
+    {
+        "question_id": 84,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and counts:\n\n1. **Vanilla Sugar (Bourbon)** - Category: Sweeteners, Count: 2 packets\n2. **Vanilla Sugar (Vanilla)** - Category: Sweeteners, Count: 1 packet\n3. **Puderzucker (Powdered Sugar)** - Category: Sweeteners, Count: 1 packet\n4. **Oatmeal (Oat Flakes)** - Category: Cereals, Count: 1 bag\n5. **Whole Oatmeal (Oat Flakes)** - Category: Cereals, Count: 1 bag\n6. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n7. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n8. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n9. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n10. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n11. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n12. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n13. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n14. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n15. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n16. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n17. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n18. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n19. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n20. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n21. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n22. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n23. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n24. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n25. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n26. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n27. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n28. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n29. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n30. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n31. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n32. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n33. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n34. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n35. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n36. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n37. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n38. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n39. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n40. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n41. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n42. **Flaxseed (Linseed)** - Category: Cereals, Count: 1 package\n43."
+    },
+    {
+        "question_id": 85,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Vanilla Extract (1 box)**\n   - Category: Beverages\n   - Fine-grained Category: Condiments\n\n2. **Vanilla Extract (1 box)**\n   - Category: Beverages\n   - Fine-grained Category: Condiments\n\n3. **Puderzucker (1 box)**\n   - Category: Beverages\n   - Fine-grained Category: Sweeteners\n\n4. **Haferflocken (1 bag)**\n   - Category: Beverages\n   - Fine-grained Category: Cereals\n\n5. **Garlic (1 bulb)**\n   - Category: Beverages\n   - Fine-grained Category: Spices\n\n6. **Beer (1 bottle)**\n   - Category: Beverages\n   - Fine-grained Category: Alcoholic Beverages\n\n7. **Beer (1 bottle)**\n   - Category: Beverages\n   - Fine-grained Category: Alcoholic Beverages\n\n8. **Bread (1 loaf)**\n   - Category: Beverages\n   - Fine-grained Category: Baked Goods\n\n9. **Unlabeled White Bag**\n   - Category: Beverages\n   - Fine-grained Category: Packaging\n\n10. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n11. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n12. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n13. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n14. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n15. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n16. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n17. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n18. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n19. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n20. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n21. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n22. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n23. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n24. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n25. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n26. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n27. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n28. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n29. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n30. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n31. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n32. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n33. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n34. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n35. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n36. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n37. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging\n\n38. **Unlabeled White Bag**\n    - Category: Beverages\n    - Fine-grained Category: Packaging"
+    },
+    {
+        "question_id": 86,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Vanilla Sugar (Bourbon)**\n   - Category: Grocery\n   - Fine-grained Category: Seasoning\n   - Count: 2\n\n2. **Vanilla Sugar (Puderzucker)**\n   - Category: Grocery\n   - Fine-grained Category: Seasoning\n   - Count: 1\n\n3. **Pancake Mix**\n   - Category: Grocery\n   - Fine-grained Category: Baking Ingredients\n   - Count: 1\n\n4. **Whole Grain Oats**\n   - Category: Grocery\n   - Fine-grained Category: Cereals and Grains\n   - Count: 1\n\n5. **Garlic Clove**\n   - Category: Grocery\n   - Fine-grained Category: Spices and Herbs\n   - Count: 1\n\n6. **Bottle of Beer**\n   - Category: Beverages\n   - Fine-grained Category: Alcoholic Beverages\n   - Count: 1\n\n7. **Bottle of Wine**\n   - Category: Beverages\n   - Fine-grained Category: Alcoholic Beverages\n   - Count: 1\n\n8. **White Bag**\n   - Category: Grocery\n   - Fine-grained Category: Packaging\n   - Count: 1\n\n9. **Brown Bottle**\n   - Category: Beverages\n   - Fine-grained Category: Alcoholic Beverages\n   - Count: 1\n\n10. **Orange and White Cloth**\n    - Category: Kitchenware\n    - Fine-grained Category: Cleaning Cloth\n    - Count: 1\n\n11. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n12. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n13. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n14. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n15. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n16. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n17. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n18. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n19. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n20. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n21. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n22. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n23. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n24. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n25. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n26. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n27. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n28. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n29. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n30. **Bottle of Sauce**\n    - Category: Condiments\n    - Fine-grained Category: Sauces\n    - Count: 1\n\n31. **Bottle of Sauce**\n    - Category"
+    },
+    {
+        "question_id": 87,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories, along with the counts:\n\n1. **Puderzucker (Powdered Sugar)**\n   - Category: Sweetener\n   - Fine-grained category: Powdered Sugar\n   - Count: 1\n\n2. **Brotbr\u00f6sel (Bread Crumbs)**\n   - Category: Baking Ingredients\n   - Fine-grained category: Bread Crumbs\n   - Count: 1\n\n3. **Garlic**\n   - Category: Spices/Herbs\n   - Fine-grained category: Garlic\n   - Count: 1\n\n4. **Haferflocken (Oatmeal)**\n   - Category: Cereals\n   - Fine-grained category: Oatmeal\n   - Count: 1\n\n5. **Alpensalz (Alpine Salt)**\n   - Category: Spices/Herbs\n   - Fine-grained category: Salt\n   - Count: 1\n\n6. **Bier (Beer)**\n   - Category: Beverages\n   - Fine-grained category: Beer\n   - Count: 2 (Assuming the two bottles on the right side of the image)\n\n7. **Unidentified Item**\n   - Category: Miscellaneous\n   - Fine-grained category: Unknown\n   - Count: 1 (The yellow object in the center)\n\n8. **Unidentified Item**\n   - Category: Miscellaneous\n   - Fine-grained category: Unknown\n   - Count: 1 (The green object in the center)\n\n9. **Unidentified Item**\n   - Category: Miscellaneous\n   - Fine-grained category: Unknown\n   - Count: 1 (The red and white object on the left)\n\n10. **Unidentified Item**\n    - Category: Miscellaneous\n    - Fine-grained category: Unknown\n    - Count: 1 (The object on the far right)\n\nNote: The counts are approximate and based on visible items in the image."
+    },
+    {
+        "question_id": 88,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Puderzucker (Powdered Sugar)**\n   - Category: Sweeteners\n   - Count: 1\n\n2. **Backpulver (Baking Powder)**\n   - Category: Baking Ingredients\n   - Count: 1\n\n3. **Garlic**\n   - Category: Spices and Herbs\n   - Count: 1\n\n4. **Haferflocken (Oatmeal)**\n   - Category: Cereals and Grains\n   - Count: 1\n\n5. **Vollkornhaferflocken (Whole Grain Oatmeal)**\n   - Category: Cereals and Grains\n   - Count: 1\n\n6. **Bier (Beer)**\n   - Category: Beverages\n   - Count: 2\n\n7. **Sterns (Sterns Bluebottle)**\n   - Category: Beverages\n   - Count: 1\n\n8. **Balsamico (Balsamic Vinegar)**\n   - Category: Condiments\n   - Count: 1\n\n9. **Knoblauch (Garlic)**\n   - Category: Spices and Herbs\n   - Count: 1\n\n10. **Aperol (Aperol)**\n    - Category: Beverages\n    - Count: 1\n\n11. **Bier (Beer)**\n    - Category: Beverages\n    - Count: 1\n\n12. **Bier (Beer)**\n    - Category: Beverages\n    - Count: 1\n\n13. **Bier (Beer)**\n    - Category: Beverages\n    - Count: 1\n\n14. **Bier (Beer)**\n    - Category: Beverages\n    - Count: 1\n\nTotal count of items: 15"
+    },
+    {
+        "question_id": 89,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Puderzucker (Powdered Sugar)**\n   - Category: Sweeteners\n   - Fine-grained Category: Powdered Sugar\n\n2. **Buckwheat**\n   - Category: Grains\n   - Fine-grained Category: Buckwheat\n\n3. **Tea Filters**\n   - Category: Beverages\n   - Fine-grained Category: Tea Filters\n\n4. **Garlic**\n   - Category: Vegetables\n   - Fine-grained Category: Garlic\n\n5. **Liquid (possibly a type of sauce or condiment)**\n   - Category: Condiments\n   - Fine-grained Category: Unknown (looks like a bottle with a green cap)\n\n6. **Bottle (possibly containing a liquid)**\n   - Category: Beverages\n   - Fine-grained Category: Unknown (bottle with a white label)\n\n7. **Tea (boxed)**\n   - Category: Beverages\n   - Fine-grained Category: Tea\n\n8. **Spices (in a container)**\n   - Category: Spices\n   - Fine-grained Category: Spices\n\n9. **Jars (possibly containing dried goods or condiments)**\n   - Category: Condiments\n   - Fine-grained Category: Jars\n\n10. **Jar (possibly containing a spice)**\n    - Category: Spices\n    - Fine-grained Category: Jars\n\n11. **Bottle (possibly containing a liquid)**\n    - Category: Beverages\n    - Fine-grained Category: Unknown (bottle with a white label)\n\n12. **Bottle (possibly containing a liquid)**\n    - Category: Beverages\n    - Fine-grained Category: Unknown (bottle with a white label)\n\n13. **Bottle (possibly containing a liquid)**\n    - Category: Beverages\n    - Fine-grained Category: Unknown (bottle with a white label)\n\nPlease note that the fine-grained categories are based on visual inspection and may not be entirely accurate."
+    },
+    {
+        "question_id": 90,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **Puderzucker (Packed Sugar)** - Category: Sugar, Fine-grained category: Sugar, Count: 1 pack\n2. **Bakemix (Baking Mix)** - Category: Baking Ingredients, Fine-grained category: Baking Mix, Count: 1 pack\n3. **Garlic Clove** - Category: Spices, Fine-grained category: Garlic, Count: 1 clove\n4. **Tea Filters** - Category: Tea, Fine-grained category: Tea Filters, Count: 1 box\n5. **Bottle of Liquid** - Category: Beverages, Fine-grained category: Unspecified Liquid, Count: 1 bottle\n6. **Box of Spices** - Category: Spices, Fine-grained category: Unspecified Spices, Count: 1 box\n7. **Other Jar (Contents Unclear)** - Category: Condiments, Fine-grained category: Other Jar Contents, Count: 1 jar\n8. **Bottle Cap** - Category: Kitchen Accessories, Fine-grained category: Bottle Cap, Count: 1\n9. **Other Jar (Contents Unclear)** - Category: Condiments, Fine-grained category: Other Jar Contents, Count: 1 jar\n\nTotal groceries: 9 items"
+    },
+    {
+        "question_id": 91,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories:\n\n1. **Puderzucker (Powdered Sugar)**\n   - Category: Sweeteners\n   - Fine-grained category: Sugar\n\n2. **Bakpulver (Baking Powder)**\n   - Category: Baking Ingredients\n   - Fine-grained category: Baking Powder\n\n3. **Garlic**\n   - Category: Spices and Herbs\n   - Fine-grained category: Garlic\n\n4. **Soy Sauce**\n   - Category: Sauces\n   - Fine-grained category: Soy Sauce\n\n5. **Sunflower Oil**\n   - Category: Cooking Oils\n   - Fine-grained category: Sunflower Oil\n\n6. **Pepper**\n   - Category: Spices and Herbs\n   - Fine-grained category: Pepper\n\n7. **Sesame Oil**\n   - Category: Cooking Oils\n   - Fine-grained category: Sesame Oil\n\n8. **Salt**\n   - Category: Spices and Herbs\n   - Fine-grained category: Salt\n\n9. **Ground Black Pepper**\n   - Category: Spices and Herbs\n   - Fine-grained category: Ground Black Pepper\n\n10. **Mustard**\n    - Category: Condiments\n    - Fine-grained category: Mustard\n\n11. **Garlic Clove**\n    - Category: Spices and Herbs\n    - Fine-grained category: Garlic Clove\n\n12. **Ground Ginger**\n    - Category: Spices and Herbs\n    - Fine-grained category: Ground Ginger\n\n13. **Sugar**\n    - Category: Sweeteners\n    - Fine-grained category: Sugar\n\n14. **Salt**\n    - Category: Spices and Herbs\n    - Fine-grained category: Salt\n\n15. **Garlic Clove**\n    - Category: Spices and Herbs\n    - Fine-grained category: Garlic Clove\n\n16. **Ground Black Pepper**\n    - Category: Spices and Herbs\n    - Fine-grained category: Ground Black Pepper\n\n17. **Ground Ginger**\n    - Category: Spices and Herbs\n    - Fine-grained category: Ground Ginger\n\n18. **Mustard**\n    - Category: Condiments\n    - Fine-grained category: Mustard\n\n19. **Salt**\n    - Category: Spices and Herbs\n    - Fine-grained category: Salt\n\n20. **Garlic Clove**\n    - Category: Spices and Herbs\n    - Fine-grained category: Garlic Clove\n\n21. **Ground Black Pepper**\n    - Category: Spices and Herbs\n    - Fine-grained category: Ground Black Pepper\n\n22. **Ground Ginger**\n    - Category: Spices and Herbs\n    - Fine-grained category: Ground Ginger\n\n23. **Mustard**\n    - Category: Condiments\n    - Fine-grained category: Mustard\n\n24. **Salt**\n    - Category: Spices and Herbs\n    - Fine-grained category: Salt\n\n25. **Garlic Clove**\n    - Category: Spices and Herbs\n    - Fine-grained category: Garlic Clove\n\n26. **Ground Black Pepper**\n    - Category: Spices and Herbs\n    - Fine-grained category: Ground Black Pepper\n\n27. **Ground Ginger**\n    - Category: Spices and Herbs\n    - Fine-grained category: Ground Ginger\n\n28. **Mustard**\n    - Category: Condiments\n    - Fine-grained category: Mustard\n\n29. **Salt**\n    - Category: Spices and Herbs\n    - Fine-grained category: Salt\n\n30. **Garlic Clove**\n    - Category: Spices and Herbs\n    - Fine-grained category: Garlic Clove\n\n31. **Ground Black Pepper**\n    - Category: Spices and Herbs\n    - Fine-grained category: Ground Black Pepper\n\n32. **Ground Ginger**\n    - Category: Spices and Herbs\n    - Fine-grained category: Ground Ginger\n\n33. **Mustard**\n    - Category: Condiments\n    - Fine-grained category: Mustard\n\n34. **Salt**\n    - Category: Spices and Herbs\n    - Fine-grained category: Salt\n\n35. **Garlic Clove**\n    - Category: Spices and Herbs\n    - Fine-grained category: Garlic Clove\n\n36. **Ground Black Pepper**\n    - Category: Spices and Herbs\n    - Fine-grained category: Ground Black Pepper\n\n37. **Ground Ginger**\n    - Category: Spices and Herbs\n    - Fine-grained category: Ground Ginger\n\n38. **Mustard**\n   "
+    },
+    {
+        "question_id": 92,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Box of Puderzucker (Powdered Sugar)**\n   - Category: Sweetener\n   - Fine-grained Category: Sugar (Powdered)\n\n2. **Bottle of Oil (Yellow)** \n   - Category: Cooking Oil\n   - Fine-grained Category: Sunflower Oil\n\n3. **Garlic Clove**\n   - Category: Spices\n   - Fine-grained Category: Garlic\n\n4. **Bottle of Sauce (Red)** \n   - Category: Condiment\n   - Fine-grained Category: Tomato Sauce\n\n5. **Bottle of Sauce (Brown)** \n   - Category: Condiment\n   - Fine-grained Category: Balsamic Vinegar\n\n6. **Bottle of Condiment (Green)** \n   - Category: Condiment\n   - Fine-grained Category: Hot Sauce\n\n7. **Bottle of Spices (Green)** \n   - Category: Spices\n   - Fine-grained Category: Peppercorns\n\n8. **Bottle of Spices (Brown)** \n   - Category: Spices\n   - Fine-grained Category: Oregano\n\n9. **Bottle of Spices (Orange)** \n   - Category: Spices\n   - Fine-grained Category: Chili Powder\n\n10. **Bottle of Spices (Brown)** \n    - Category: Spices\n    - Fine-grained Category: Cinnamon\n\n11. **Bottle of Spices (Green)** \n    - Category: Spices\n    - Fine-grained Category: Basil\n\n12. **Bottle of Spices (Black)** \n    - Category: Spices\n    - Fine-grained Category: Black Pepper\n\n13. **Bottle of Spices (White)** \n    - Category: Spices\n    - Fine-grained Category: Salt\n\n14. **Bottle of Spices (Yellow)** \n    - Category: Spices\n    - Fine-grained Category: Turmeric\n\n15. **Bottle of Spices (Orange)** \n    - Category: Spices\n    - Fine-grained Category: Paprika\n\n16. **Bottle of Spices (Pink)** \n    - Category: Spices\n    - Fine-grained Category: Chili Powder (Hot)\n\n17. **Bottle of Spices (White)** \n    - Category: Spices\n    - Fine-grained Category: Cumin\n\n18. **Bottle of Spices (Green)** \n    - Category: Spices\n    - Fine-grained Category: Sage\n\n19. **Bottle of Spices (Brown)** \n    - Category: Spices\n    - Fine-grained Category: Ginger\n\n20. **Bottle of Spices (Black)** \n    - Category: Spices\n    - Fine-grained Category: Cloves\n\n21. **Bottle of Spices (White)** \n    - Category: Spices\n    - Fine-grained Category: Nutmeg\n\n22. **Bottle of Spices (Green)** \n    - Category: Spices\n    - Fine-grained Category: Thyme\n\n23. **Bottle of Spices (Black)** \n    - Category: Spices\n    - Fine-grained Category: Black Pepper (Ground)\n\n24. **Bottle of Spices (White)** \n    - Category: Spices\n    - Fine-grained Category: Onion Powder\n\n25. **Bottle of Spices (Pink)** \n    - Category: Spices\n    - Fine-grained Category: Paprika (Hot)\n\n26. **Bottle of Spices (Orange)** \n    - Category: Spices\n    - Fine-grained Category: Turmeric\n\n27. **Bottle of Spices (Green)** \n    - Category: Spices\n    - Fine-grained Category: Rosemary\n\n28. **Bottle of Spices (Brown)** \n    - Category: Spices\n    - Fine-grained Category: Cardamom\n\n29. **Bottle of Spices (White)** \n    - Category: Spices\n    - Fine-grained Category: Garlic Powder\n\n30. **Bottle of Spices (Green)** \n    - Category: Spices\n    - Fine-grained Category: Mint\n\n31. **Bottle of Spices (Black)** \n    - Category: Spices\n    - Fine-grained Category: Coriander\n\n32. **Bottle of Spices (White)** \n    - Category: Spices\n    - Fine-grained Category: Fennel\n\n33. **Bottle of Spices (Green)** \n    - Category: Spices\n    - Fine-grained Category: Oregano\n\n34. **Bottle of Spices (Brown)** \n"
+    },
+    {
+        "question_id": 93,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Grocery Item:** Milk (JOL Bio)\n   - **Category:** Dairy\n   - **Fine-grained Category:** Organic Full Cream Milk\n   - **Count:** 1\n\n2. **Grocery Item:** Hot Chocolate (JOL)\n   - **Category:** Beverages\n   - **Fine-grained Category:** Hot Chocolate\n   - **Count:** 1\n\n3. **Grocery Item:** Sugar (Puderzucker)\n   - **Category:** Beverages\n   - **Fine-grained Category:** Sugar\n   - **Count:** 1\n\n4. **Grocery Item:** Olive Oil\n   - **Category:** Beverages\n   - **Fine-grained Category:** Olive Oil\n   - **Count:** 1\n\n5. **Grocery Item:** Dish Soap (yellow bottle)\n   - **Category:** Household\n   - **Fine-grained Category:** Dish Soap\n   - **Count:** 1\n\n6. **Grocery Item:** Other packaging (not clearly identifiable)\n   - **Category:** Miscellaneous\n   - **Fine-grained Category:** Not clearly identifiable\n   - **Count:** 1\n\nNote: The image shows a variety of groceries, but some items are not clearly identifiable due to the angle and lighting."
+    },
+    {
+        "question_id": 94,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Grocery: Coffee**\n   - **Category:** Beverages\n   - **Fine-grained Category:** Instant Coffee\n\n2. **Grocery: Milk**\n   - **Category:** Dairy\n   - **Fine-grained Category:** Organic Milk\n\n3. **Grocery: Vegetable Oil**\n   - **Category:** Cooking Oils\n   - **Fine-grained Category:** Sunflower Oil\n\n4. **Grocery: Sugar**\n   - **Category:** Sweeteners\n   - **Fine-grained Category:** Sugar\n\n5. **Grocery: Tea**\n   - **Category:** Beverages\n   - **Fine-grained Category:** Tea\n\n6. **Grocery: Napkins**\n   - **Category:** Kitchen Supplies\n   - **Fine-grained Category:** Paper Napkins\n\n7. **Grocery: Coffee Filters**\n   - **Category:** Kitchen Supplies\n   - **Fine-grained Category:** Coffee Filters\n\nTotal Count: 7 groceries"
+    },
+    {
+        "question_id": 95,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image and their categories, fine-grained categories, and counts are as follows:\n\n1. **Laurenza Prosecco** - Fine-Grained Category: Wine\n   - Count: 1 bottle\n\n2. **Medium** - Fine-Grained Category: Bottle\n   - Count: 1 bottle\n\n3. **Maraschino** - Fine-Grained Category: Bottle\n   - Count: 1 bottle\n\n4. **Bio Jol** - Fine-Grained Category: Carton of Milk\n   - Count: 1 carton\n\n5. **Yellow Bottle** - Fine-Grained Category: Bottle\n   - Count: 1 bottle\n\n6. **Brown Box** - Fine-Grained Category: Box\n   - Count: 1 box\n\n7. **White Bottle** - Fine-Grained Category: Bottle\n   - Count: 1 bottle\n\n8. **Yellow Cap** - Fine-Grained Category: Cap\n   - Count: 1 cap\n\n9. **Red and Orange Napkin** - Fine-Grained Category: Napkin\n   - Count: 1 napkin\n\n10. **Brown Box with White Lid** - Fine-Grained Category: Box\n    - Count: 1 box\n\n11. **White Cap** - Fine-Grained Category: Cap\n    - Count: 1 cap\n\n12. **Green Cap** - Fine-Grained Category: Cap\n    - Count: 1 cap\n\n13. **Red and White Bottle** - Fine-Grained Category: Bottle\n    - Count: 1 bottle\n\n14. **Green Cap** - Fine-Grained Category: Cap\n    - Count: 1 cap\n\n15. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n16. **Yellow Bottle with Green Cap** - Fine-Grained Category: Bottle\n    - Count: 1 bottle\n\n17. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n18. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n19. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n20. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n21. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n22. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n23. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n24. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n25. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n26. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n27. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n28. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n29. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n30. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n31. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n32. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n33. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n34. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n35. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n36. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n37. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n38. **Brown Box with White Cap** - Fine-Grained Category: Box\n    - Count: 1 box\n\n39. **Brown Box with White Cap"
+    },
+    {
+        "question_id": 96,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Jol Bio Milk**\n   - Category: Dairy\n   - Fine-grained category: Organic Milk\n   - Count: 1\n\n2. **Laurenza Prosecco**\n   - Category: Beverages\n   - Fine-grained category: Sparkling Wine\n   - Count: 1\n\n3. **Spreewell Water**\n   - Category: Beverages\n   - Fine-grained category: Bottled Water\n   - Count: 1\n\n4. **Bottle of Blackberry Sauce**\n   - Category: Condiments\n   - Fine-grained category: Blackberry Sauce\n   - Count: 1\n\n5. **Bottle of Dishwashing Liquid**\n   - Category: Cleaning Supplies\n   - Fine-grained category: Dishwashing Liquid\n   - Count: 1\n\n6. **Box of Marigold Tea**\n   - Category: Beverages\n   - Fine-grained category: Tea\n   - Count: 1\n\n7. **Golden Mustard Bottle**\n   - Category: Condiments\n   - Fine-grained category: Mustard\n   - Count: 1\n\n8. **Yellow Cap**\n   - Category: Miscellaneous\n   - Fine-grained category: Cap\n   - Count: 1\n\n9. **Box of Juice**\n   - Category: Beverages\n   - Fine-grained category: Juice\n   - Count: 1\n\n10. **Box of Cornflakes**\n    - Category: Cereals\n    - Fine-grained category: Cornflakes\n    - Count: 1"
+    },
+    {
+        "question_id": 97,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories:\n\n1. **M\u00f6venpick Der Himmlische Coffee**:\n   - **Category**: Beverages\n   - **Fine-grained Category**: Coffee\n\n2. **J0L (Assumed to be a brand or product name)**:\n   - **Category**: Beverages\n   - **Fine-grained Category**: Milk or Dairy\n\n3. **Bottle with Silver Cap**:\n   - **Category**: Beverages\n   - **Fine-grained Category**: Wine or Spirits\n\n4. **Bottle with Dark Cap**:\n   - **Category**: Beverages\n   - **Fine-grained Category**: Soda or Seltzer\n\n5. **Yellow Bottle with Green Cap**:\n   - **Category**: Beverages\n   - **Fine-grained Category**: Juice or Other Beverage\n\nThere are 5 grocery items in total."
+    },
+    {
+        "question_id": 98,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a variety of groceries. Here is a list of the items, their categories, and a breakdown into fine-grained categories:\n\n1. **M\u00f6venpick Der Himmlische Coffee (Coffee)**\n   - Category: Beverages\n   - Fine-grained Category: Coffee\n\n2. **Laurenza Prosecco (Sparkling Wine)**\n   - Category: Beverages\n   - Fine-grained Category: Sparkling Wine\n\n3. **Selters (Sparkling Water)**\n   - Category: Beverages\n   - Fine-grained Category: Sparkling Water\n\n4. **JOL (Non-alcoholic Beverage)**\n   - Category: Beverages\n   - Fine-grained Category: Non-alcoholic Beverage\n\n5. **Canned Meat (Beef, Pork, or Chicken)**\n   - Category: Groceries\n   - Fine-grained Category: Canned Meat\n\n6. **DVD or Blu-ray Disc (Entertainment)**\n   - Category: Entertainment\n   - Fine-grained Category: DVDs or Blu-rays\n\n7. **Bottle Cap (Miscellaneous)**\n   - Category: Miscellaneous\n   - Fine-grained Category: Bottle Cap\n\n8. **Yellow Lid (Miscellaneous)**\n   - Category: Miscellaneous\n   - Fine-grained Category: Bottle Lid\n\nThe counts for each category are as follows:\n- **Beverages:** 3 items\n- **Groceries:** 1 item\n- **Entertainment:** 1 item\n- **Miscellaneous:** 2 items"
+    },
+    {
+        "question_id": 99,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains the following groceries and their categories:\n\n1. **Wine bottle** - Fine-grained category: Alcoholic Beverage\n2. **Bottle with a label** - Fine-grained category: Non-alcoholic Beverage\n3. **Jar with a label** - Fine-grained category: Non-alcoholic Beverage\n4. **Jar with a label** - Fine-grained category: Non-alcoholic Beverage\n5. **Bottle with a label** - Fine-grained category: Non-alcoholic Beverage\n6. **Bottle with a label** - Fine-grained category: Non-alcoholic Beverage\n7. **Bottle with a label** - Fine-grained category: Non-alcoholic Beverage\n8. **Bottle with a label** - Fine-grained category: Non-alcoholic Beverage\n9. **Bottle with a label** - Fine-grained category: Non-alcoholic Beverage\n10. **Bottle with a label** - Fine-grained category: Non-alcoholic Beverage\n\nTotal count: 10 items"
+    },
+    {
+        "question_id": 100,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a countertop with various groceries. Here is the list along with their categories and fine-grained categories:\n\n1. **Wine Bottle**:\n   - Category: Beverages\n   - Fine-grained Category: Red Wine\n\n2. **Prosecco Bottle**:\n   - Category: Beverages\n   - Fine-grained Category: Sparkling Wine\n\n3. **Water Bottle**:\n   - Category: Beverages\n   - Fine-grained Category: Still Water\n\n4. **Seltzer Bottle**:\n   - Category: Beverages\n   - Fine-grained Category: Sparkling Water\n\n5. **Mug**:\n   - Category: Kitchenware\n   - Fine-grained Category: Mug\n\n6. **Soda Bottle**:\n   - Category: Beverages\n   - Fine-grained Category: Soda\n\n7. **Bottle Cap**:\n   - Category: Kitchenware\n   - Fine-grained Category: Bottle Cap\n\nTotal count: 7 items"
+    },
+    {
+        "question_id": 101,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains the following groceries:\n\n1. **Category: Beverages**\n   - **Fine-grained Category: Alcohol**\n     - **Count: 5**\n       - Bottles of alcohol, including what appears to be a bottle of sparkling wine (Champagne) and a bottle of gin.\n\n2. **Category: Beverages**\n   - **Fine-grained Category: Non-alcoholic**\n     - **Count: 1**\n       - A bottle of sparkling water (Seiders) with a green lid.\n\nThe image shows a variety of beverages, with a mix of alcoholic and non-alcoholic options."
+    },
+    {
+        "question_id": 102,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Bottle with a blue cap and golden dots**\n   - Category: Beverages\n   - Fine-grained Category: Wine\n   - Count: 1\n\n2. **Bottle with a gold cap**\n   - Category: Beverages\n   - Fine-grained Category: Wine\n   - Count: 1\n\n3. **Bottle with a red and black label**\n   - Category: Beverages\n   - Fine-grained Category: Wine\n   - Count: 1\n\n4. **Bottle with a blue cap and white label**\n   - Category: Beverages\n   - Fine-grained Category: Water\n   - Count: 1\n\n5. **Bottle with a blue cap and white label**\n   - Category: Beverages\n   - Fine-grained Category: Seltzer Water\n   - Count: 1\n\n6. **Bottle with a blue cap and white label**\n   - Category: Beverages\n   - Fine-grained Category: Seltzer Water\n   - Count: 1\n\n7. **Bottle with a green cap**\n   - Category: Beverages\n   - Fine-grained Category: Water\n   - Count: 1\n\nTotal Count: 7"
+    },
+    {
+        "question_id": 103,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Linguine (Fine Pasta)**:\n   - Category: Pasta\n   - Count: 1\n\n2. **Unlabeled Bottle (Unknown Content)**:\n   - Category: Beverages\n   - Count: 1\n\n3. **Unlabeled Bottle (Unknown Content)**:\n   - Category: Beverages\n   - Count: 1\n\n4. **Unlabeled Bottle (Unknown Content)**:\n   - Category: Beverages\n   - Count: 1\n\n5. **Unlabeled Bottle (Unknown Content)**:\n   - Category: Beverages\n   - Count: 1\n\n6. **Unlabeled Bottle (Unknown Content)**:\n   - Category: Beverages\n   - Count: 1\n\n7. **Unlabeled Bottle (Unknown Content)**:\n   - Category: Beverages\n   - Count: 1\n\n8. **Unlabeled Bottle (Unknown Content)**:\n   - Category: Beverages\n   - Count: 1\n\n9. **Unlabeled Bottle (Unknown Content)**:\n   - Category: Beverages\n   - Count: 1\n\n10. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n11. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n12. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n13. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n14. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n15. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n16. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n17. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n18. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n19. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n20. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n21. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n22. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n23. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n24. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n25. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n26. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n27. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n28. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n29. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n30. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n31. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n32. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n33. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n34. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n35. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n36. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n37. **Unlabeled Bottle (Unknown Content)**:\n    - Category: Beverages\n    - Count: 1\n\n38. **Unlabeled Bottle (Unknown Content)**:\n   "
+    },
+    {
+        "question_id": 104,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **Wine** - Category: Beverages\n   - Fine-grained category: Red Wine\n   - Count: 1 bottle\n\n2. **Prosecco** - Category: Beverages\n   - Fine-grained category: Sparkling Wine\n   - Count: 1 bottle\n\n3. **Linguine No. 6** - Category: Groceries\n   - Fine-grained category: Pasta\n   - Count: 1 package\n\n4. **Water** - Category: Beverages\n   - Fine-grained category: Still Water\n   - Count: 1 bottle\n\n5. **Seltzer Water** - Category: Beverages\n   - Fine-grained category: Sparkling Water\n   - Count: 1 bottle\n\n6. **Milk** - Category: Groceries\n   - Fine-grained category: Dairy\n   - Count: 1 carton\n\n7. **Juice** - Category: Groceries\n   - Fine-grained category: Fruit Juice\n   - Count: 1 bottle\n\n8. **Pasta** - Category: Groceries\n   - Fine-grained category: Pasta\n   - Count: 1 package\n\n9. **Lemon** - Category: Groceries\n   - Fine-grained category: Fruits\n   - Count: 1 fruit\n\n10. **Olive Oil** - Category: Groceries\n    - Fine-grained category: Cooking Oils\n    - Count: 1 bottle\n\n11. **Peanut Butter** - Category: Groceries\n    - Fine-grained category: Spreads\n    - Count: 1 jar\n\n12. **Tomato Sauce** - Category: Groceries\n    - Fine-grained category: Sauces\n    - Count: 1 jar\n\n13. **Garlic** - Category: Groceries\n    - Fine-grained category: Spices and Herbs\n    - Count: 1 bulb\n\n14. **Salt** - Category: Groceries\n    - Fine-grained category: Seasonings\n    - Count: 1 container\n\n15. **Pepper** - Category: Groceries\n    - Fine-grained category: Seasonings\n    - Count: 1 container\n\n16. **Nutmeg** - Category: Groceries\n    - Fine-grained category: Spices and Herbs\n    - Count: 1 container\n\n17. **Peanut Butter** - Category: Groceries\n    - Fine-grained category: Spreads\n    - Count: 1 jar\n\n18. **Cheese** - Category: Groceries\n    - Fine-grained category: Dairy\n    - Count: 1 block\n\n19. **Pasta** - Category: Groceries\n    - Fine-grained category: Pasta\n    - Count: 1 package\n\n20. **Tomato Sauce** - Category: Groceries\n    - Fine-grained category: Sauces\n    - Count: 1 jar\n\n21. **Peanut Butter** - Category: Groceries\n    - Fine-grained category: Spreads\n    - Count: 1 jar\n\n22. **Cheese** - Category: Groceries\n    - Fine-grained category: Dairy\n    - Count: 1 block\n\n23. **Tomato Sauce** - Category: Groceries\n    - Fine-grained category: Sauces\n    - Count: 1 jar\n\n24. **Peanut Butter** - Category: Groceries\n    - Fine-grained category: Spreads\n    - Count: 1 jar\n\n25. **Cheese** - Category: Groceries\n    - Fine-grained category: Dairy\n    - Count: 1 block\n\n26. **Tomato Sauce** - Category: Groceries\n    - Fine-grained category: Sauces\n    - Count: 1 jar\n\n27. **Peanut Butter** - Category: Groceries\n    - Fine-grained category: Spreads\n    - Count: 1 jar\n\n28. **Cheese** - Category: Groceries\n    - Fine-grained category: Dairy\n    - Count: 1 block\n\n29. **Tomato Sauce** - Category: Groceries\n    - Fine-grained category: Sauces\n    - Count: 1 jar\n\n30. **Peanut Butter** - Category: Groceries\n    - Fine-grained category: Spreads\n    - Count: 1 jar\n\n31. **Cheese** - Category: Groceries\n    - Fine-grained category: Dairy\n    - Count: 1 block\n\n32. **Tomato Sauce** - Category: Groceries\n    - Fine-grained category: Sauces\n    - Count: 1 jar\n\n33. **P"
+    },
+    {
+        "question_id": 105,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Der Franz** (Vienna beer) - Beer\n2. **Selters** (Sparkling water) - Beverages\n3. **Espresso** - Coffee\n4. **Linguine** (No. 6) - Pasta\n5. **Apples** - Fruits\n\nSo, the groceries and their counts are:\n- Beer: 1\n- Sparkling water: 1\n- Coffee: 1\n- Pasta: 1\n- Fruits: 1"
+    },
+    {
+        "question_id": 106,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. Linguine (pasta) - Food\n2. Seltzer water - Beverages\n3. Espresso - Beverages\n4. Apples - Fruits\n5. Wine - Beverages\n6. Beer - Beverages\n7. Bottle of oil - Beverages\n8. Bottle of sauce - Beverages\n\nTotal count: 8 items"
+    },
+    {
+        "question_id": 107,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and counts:\n\n1. **Nutella** - Chocolate Spread\n   - Category: Confectionery\n   - Count: 1\n\n2. **Der Franz Espresso** - Coffee\n   - Category: Coffee\n   - Count: 1\n\n3. **Apple** - Fruits\n   - Category: Fruits\n   - Count: 1\n\n4. **Seltzer Water** - Beverages\n   - Category: Beverages\n   - Count: 1\n\n5. **Grissini Breadsticks** - Snacks\n   - Category: Snacks\n   - Count: 1\n\n6. **BIO Lorbeer Blatter** - Seasoning\n   - Category: Seasonings\n   - Count: 1\n\n7. **BIO Lorbeer Blatter** - Seasoning\n   - Category: Seasonings\n   - Count: 1\n\n8. **Green Salad** - Vegetables\n   - Category: Vegetables\n   - Count: 1\n\n9. **Yellow Sauce** - Condiments\n   - Category: Condiments\n   - Count: 1\n\n10. **Lettuce** - Vegetables\n    - Category: Vegetables\n    - Count: 1\n\n11. **Red and Green Apple** - Fruits\n    - Category: Fruits\n    - Count: 1\n\n12. **Yellow Bottle** - Beverages\n    - Category: Beverages\n    - Count: 1\n\n13. **Black Bottle** - Beverages\n    - Category: Beverages\n    - Count: 1\n\n14. **Bread** - Bakery Items\n    - Category: Bakery Items\n    - Count: 1\n\n15. **Bread** - Bakery Items\n    - Category: Bakery Items\n    - Count: 1\n\n16. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n17. **Orange and Blue Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n18. **Green Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n19. **Brown Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n20. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n21. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n22. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n23. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n24. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n25. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n26. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n27. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n28. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n29. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n30. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n31. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n32. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n33. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n34. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n35. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n36. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n37. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n38. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n39. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n40. **Blue and White Bag** - Packaging\n    - Category: Packaging\n    - Count: 1\n\n41. **Blue and"
+    },
+    {
+        "question_id": 108,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories, fine-grained categories, and counts:\n\n1. **Jar with a yellow lid and red sticker**:\n   - Category: Food\n   - Fine-grained Category: Condiment or Spread\n   - Count: 1\n\n2. **Yellow bottle**:\n   - Category: Beverages\n   - Fine-grained Category: Juice or Vinegar\n   - Count: 1\n\n3. **Blue bottle with a silver cap**:\n   - Category: Beverages\n   - Fine-grained Category: Sparkling Water\n   - Count: 1\n\n4. **Bag of coffee beans**:\n   - Category: Beverages\n   - Fine-grained Category: Coffee Beans\n   - Count: 1\n\n5. **Apple**:\n   - Category: Fruits\n   - Fine-grained Category: Apple\n   - Count: 1\n\n6. **Pack of noodles**:\n   - Category: Groceries\n   - Fine-grained Category: Pasta\n   - Count: 1\n\n7. **Pack of dried seaweed**:\n   - Category: Groceries\n   - Fine-grained Category: Seafood\n   - Count: 1\n\n8. **Bag of espresso coffee**:\n   - Category: Beverages\n   - Fine-grained Category: Espresso Coffee\n   - Count: 1\n\n9. **Pack of chocolate bars**:\n   - Category: Groceries\n   - Fine-grained Category: Chocolate\n   - Count: 1\n\n10. **Pack of crackers**:\n    - Category: Groceries\n    - Fine-grained Category: Crackers\n    - Count: 1\n\n11. **Yellow bottle cap**:\n    - Category: Packaging\n    - Fine-grained Category: Bottle Cap\n    - Count: 1\n\n12. **Yellow bottle cap ring**:\n    - Category: Packaging\n    - Fine-grained Category: Bottle Cap Ring\n    - Count: 1\n\nThis list covers all the visible items in the image."
+    },
+    {
+        "question_id": 109,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Sure, here is the list of groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Banana**\n   - **Category**: Fruits\n   - **Fine-grained Category**: Banana\n   - **Count**: 1\n\n2. **Apple**\n   - **Category**: Fruits\n   - **Fine-grained Category**: Apple\n   - **Count**: 1\n\n3. **Bottle of Ketchup**\n   - **Category**: Condiments\n   - **Fine-grained Category**: Ketchup\n   - **Count**: 1\n\n4. **Loaf of Bread**\n   - **Category**: Baked Goods\n   - **Fine-grained Category**: Bread\n   - **Count**: 1\n\n5. **Loaf of Seltzer Water**\n   - **Category**: Beverages\n   - **Fine-grained Category**: Seltzer Water\n   - **Count**: 1\n\n6. **Loaf of Loaf Beer**\n   - **Category**: Beverages\n   - **Fine-grained Category**: Loaf Beer\n   - **Count**: 1\n\n7. **Pack of Pasta**\n   - **Category**: Groceries\n   - **Fine-grained Category**: Pasta\n   - **Count**: 1\n\n8. **Pack of Loaf Beer**\n   - **Category**: Beverages\n   - **Fine-grained Category**: Loaf Beer\n   - **Count**: 1\n\n9. **Potato**\n   - **Category**: Vegetables\n   - **Fine-grained Category**: Potato\n   - **Count**: 1\n\n10. **Pack of Loaf Beer**\n    - **Category**: Beverages\n    - **Fine-grained Category**: Loaf Beer\n    - **Count**: 1\n\nThis list covers all the items visible in the image and their respective categories and counts."
+    },
+    {
+        "question_id": 110,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories:\n\n1. **Banana**:\n   - Category: Fruit\n   - Fine-grained Category: Banana\n\n2. **Apple**:\n   - Category: Fruit\n   - Fine-grained Category: Apple\n\n3. **Pear**:\n   - Category: Fruit\n   - Fine-grained Category: Pear\n\n4. **Bottle of Seiter's**:\n   - Category: Beverage\n   - Fine-grained Category: Bottle of Seiter's\n\n5. **Bottle of a yellow liquid**:\n   - Category: Beverage\n   - Fine-grained Category: Bottle of a yellow liquid\n\n6. **Bottle of a blue liquid**:\n   - Category: Beverage\n   - Fine-grained Category: Bottle of a blue liquid\n\n7. **Loose leaf tea in a packet**:\n   - Category: Beverage\n   - Fine-grained Category: Loose leaf tea packet\n\n8. **Honey**:\n   - Category: Sweetener\n   - Fine-grained Category: Honey\n\n9. **Sticks of some sort**:\n   - Category: Snack\n   - Fine-grained Category: Sticks\n\n10. **Brown bag of snacks**:\n    - Category: Snack\n    - Fine-grained Category: Brown bag of snacks\n\n11. **A white jar with a yellow label**:\n    - Category: Container\n    - Fine-grained Category: White jar with a yellow label\n\n12. **Plastic bag with food**:\n    - Category: Packaging\n    - Fine-grained Category: Plastic bag with food\n\n13. **Paper towel with a pattern**:\n    - Category: Kitchen Item\n    - Fine-grained Category: Paper towel with a pattern\n\n14. **A green bag with a label**:\n    - Category: Packaging\n    - Fine-grained Category: Green bag with a label\n\nThis list includes all the visible items in the image, along with their respective categories and fine-grained categories."
+    },
+    {
+        "question_id": 111,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **Banana** - Fruits\n2. **Apple** - Fruits\n3. **Nutella** - Condiments\n4. **Sesame Seeds** - Spices\n5. **Sticks (possibly pasta)** - Dry Goods\n6. **Bread** - Bread\n7. **Sesame Seed Bag** - Spices\n\nCounts:\n- Fruits: 2 (1 banana, 1 apple)\n- Condiments: 1 (Nutella)\n- Spices: 2 (Sesame Seeds, Sesame Seed Bag)\n- Dry Goods: 1 (Sticks)\n- Bread: 1\n- Others: 1 (Bread)"
+    },
+    {
+        "question_id": 112,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Banana** - **Fruit**\n2. **Apple** - **Fruit**\n3. **Pasta** - **Pasta**\n4. **Peanut Butter** - **Nut Butter**\n5. **Bread** - **Bread**\n6. **Sesame Seeds** - **Grains**\n\nEach item has been categorized based on its type, and the counts are as follows:\n- **Fruit**: 2 items (Banana and Apple)\n- **Pasta**: 1 item\n- **Nut Butter**: 1 item\n- **Bread**: 1 item\n- **Grains**: 1 item (Sesame Seeds)"
+    },
+    {
+        "question_id": 113,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and counts:\n\n1. **Banana** - Fruits - 1\n2. **Apple** - Fruits - 1\n3. **Potato** - Vegetables - 1\n4. **Bread** - Bakery Products - 1\n5. **Nutella** - Confectionery - 1\n6. **Biscuits** - Snacks - 1\n7. **Oats** - Cereals - 1\n\nEach item has been categorized according to its primary use or type."
+    },
+    {
+        "question_id": 114,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Sure, here is the list of groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Banana (Fruit)**\n2. **Apple (Fruit)**\n3. **Pear (Fruit)**\n4. **Rye bread (Bread)**\n5. **Oatmeal bread (Bread)**\n6. **Cereal (Grocery)**\n7. **Nuts (Grocery)**\n8. **Fruit spread (Grocery)**\n\nEach item is listed with its primary category and a fine-grained category where applicable."
+    },
+    {
+        "question_id": 115,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and counts:\n\n1. **Banana (Fruit)**\n   - **Count:** 1\n\n2. **Apple (Fruit)**\n   - **Count:** 1\n\n3. **Pear (Fruit)**\n   - **Count:** 1\n\n4. **Potato (Vegetable)**\n   - **Count:** 1\n\n5. **Muffin (Baked Goods)**\n   - **Count:** 1\n\n6. **Green Apple (Fruit)**\n   - **Count:** 1\n\n7. **Loaf of Bread (Baked Goods)**\n   - **Count:** 1\n\n8. **Dried Cherries (Dried Fruit)**\n   - **Count:** 1\n\n9. **Pack of Frozen Vegetables (Frozen Foods)**\n   - **Count:** 1\n\n10. **Pack of Oats (Cereals/Grains)**\n    - **Count:** 1\n\n11. **Milk (Dairy)**\n    - **Count:** 1\n\n12. **Cereal (Cereals/Grains)**\n    - **Count:** 1\n\n13. **Jar of Jam (Condiments)**\n    - **Count:** 1\n\n14. **Pack of Butter (Butter)**\n    - **Count:** 1\n\n15. **Pack of Bread (Baked Goods)**\n    - **Count:** 1\n\n16. **Pack of Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n17. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n18. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n19. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n20. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n21. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n22. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n23. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n24. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n25. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n26. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n27. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n28. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n29. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n30. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n31. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n32. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n33. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n34. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n35. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n36. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n37. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n38. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n39. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n40. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n41. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n42. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n43. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n44. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n45. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n46. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n47. **Pack of Frozen Vegetables (Frozen Foods)**\n    - **Count:** 1\n\n48. **"
+    },
+    {
+        "question_id": 116,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Sure, here is the list of groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Banana**\n   - Category: Fruits\n   - Fine-grained Category: Banana\n   - Count: 1\n\n2. **Apple**\n   - Category: Fruits\n   - Fine-grained Category: Apple\n   - Count: 1\n\n3. **Pear**\n   - Category: Fruits\n   - Fine-grained Category: Pear\n   - Count: 1\n\n4. **Raisins**\n   - Category: Snacks\n   - Fine-grained Category: Raisins\n   - Count: 1\n\n5. **Nutella Jar**\n   - Category: Spreads\n   - Fine-grained Category: Nutella\n   - Count: 1\n\n6. **Bread**\n   - Category: Baked Goods\n   - Fine-grained Category: Bread\n   - Count: 1\n\n7. **Cornflakes**\n   - Category: Cereals\n   - Fine-grained Category: Cornflakes\n   - Count: 1\n\n8. **Green Apple**\n   - Category: Fruits\n   - Fine-grained Category: Green Apple\n   - Count: 1\n\n9. **Peanut Butter**\n   - Category: Spreads\n   - Fine-grained Category: Peanut Butter\n   - Count: 1\n\n10. **Mango**\n    - Category: Fruits\n    - Fine-grained Category: Mango\n    - Count: 1\n\nThis list includes all the visible groceries in the image along with their respective categories and counts."
+    },
+    {
+        "question_id": 117,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single grocery item:\n\n1. **Item**: Bottle\n   - **Category**: Beverages\n   - **Fine-grained Category**: Beer\n   - **Count**: 1"
+    },
+    {
+        "question_id": 118,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single item, which is a bottle. Here is the detailed breakdown:\n\n- **Grocery Item**: Bottle\n- **Category**: Beverages\n- **Subcategory**: Wine or Vinegar (depending on the contents, which are not specified in the image)\n\nSince there is only one item, the count is:\n\n- **Count**: 1\n\nThe bottle appears to be a dark glass bottle, which is commonly used for wine or vinegar."
+    },
+    {
+        "question_id": 119,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single item, which is a bottle. Here is the detailed breakdown:\n\n- **Item**: Bottle\n- **Category**: Drink\n- **Subcategory**: Alcohol\n- **Count**: 1 bottle\n\nThe bottle appears to be a wine bottle based on its shape and the presence of a label, which is typical for wine bottles."
+    },
+    {
+        "question_id": 120,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single object, which appears to be a gold-colored tissue box. Based on the description, here is the list of groceries along with their categories:\n\n1. **Gold-colored tissue box**:\n   - **Category**: Miscellaneous\n   - **Fine-grained Category**: Tissue Box\n   - **Count**: 1"
+    },
+    {
+        "question_id": 121,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows three cartons of milk, each with a different color label. Here is the list of groceries along with their categories, fine-grained categories, and counts:\n\n1. **Milk (Blue Carton)**\n   - Category: Dairy\n   - Fine-grained Category: Milk\n   - Count: 1\n\n2. **Milk (Green Carton)**\n   - Category: Dairy\n   - Fine-grained Category: Milk\n   - Count: 1\n\n3. **Milk (Yellow Carton)**\n   - Category: Dairy\n   - Fine-grained Category: Milk\n   - Count: 1\n\nThere are a total of 3 cartons of milk in the image."
+    },
+    {
+        "question_id": 122,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a bottle of soy sauce on a wooden surface. Based on the visible details, here is the list of groceries along with their categories and counts:\n\n- **Soy Sauce**: This is a liquid condiment, typically made from fermented soybeans. It is commonly used in various Asian cuisines. There is **1 bottle** of soy sauce in the image."
+    },
+    {
+        "question_id": 123,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of instant noodles. Here is the detailed information:\n\n- **Grocery**: Instant noodles\n- **Category**: Pasta\n- **Fine-grained Category**: Instant noodles\n\nThere is 1 package of instant noodles in the image."
+    },
+    {
+        "question_id": 124,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a bottle of liquid on a wooden surface. Here are the groceries and their categorizations:\n\n1. **Bottle of Liquid**\n   - **Category**: Beverages\n   - **Fine-Grained Category**: Unspecified type of beverage (e.g., soda, juice, water)\n   - **Count**: 1"
+    },
+    {
+        "question_id": 125,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single item, which is a bottle of liquid. Here are the details:\n\n- **Item**: Bottle of Liquid\n- **Category**: Beverages\n- **Fine-Grained Category**: Not specified\n- **Count**: 1\n\nThis bottle appears to be a type of drink, possibly a soft drink or a juice, but the specific type cannot be determined from the image alone."
+    },
+    {
+        "question_id": 126,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of green onions. Here is the breakdown:\n\n- **Grocery**: Green onions\n- **Category**: Vegetables\n- **Fine-grained Category**: Green onions\n- **Count**: 1 package"
+    },
+    {
+        "question_id": 127,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single grocery item, which is a bottle of \"BIO\" dishwashing liquid. Here are the details:\n\n- **Grocery Item:** Dishwashing Liquid\n- **Category:** Cleaning Supplies\n- **Fine-Grained Category:** Dishwashing Liquid\n- **Count:** 1 bottle\n\nThis is a green bottle of dishwashing liquid with a green cap."
+    },
+    {
+        "question_id": 128,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a jar on a wooden floor. Based on the visible details, the groceries in the image and their categories are:\n\n1. **Jar (Food)**: This is a container typically used for storing food items. The jar contains what appears to be olives or similar items.\n\n2. **Olives (Food)**: These are the contents of the jar. They are small, round, and likely preserved in a liquid, possibly olive oil.\n\n3. **Lid (Accessories)**: The jar has a lid, which is an accessory used to seal the jar and keep its contents fresh.\n\n4. **Label (Packaging)**: The jar has a label, which is part of the packaging used to identify the contents and provide information about the product.\n\n5. **Wooden Floor (Furniture)**: The jar is placed on a wooden floor, which is a type of furniture or flooring material."
+    },
+    {
+        "question_id": 129,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a jar of blueberry jam on a wooden floor. Here is the breakdown:\n\n### Groceries:\n1. **Blueberry Jam**\n\n### Categories:\n1. **Groceries**\n\n### Fine-Grained Categories:\n1. **Blueberry Jam**\n\n### Counts:\n1. **1 jar of Blueberry Jam**"
+    },
+    {
+        "question_id": 130,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single item, which appears to be a container of soup or a similar food product. Based on the visible details:\n\n- **Grocery Item:** Soup\n- **Category:** Food\n- **Fine-Grained Category:** Soup or Instant Soup Mix\n\nThere is only one item in the image, so the count is:\n\n- **Count:** 1"
+    },
+    {
+        "question_id": 131,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single grocery item:\n\n- **Item**: Pesto sauce\n- **Category**: Pasta sauce\n- **Fine-grained Category**: Tomato-based sauce\n- **Count**: 1 jar"
+    },
+    {
+        "question_id": 132,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single item, which appears to be a container of yogurt. Here is the list:\n\n1. **Grocery Item**: Skyr Yogurt\n   - **Category**: Dairy\n   - **Fine-Grained Category**: Yogurt\n   - **Count**: 1"
+    },
+    {
+        "question_id": 133,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a plastic bag containing leafy green vegetables. Based on the visible characteristics, the groceries in the image can be categorized as follows:\n\n### Categories:\n1. Vegetables\n2. Leafy Greens\n\n### Fine-Grained Categories:\n1. Leafy Greens\n   - **Count**: 2\n\n### Description:\n- The bag contains two leafy green vegetables, likely lettuce or similar leafy greens."
+    },
+    {
+        "question_id": 134,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of greens, likely spinach or a similar leafy vegetable. Here is the list of groceries:\n\n1. **Greens (Leafy Vegetables)**\n   - **Category**: Vegetables\n   - **Fine-grained Category**: Leafy Greens\n   - **Count**: 1 package\n\nThere are no other visible groceries in the image."
+    },
+    {
+        "question_id": 135,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of fresh greens, likely salad greens or leafy vegetables. Here is the breakdown:\n\n- **Category**: Vegetables\n- **Fine-grained Category**: Leafy Greens\n- **Count**: 1 package\n\nThe package contains fresh, green leaves, which are commonly used in salads and other vegetable dishes."
+    },
+    {
+        "question_id": 136,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single grocery item:\n\n- Garlic (1 count)"
+    },
+    {
+        "question_id": 137,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of salami. Here are the details:\n\n- **Grocery**: Salami\n- **Category**: Meat\n- **Fine-grained Category**: Delicatessen meat\n- **Count**: 1 package\n\nThe package contains multiple slices of salami."
+    },
+    {
+        "question_id": 138,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a plastic container with a label, but the label is not clearly readable. However, based on the visual content, the container appears to contain some form of food product. Here is the best guess based on the image:\n\n1. **Mushrooms** (category: Vegetables, fine-grained category: Mushrooms, count: 1 container)\n   - The container looks like it might be filled with mushrooms, which are a type of vegetable.\n\n2. **Green Beans** (category: Vegetables, fine-grained category: Green Beans, count: 1 container)\n   - The container also looks like it might be filled with green beans, which are another type of vegetable.\n\n3. **Mixed Vegetables** (category: Vegetables, fine-grained category: Mixed Vegetables, count: 1 container)\n   - There might be a mixed vegetable container, which could include a variety of vegetables.\n\nPlease note that the exact contents are not clearly visible, and this is an educated guess based on the visual appearance of the containers."
+    },
+    {
+        "question_id": 139,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains the following groceries:\n\n1. **Olive Oil**:\n   - **Category**: Cooking Oil\n   - **Fine-Grained Category**: Olive Oil\n   - **Count**: 1 bottle\n\n2. **Yogurt**:\n   - **Category**: Dairy\n   - **Fine-Grained Category**: Yogurt\n   - **Count**: 2 containers\n\n3. **Soy Milk**:\n   - **Category**: Dairy\n   - **Fine-Grained Category**: Soy Milk\n   - **Count**: 1 container"
+    },
+    {
+        "question_id": 140,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows the following groceries:\n\n1. **Grocery Category**: Oils and Vinegars\n   - **Fine-Grained Category**: Olive Oil\n   - **Count**: 1 bottle\n\n2. **Grocery Category**: Yogurt\n   - **Fine-Grained Category**: Skyr\n   - **Count**: 1 container\n\n3. **Grocery Category**: Beverages\n   - **Fine-Grained Category**: None\n   - **Count**: 0\n\nThe total number of groceries in the image is 2."
+    },
+    {
+        "question_id": 141,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories, fine-grained categories, and counts:\n\n1. **Bottle of Olive Oil**\n   - Category: Cooking Oil\n   - Count: 1\n\n2. **Skyr Yogurt**\n   - Category: Dairy Products\n   - Count: 1\n\n3. **Tea Bag**\n   - Category: Beverages\n   - Count: 1\n\nThe image shows three items: a bottle of olive oil, a container of Skyr yogurt, and a tea bag."
+    },
+    {
+        "question_id": 142,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories, fine-grained categories, and counts:\n\n1. **Skyr Yogurt**:\n   - Category: Dairy Products\n   - Fine-grained Category: Yogurt\n   - Count: 1\n\n2. **Honey**:\n   - Category: Beverages\n   - Fine-grained Category: Honey\n   - Count: 1\n\n3. **Milk**:\n   - Category: Dairy Products\n   - Fine-grained Category: Milk\n   - Count: 1\n\nThe total count of groceries in the image is 3."
+    },
+    {
+        "question_id": 143,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here are the groceries in the image along with their categories and counts:\n\n1. **Honey**:\n   - Category: Condiments\n   - Count: 1 bottle\n\n2. **Yogurt**:\n   - Category: Dairy Products\n   - Count: 1 container\n\n3. **Spices**:\n   - Category: Spices and Herbs\n   - Count: 2 containers\n\nThese are the items visible in the image."
+    },
+    {
+        "question_id": 144,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here are the groceries in the image, along with their categories, fine-grained categories, and counts:\n\n1. **Honey (category: Beverages)**\n   - Fine-grained category: Honey\n   - Count: 1 bottle\n\n2. **Granola Bars (category: Snacks)**\n   - Fine-grained category: Granola Bars\n   - Count: 1 packet\n\n3. **Cinnamon (category: Spices)**\n   - Fine-grained category: Cinnamon\n   - Count: 1 canister\n\n4. **Paprika (category: Spices)**\n   - Fine-grained category: Paprika\n   - Count: 1 canister\n\n5. **Salt (category: Spices)**\n   - Fine-grained category: Salt\n   - Count: 1 canister\n\nTotal count: 5 items"
+    },
+    {
+        "question_id": 145,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows three groceries:\n\n1. **Green-lidded jar** - **Category**: Containers\n   - **Fine-grained Category**: Jars\n   - **Count**: 1\n\n2. **Honey bottle** - **Category**: Beverages\n   - **Fine-grained Category**: Honey\n   - **Count**: 1\n\n3. **Granola bar** - **Category**: Snacks\n   - **Fine-grained Category**: Granola Bars\n   - **Count**: 1"
+    },
+    {
+        "question_id": 146,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here are the groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Green Jar with a Green Lid**:\n   - Category: Containers\n   - Fine-grained Category: Glass Jar with Lid\n   - Count: 1\n\n2. **Honey Bottle**:\n   - Category: Beverages\n   - Fine-grained Category: Honey\n   - Count: 1\n\n3. **Blue Bag of Granola**:\n   - Category: Cereals and Snacks\n   - Fine-grained Category: Granola\n   - Count: 1\n\n4. **Green Net Bag with Fruits**:\n   - Category: Fruits\n   - Fine-grained Category: Pears\n   - Count: 2\n\n5. **White Bag with a Green Handle**:\n   - Category: Food Storage\n   - Fine-grained Category: Produce Bag\n   - Count: 1\n\n6. **Green and Yellow Container**:\n   - Category: Food Storage\n   - Fine-grained Category: Container\n   - Count: 1\n\nTotal Count: 6 items"
+    },
+    {
+        "question_id": 147,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here are the groceries in the image along with their categories and counts:\n\n1. **Green Jar (Container)**\n   - Category: Kitchen Utensils\n   - Fine-Grained Category: Jars\n   - Count: 1\n\n2. **Honey Bottle**\n   - Category: Condiments\n   - Fine-Grained Category: Honey\n   - Count: 1\n\n3. **Limes in a Net Bag**\n   - Category: Fruits\n   - Fine-Grained Category: Limes\n   - Count: 4\n\n4. **Blue Pouch (Bag)**\n   - Category: Packaging\n   - Fine-Grained Category: Snack Bags\n   - Count: 1\n\n5. **Receipt**\n   - Category: Miscellaneous\n   - Fine-Grained Category: Paper\n   - Count: 1"
+    },
+    {
+        "question_id": 148,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows the following groceries:\n\n1. **Grocery 1:**\n   - **Category:** Unspecified\n   - **Fine-grained Category:** Unspecified\n   - **Count:** 1\n\n2. **Grocery 2:**\n   - **Category:** Coffee\n   - **Fine-grained Category:** Ground Coffee\n   - **Count:** 1\n\n3. **Grocery 3:**\n   - **Category:** Fruits\n   - **Fine-grained Category:** Apples\n   - **Count:** 4\n\n4. **Grocery 4:**\n   - **Category:** Beverages\n   - **Fine-grained Category:** Tea\n   - **Count:** 1"
+    },
+    {
+        "question_id": 149,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here are the groceries listed along with their categories and counts:\n\n1. **Grocery Category**: Snacks\n   - **Fine-Grained Category**: Snack Bars\n   - **Count**: 1 (a bag of mixed peppercorns)\n\n2. **Grocery Category**: Beverages\n   - **Fine-Grained Category**: Tea\n   - **Count**: 2 (two boxes of tea)\n\n3. **Grocery Category**: Fruits\n   - **Fine-Grained Category**: Citrus Fruits\n   - **Count**: 1 (a net bag of limes)\n\n4. **Grocery Category**: Containers\n   - **Fine-Grained Category**: Storage Containers\n   - **Count**: 1 (a green-lidded container)\n\nThese items are placed on a wooden surface."
+    },
+    {
+        "question_id": 150,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and counts:\n\n1. **Grocery Item**: A jar of pickled peppers.\n   - **Category**: Vegetables\n   - **Subcategory**: Pickled Vegetables\n   - **Count**: 1\n\n2. **Grocery Item**: A jar of peanut butter.\n   - **Category**: Spreads\n   - **Subcategory**: Peanut Butter\n   - **Count**: 1\n\n3. **Grocery Item**: A box of tea.\n   - **Category**: Beverages\n   - **Subcategory**: Tea\n   - **Count**: 1\n\nSo, the list includes:\n- 1 jar of pickled peppers (Vegetables, Pickled Vegetables)\n- 1 jar of peanut butter (Spreads, Peanut Butter)\n- 1 box of tea (Beverages, Tea)"
+    },
+    {
+        "question_id": 151,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows the following groceries:\n\n1. **Grocery Category:** Pickled Peppers\n   - **Fine-Grained Category:** Pickled Red and Yellow Peppers\n   - **Count:** 1 jar\n\n2. **Grocery Category:** Peanut Butter\n   - **Fine-Grained Category:** Smooth Peanut Butter\n   - **Count:** 1 jar\n\n3. **Grocery Category:** Tea\n   - **Fine-Grained Category:** Lemon Tea\n   - **Count:** 1 box"
+    },
+    {
+        "question_id": 152,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows the following groceries:\n\n1. **Jar of Pickled Vegetables**\n   - **Category:** Preserved Food\n   - **Fine-Grained Category:** Pickled Vegetables\n   - **Count:** 1\n\n2. **Jar of Peanut Butter**\n   - **Category:** Spreads\n   - **Fine-Grained Category:** Peanut Butter\n   - **Count:** 1\n\n3. **Box of Tea**\n   - **Category:** Beverages\n   - **Fine-Grained Category:** Tea\n   - **Count:** 1"
+    },
+    {
+        "question_id": 153,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **Grocery Category**: Canned goods\n   - **Fine-grained Category**: Canned vegetables\n   - **Count**: 1\n\n2. **Grocery Category**: Condiments\n   - **Fine-grained Category**: Condiments (e.g., spice)\n   - **Count**: 1\n\n3. **Grocery Category**: Canned goods\n   - **Fine-grained Category**: Canned vegetables\n   - **Count**: 1\n\n4. **Grocery Category**: Canned goods\n   - **Fine-grained Category**: Canned vegetables\n   - **Count**: 1\n\n5. **Grocery Category**: Canned goods\n   - **Fine-grained Category**: Canned vegetables\n   - **Count**: 1\n\n6. **Grocery Category**: Canned goods\n   - **Fine-grained Category**: Canned vegetables\n   - **Count**: 1\n\n7. **Grocery Category**: Canned goods\n   - **Fine-grained Category**: Canned vegetables\n   - **Count**: 1\n\n8. **Grocery Category**: Canned goods\n   - **Fine-grained Category**: Canned vegetables\n   - **Count**: 1\n\n9. **Grocery Category**: Canned goods\n   - **Fine-grained Category**: Canned vegetables\n   - **Count**: 1\n\n10. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n11. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n12. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n13. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n14. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n15. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n16. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n17. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n18. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n19. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n20. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n21. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n22. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n23. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n24. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n25. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n26. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n27. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n28. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n29. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n30. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n31. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**: 1\n\n32. **Grocery Category**: Canned goods\n    - **Fine-grained Category**: Canned vegetables\n    - **Count**:"
+    },
+    {
+        "question_id": 154,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Box of Bax Recharge Jod + Iodine Flavour**\n   - **Category:** Grocery\n   - **Fine-grained Category:** Salt and Seasonings\n\n2. **Jar of Mixed Pickled Vegetables**\n   - **Category:** Grocery\n   - **Fine-grained Category:** Pickles and Preserves\n\n3. **Can of Green Peas**\n   - **Category:** Grocery\n   - **Fine-grained Category:** Canned Vegetables\n\n4. **Jar of Biltmore Seasoning**\n   - **Category:** Grocery\n   - **Fine-grained Category:** Spices and Seasonings\n\n5. **Jar of Delicia Delicato Pesto**\n   - **Category:** Grocery\n   - **Fine-grained Category:** Pasta Sauces and Pesto\n\n**Counts:**\n- **Grocery:** 5 items\n- **Salt and Seasonings:** 2 items (Bax Recharge Jod + Iodine Flavour, Biltmore Seasoning)\n- **Pickles and Preserves:** 1 item (Mixed Pickled Vegetables)\n- **Canned Vegetables:** 1 item (Green Peas)\n- **Pasta Sauces and Pesto:** 1 item (Delicia Delicato Pesto)"
+    },
+    {
+        "question_id": 155,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and counts:\n\n1. **Cranberries (Food)**: A bag of cranberries.\n2. **Milk (Grocery)**: A carton of milk.\n3. **Spice (Grocery)**: A jar of spice.\n\nEach item is listed with its corresponding category and count."
+    },
+    {
+        "question_id": 156,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows two bags of groceries on a wooden surface. Here is the list with their categories, fine-grained categories, and counts:\n\n1. **Cranberries**\n   - Category: Berries\n   - Fine-grained Category: Dried Cranberries\n   - Count: 1 bag\n\n2. **Tea**\n   - Category: Beverages\n   - Fine-grained Category: Tea\n   - Count: 1 pack\n\nThese are the groceries visible in the image."
+    },
+    {
+        "question_id": 157,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows three grocery items on a wooden surface. Here are the details:\n\n1. **Item 1:**\n   - **Category:** Berries\n   - **Subcategory:** Cranberries\n   - **Count:** 1 pack\n\n2. **Item 2:**\n   - **Category:** Tea\n   - **Subcategory:** Organic (Bio)\n   - **Count:** 1 box\n\n3. **Item 3:**\n   - **Category:** Cereal\n   - **Subcategory:** Oatmeal (Porridge)\n   - **Count:** 1 pack\n\nThese are the three grocery items present in the image."
+    },
+    {
+        "question_id": 158,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows three grocery items on a wooden surface. Here are the details:\n\n1. **Blue Bag (Left)**\n   - **Category:** Bag\n   - **Fine-Grained Category:** Paper Bag\n   - **Count:** 1\n\n2. **Box (Top Right)**\n   - **Category:** Box\n   - **Fine-Grained Category:** Cardboard Box\n   - **Count:** 1\n\n3. **Brown Bag (Bottom Right)**\n   - **Category:** Bag\n   - **Fine-Grained Category:** Paper Bag\n   - **Count:** 1\n\nSo, the groceries in the image are:\n- 1 Paper Bag\n- 1 Cardboard Box\n- 1 Paper Bag"
+    },
+    {
+        "question_id": 159,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows three grocery items:\n\n1. **Item 1:**\n   - **Category:** Box\n   - **Fine-grained Category:** Food Box\n   - **Count:** 1\n\n2. **Item 2:**\n   - **Category:** Box\n   - **Fine-grained Category:** Food Box\n   - **Count:** 1\n\n3. **Item 3:**\n   - **Category:** Bag\n   - **Fine-grained Category:** Paper Bag\n   - **Count:** 1"
+    },
+    {
+        "question_id": 160,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows the following groceries:\n\n1. **Box of SpeiseSt\u00e4rke (Food Starch)**\n   - **Category:** Dry Goods\n   - **Fine-Grained Category:** Food Starch\n   - **Count:** 1\n\n2. **Box of Bio (Organic) Instant Noodles**\n   - **Category:** Noodles\n   - **Fine-Grained Category:** Organic Instant Noodles\n   - **Count:** 1\n\n3. **Blue Bag (Assumed to be a Bag of Groceries or Snacks)**\n   - **Category:** Groceries/Snacks\n   - **Fine-Grained Category:** Bag of Groceries/Snacks\n   - **Count:** 1\n\n4. **Jar of Sciala (Assumed to be a Jar of Jam or Honey)**\n   - **Category:** Condiments\n   - **Fine-Grained Category:** Jam/Honey\n   - **Count:** 1"
+    },
+    {
+        "question_id": 161,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains the following groceries:\n\n1. **Category:** Canned goods\n   - **Fine-grained category:** Canned meat\n   - **Count:** 1\n\n2. **Category:** Canned goods\n   - **Fine-grained category:** Canned sauce\n   - **Count:** 1\n\n3. **Category:** Canned goods\n   - **Fine-grained category:** Canned vegetables\n   - **Count:** 1\n\n4. **Category:** Boxed goods\n   - **Fine-grained category:** Boxed food product\n   - **Count:** 2\n\nIn total, there are 4 groceries in the image."
+    },
+    {
+        "question_id": 162,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and counts:\n\n1. **Soda** - **Drinks**\n2. **Canned Food** - **Grocery**\n3. **Cereal Box** - **Grocery**\n\nSo, there are three items in total."
+    },
+    {
+        "question_id": 163,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image and their categories are as follows:\n\n1. **Hot Sauce**:\n   - Category: Condiment\n   - Subcategory: Hot Sauce\n\n2. **Coconut Milk**:\n   - Category: Dairy\n   - Subcategory: Coconut Milk\n\n3. **Soy Sauce**:\n   - Category: Condiment\n   - Subcategory: Soy Sauce\n\n4. **Tea**:\n   - Category: Beverage\n   - Subcategory: Tea\n\nThe counts of each category are:\n- **Condiment**: 2 items\n- **Dairy**: 1 item\n- **Beverage**: 1 item"
+    },
+    {
+        "question_id": 164,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image and their categories are as follows:\n\n1. **Soy Sauce Bottle**:\n   - **Category**: Condiments\n   - **Subcategory**: Soy Sauce\n\n2. **Hot Sauce Bottle**:\n   - **Category**: Condiments\n   - **Subcategory**: Hot Sauce\n\n3. **Box of Tea**:\n   - **Category**: Beverages\n   - **Subcategory**: Tea\n\nThere are three items in total."
+    },
+    {
+        "question_id": 165,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains the following groceries:\n\n- **Grocery Type**: Onions\n- **Fine-Grained Category**: Red Onions\n- **Count**: 2\n\nSo, the list is:\n\n1. Red Onions (2)"
+    },
+    {
+        "question_id": 166,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows the following groceries:\n\n1. **Bottle with a blue label and a white star (likely a beer)**:\n   - Category: Beverages\n   - Fine-grained category: Beer\n   - Count: 1\n\n2. **Bottle with a red and black label (likely a cola or soda)**:\n   - Category: Beverages\n   - Fine-grained category: Soda\n   - Count: 1\n\n3. **Bottle with a green cap (likely a hot sauce)**:\n   - Category: Condiments\n   - Fine-grained category: Hot Sauce\n   - Count: 1\n\n4. **Box of tea (likely a green tea)**:\n   - Category: Beverages\n   - Fine-grained category: Tea\n   - Count: 1\n\n5. **Bottle with a red cap (likely soy sauce)**:\n   - Category: Condiments\n   - Fine-grained category: Soy Sauce\n   - Count: 1\n\nIn total, there are 5 items in the image."
+    },
+    {
+        "question_id": 167,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows the following groceries:\n\n1. **Bottle with a blue label**:\n   - Category: Beverages\n   - Fine-grained Category: Beer\n   - Count: 1\n\n2. **Bottle with a red and white label**:\n   - Category: Beverages\n   - Fine-grained Category: Beer\n   - Count: 1\n\n3. **Box labeled \"BIO\"**:\n   - Category: Groceries\n   - Fine-grained Category: Organic Food\n   - Count: 1\n\n4. **Bag with a red and white label**:\n   - Category: Groceries\n   - Fine-grained Category: Snacks or Chips\n   - Count: 1\n\nTotal Groceries: 4"
+    },
+    {
+        "question_id": 168,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **Beer Bottle (Non-alcoholic, Seltzer)**: This is a non-alcoholic beer bottle with a blue label. It falls under the category of beverages.\n2. **Fruit Juice Box (Peach)**: This is a box of peach-flavored fruit juice. It falls under the category of beverages.\n3. **Salad Dressing (Mayonnaise)**: This is a box of mayonnaise salad dressing. It falls under the category of condiments.\n4. **Tea Box (Bio)**: This is a box of organic tea. It falls under the category of beverages.\n5. **Chips Bag (Unsalted)**: This is a bag of unsalted chips. It falls under the category of snacks.\n\nCounts:\n- **Beer Bottle**: 1\n- **Fruit Juice Box**: 1\n- **Salad Dressing**: 1\n- **Tea Box**: 1\n- **Chips Bag**: 1"
+    },
+    {
+        "question_id": 169,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows three grocery items on a wooden surface. Here is the list along with their categories and fine-grained categories:\n\n1. **Item 1:**\n   - **Category:** Snack\n   - **Fine-grained Category:** BBQ Chips\n   - **Count:** 1\n\n2. **Item 2:**\n   - **Category:** Beverage\n   - **Fine-grained Category:** Coffee\n   - **Count:** 1\n\n3. **Item 3:**\n   - **Category:** Snack\n   - **Fine-grained Category:** Potato Chips\n   - **Count:** 1\n\nThese items are placed on a wooden surface, and the categories and counts are as described above."
+    },
+    {
+        "question_id": 170,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are:\n\n1. **Ketchup (Condiment)**\n   - **Category:** Condiment\n   - **Fine-grained Category:** Tomato-based sauce\n   - **Count:** 1\n\n2. **Chili Sauce (Condiment)**\n   - **Category:** Condiment\n   - **Fine-grained Category:** Chili-based sauce\n   - **Count:** 1\n\n3. **BBQ Sauce (Condiment)**\n   - **Category:** Condiment\n   - **Fine-grained Category:** Barbecue sauce\n   - **Count:** 1\n\n4. **Yellow Sauce (Condiment)**\n   - **Category:** Condiment\n   - **Fine-grained Category:** Mayonnaise\n   - **Count:** 1\n\n5. **Yellow Box (Packaging)**\n   - **Category:** Packaging\n   - **Fine-grained Category:** Storage container\n   - **Count:** 1\n\n6. **Red Bottle (Condiment)**\n   - **Category:** Condiment\n   - **Fine-grained Category:** Mustard\n   - **Count:** 1"
+    },
+    {
+        "question_id": 171,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here are the groceries in the image, along with their categories and counts:\n\n1. **Yellow Box (United BBQ)**\n   - Category: Groceries\n   - Fine-grained Category: Seasoning or BBQ Sauce\n   - Count: 1\n\n2. **Red Bottle (Tomato Sauce)**\n   - Category: Groceries\n   - Fine-grained Category: Pasta Sauce or Marinara Sauce\n   - Count: 1\n\n3. **Blue Jar (Blueberry Jam)**\n   - Category: Groceries\n   - Fine-grained Category: Jam or Spread\n   - Count: 1\n\n4. **Orange Bottle (Orange Juice)**\n   - Category: Groceries\n   - Fine-grained Category: Juice\n   - Count: 1"
+    },
+    {
+        "question_id": 172,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Jar with Blueberries**:\n   - Category: Fruits\n   - Fine-grained Category: Blueberry Jam or Spread\n\n2. **Jar with an Open Lid**:\n   - Category: Canned Goods\n   - Fine-grained Category: Canned Blueberries or Canned Fruits\n\n3. **Bottle of Orange Juice**:\n   - Category: Beverages\n   - Fine-grained Category: Orange Juice\n\n4. **Bottle with a Red Cap**:\n   - Category: Beverages\n   - Fine-grained Category: Orange Juice (likely a different brand or flavor)\n\nThere are four items in total."
+    },
+    {
+        "question_id": 173,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows four jars on a wooden surface. Here is the list of groceries, their categories, fine-grained categories, and counts:\n\n1. **Jars**\n   - **Category**: Containers\n   - **Fine-grained Category**: Food Jars\n   - **Count**: 4\n\nThe jars are not filled with food, but they are likely used for storing food items."
+    },
+    {
+        "question_id": 174,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Sure, here are the groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Jars**:\n   - Category: Food Storage\n   - Fine-grained Category: Jars\n   - Count: 3\n\n2. **Onions**:\n   - Category: Vegetables\n   - Fine-grained Category: Onions\n   - Count: 2\n\nThese are the items present in the image."
+    },
+    {
+        "question_id": 175,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Sure, here is the list of groceries in the image along with their categories and counts:\n\n1. **Canned Food (1)**\n   - Category: Canned Food\n   - Count: 1\n\n2. **Blueberry Jam (1)**\n   - Category: Blueberry Jam\n   - Count: 1\n\n3. **Condiment (1)**\n   - Category: Condiment\n   - Count: 1\n\n4. **Onions (4)**\n   - Category: Vegetables\n   - Count: 4\n\nThese are the items present in the image."
+    },
+    {
+        "question_id": 176,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories, fine-grained categories, and counts:\n\n1. **Red Onions**:\n   - Category: Vegetables\n   - Fine-grained Category: Onions\n   - Count: 5\n\n2. **Garlic**:\n   - Category: Vegetables\n   - Fine-grained Category: Garlic\n   - Count: 1\n\n3. **Jar with Green Lid**:\n   - Category: Condiments\n   - Fine-grained Category: Jars\n   - Count: 1\n\n4. **Jar with Purple Lid**:\n   - Category: Condiments\n   - Fine-grained Category: Jars\n   - Count: 1\n\nTotal items: 4"
+    },
+    {
+        "question_id": 177,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Sure, here are the groceries in the image along with their categories, fine-grained categories, and counts:\n\n1. **Pasta (Fine-grained category: Food)** - Count: 1\n2. **Garlic (Fine-grained category: Vegetable)** - Count: 1\n3. **Onion (Fine-grained category: Vegetable)** - Count: 1\n4. **Spices (Fine-grained category: Condiment)** - Count: 2\n\nThese are the items visible in the image."
+    },
+    {
+        "question_id": 178,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **Grocery Category**: Cereal\n   - **Fine-Grained Category**: Organic Cereal\n   - **Count**: 1 box\n\n2. **Grocery Category**: Milk\n   - **Fine-Grained Category**: Milk\n   - **Count**: 1 bag\n\n3. **Grocery Category**: Spread\n   - **Fine-Grained Category**: Peanut Butter\n   - **Count**: 1 jar\n\n4. **Grocery Category**: Vegetable\n   - **Fine-Grained Category**: Onion\n   - **Count**: 1 piece"
+    },
+    {
+        "question_id": 179,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here are the groceries listed along with their categories, fine-grained categories, and counts:\n\n1. **Cocoa (Bio)**:\n   - Category: Baking Supplies\n   - Fine-grained Category: Cocoa\n   - Count: 1 box\n\n2. **Flour**:\n   - Category: Baking Supplies\n   - Fine-grained Category: Flour\n   - Count: 1 bag\n\n3. **Sugar**:\n   - Category: Sweeteners\n   - Fine-grained Category: Sugar\n   - Count: 1 bag\n\n4. **Vanilla Extract**:\n   - Category: Baking Supplies\n   - Fine-grained Category: Vanilla Extract\n   - Count: 1 bottle\n\n5. **Eggs**:\n   - Category: Dairy Products\n   - Fine-grained Category: Eggs\n   - Count: 1 pack\n\n6. **Butter**:\n   - Category: Dairy Products\n   - Fine-grained Category: Butter\n   - Count: 1 stick\n\n7. **Raisins**:\n   - Category: Dried Fruits\n   - Fine-grained Category: Raisins\n   - Count: 1 pack\n\n8. **Onion**:\n   - Category: Vegetables\n   - Fine-grained Category: Onion\n   - Count: 1 piece\n\n9. **Milk**:\n   - Category: Dairy Products\n   - Fine-grained Category: Milk\n   - Count: 1 bottle\n\n10. **Margarine**:\n    - Category: Cooking Fats\n    - Fine-grained Category: Margarine\n    - Count: 1 container\n\n11. **Soy Sauce**:\n    - Category: Condiments\n    - Fine-grained Category: Soy Sauce\n    - Count: 1 bottle\n\n12. **Salt**:\n    - Category: Cooking Ingredients\n    - Fine-grained Category: Salt\n    - Count: 1 bag\n\n13. **Pepper**:\n    - Category: Spices\n    - Fine-grained Category: Pepper\n    - Count: 1 container\n\n14. **Garlic**:\n    - Category: Vegetables\n    - Fine-grained Category: Garlic\n    - Count: 1 clove\n\n15. **Tomatoes**:\n    - Category: Vegetables\n    - Fine-grained Category: Tomatoes\n    - Count: 1 pack\n\n16. **Lemon**:\n    - Category: Fruits\n    - Fine-grained Category: Lemon\n    - Count: 1 piece\n\n17. **Lemon Juice**:\n    - Category: Cooking Ingredients\n    - Fine-grained Category: Lemon Juice\n    - Count: 1 bottle\n\n18. **Pasta**:\n    - Category: Pasta\n    - Fine-grained Category: Pasta\n    - Count: 1 pack\n\n19. **Dried Beans**:\n    - Category: Canned Goods\n    - Fine-grained Category: Dried Beans\n    - Count: 1 can\n\n20. **Olive Oil**:\n    - Category: Cooking Oils\n    - Fine-grained Category: Olive Oil\n    - Count: 1 bottle\n\n21. **Pasta**:\n    - Category: Pasta\n    - Fine-grained Category: Pasta\n    - Count: 1 pack\n\n22. **Olive Oil**:\n    - Category: Cooking Oils\n    - Fine-grained Category: Olive Oil\n    - Count: 1 bottle\n\n23. **Pasta**:\n    - Category: Pasta\n    - Fine-grained Category: Pasta\n    - Count: 1 pack\n\n24. **Olive Oil**:\n    - Category: Cooking Oils\n    - Fine-grained Category: Olive Oil\n    - Count: 1 bottle\n\n25. **Pasta**:\n    - Category: Pasta\n    - Fine-grained Category: Pasta\n    - Count: 1 pack\n\n26. **Olive Oil**:\n    - Category: Cooking Oils\n    - Fine-grained Category: Olive Oil\n    - Count: 1 bottle\n\n27. **Pasta**:\n    - Category: Pasta\n    - Fine-grained Category: Pasta\n    - Count: 1 pack\n\n28. **Olive Oil**:\n    - Category: Cooking Oils\n    - Fine-grained Category: Olive Oil\n    - Count: 1 bottle\n\n29. **Pasta**:\n    - Category: Pasta\n    - Fine-grained Category: Pasta\n    - Count: 1 pack\n\n30. **Olive Oil**:\n    - Category: Cooking Oils\n    - Fine-grained Category: Olive Oil\n    - Count: 1 bottle\n\n31. **Pasta**:\n    - Category: Pasta\n    - Fine-grained"
+    },
+    {
+        "question_id": 180,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **Grocery Categories:**\n   - **Beverage:**\n     - **Count:** 1\n   - **Produce:**\n     - **Count:** 1\n   - **Dairy:**\n     - **Count:** 1\n   - **Packaged Food:**\n     - **Count:** 1\n\n2. **Fine-Grained Categories:**\n   - **Beverage:**\n     - **Item:** A bottle of a green-colored drink\n   - **Produce:**\n     - **Item:** A purple vegetable (likely an onion or beet)\n   - **Dairy:**\n     - **Item:** A box of dairy product (possibly milk or yogurt)\n   - **Packaged Food:**\n     - **Item:** A package of pasta (spaghetti)"
+    },
+    {
+        "question_id": 181,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The groceries in the image are as follows:\n\n1. **Grocery 1: Granberry Juice**\n   - **Category:** Beverages\n   - **Fine-Grained Category:** Juice\n   - **Count:** 1 bottle\n\n2. **Grocery 2: Alden Salt**\n   - **Category:** Spices and Seasonings\n   - **Fine-Grained Category:** Salt\n   - **Count:** 1 package\n\n3. **Grocery 3: Italian Dressing**\n   - **Category:** Condiments\n   - **Fine-Grained Category:** Dressing\n   - **Count:** 1 bottle\n\n4. **Grocery 4: Spaghetti**\n   - **Category:** Pasta\n   - **Fine-Grained Category:** Spaghetti\n   - **Count:** 1 package\n\n5. **Grocery 5: Green Salad**\n   - **Category:** Vegetables\n   - **Fine-Grained Category:** Salad\n   - **Count:** 1 package\n\n6. **Grocery 6: Brown Rice**\n   - **Category:** Grains\n   - **Fine-Grained Category:** Rice\n   - **Count:** 1 package\n\n7. **Grocery 7: Pasta**\n   - **Category:** Pasta\n   - **Fine-Grained Category:** Pasta\n   - **Count:** 1 package\n\n8. **Grocery 8: Pasta**\n   - **Category:** Pasta\n   - **Fine-Grained Category:** Pasta\n   - **Count:** 1 package\n\n9. **Grocery 9: Pasta**\n   - **Category:** Pasta\n   - **Fine-Grained Category:** Pasta\n   - **Count:** 1 package\n\n10. **Grocery 10: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n11. **Grocery 11: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n12. **Grocery 12: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n13. **Grocery 13: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n14. **Grocery 14: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n15. **Grocery 15: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n16. **Grocery 16: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n17. **Grocery 17: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n18. **Grocery 18: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n19. **Grocery 19: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n20. **Grocery 20: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n21. **Grocery 21: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n22. **Grocery 22: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n23. **Grocery 23: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n24. **Grocery 24: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n25. **Grocery 25: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n26. **Grocery 26: Pasta**\n    - **Category:** Pasta\n    - **Fine-Grained Category:** Pasta\n    - **Count:** 1 package\n\n"
+    },
+    {
+        "question_id": 182,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Granberry juice** - **Category**: Beverages - **Fine-grained Category**: Juice\n2. **Pack of salt** - **Category**: Groceries - **Fine-grained Category**: Seasoning\n3. **Blue box** - **Category**: Groceries - **Fine-grained Category**: Box (Unsure of the specific type)\n4. **Milk carton** - **Category**: Groceries - **Fine-grained Category**: Dairy\n5. **Green bottle** - **Category**: Beverages - **Fine-grained Category**: Other (Unsure of the specific type)\n6. **Candy** - **Category**: Groceries - **Fine-grained Category**: Sweets\n\nThe counts are as follows:\n- **Granberry juice**: 1\n- **Pack of salt**: 1\n- **Blue box**: 1\n- **Milk carton**: 1\n- **Green bottle**: 1\n- **Candy**: 1"
+    },
+    {
+        "question_id": 183,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories:\n\n1. **Bottle (Fine-grained category: Liquid)**\n   - Contains a brown liquid, possibly a beverage.\n\n2. **Carton (Fine-grained category: Dairy or Juice)**\n   - Contains a blue carton, likely a dairy product or juice.\n\n3. **Can (Fine-grained category: Beverage)**\n   - Contains a green and orange can, likely a beverage.\n\n4. **Bag (Fine-grained category: Snack)**\n   - Contains a bag of snacks, specifically cheese crackers.\n\n5. **Bottle (Fine-grained category: Liquid)**\n   - Contains a green liquid, possibly a beverage.\n\n6. **Can (Fine-grained category: Beverage)**\n   - Contains a can with a green top, likely a beverage.\n\n7. **Bottle (Fine-grained category: Liquid)**\n   - Contains a red liquid, possibly a beverage.\n\n8. **Bag (Fine-grained category: Snack)**\n   - Contains a bag of snacks, specifically chips or a similar snack.\n\nThese are the groceries and their categories present in the image."
+    },
+    {
+        "question_id": 184,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image along with their categories and fine-grained categories:\n\n1. **Pack of Cheese**:\n   - Category: Dairy\n   - Fine-grained Category: Cheese\n\n2. **Pack of Crackers**:\n   - Category: Snacks\n   - Fine-grained Category: Crackers\n\n3. **Carton of Milk**:\n   - Category: Dairy\n   - Fine-grained Category: Milk\n\n4. **Bottle of Tomato Sauce**:\n   - Category: Condiments\n   - Fine-grained Category: Tomato Sauce\n\n5. **Bottle of Soy Sauce**:\n   - Category: Condiments\n   - Fine-grained Category: Soy Sauce\n\n6. **Bottle of Olive Oil**:\n   - Category: Cooking Oils\n   - Fine-grained Category: Olive Oil\n\n7. **Bottle of Olive Oil with a Green Cap**:\n   - Category: Cooking Oils\n   - Fine-grained Category: Olive Oil\n\n8. **Bottle of Green Sauce**:\n   - Category: Condiments\n   - Fine-grained Category: Green Sauce\n\n9. **Bottle of Black Pepper**:\n   - Category: Spices\n   - Fine-grained Category: Black Pepper\n\nTotal Count: 9 items"
+    },
+    {
+        "question_id": 185,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Here is the list of groceries in the image, along with their categories and fine-grained categories:\n\n1. **Bottle of olive oil**:\n   - Category: Cooking Oil\n   - Fine-grained category: Olive Oil\n\n2. **Bottle of salad dressing**:\n   - Category: Condiments\n   - Fine-grained category: Salad Dressing\n\n3. **Pack of cheese**:\n   - Category: Dairy Products\n   - Fine-grained category: Cheese\n\n4. **Pack of bread**:\n   - Category: Baking Ingredients\n   - Fine-grained category: Bread\n\n5. **Pack of chocolate**:\n   - Category: Sweets\n   - Fine-grained category: Chocolate\n\n6. **Pack of cereal**:\n   - Category: Breakfast Cereals\n   - Fine-grained category: Cereal\n\n7. **Pack of jam**:\n   - Category: Preserves and Spreads\n   - Fine-grained category: Jam\n\n8. **Pack of coffee**:\n   - Category: Beverages\n   - Fine-grained category: Coffee\n\n9. **Pack of butter**:\n   - Category: Dairy Products\n   - Fine-grained category: Butter\n\n10. **Pack of yogurt**:\n    - Category: Dairy Products\n    - Fine-grained category: Yogurt\n\n11. **Pack of chips**:\n    - Category: Snacks\n    - Fine-grained category: Potato Chips\n\n12. **Pack of granola bars**:\n    - Category: Snacks\n    - Fine-grained category: Granola Bars\n\n13. **Pack of crackers**:\n    - Category: Snacks\n    - Fine-grained category: Crackers\n\n14. **Pack of nuts**:\n    - Category: Snacks\n    - Fine-grained category: Nuts\n\n15. **Pack of cheese**:\n    - Category: Dairy Products\n    - Fine-grained category: Cheese\n\n16. **Pack of dried fruit**:\n    - Category: Snacks\n    - Fine-grained category: Dried Fruit\n\n17. **Pack of pasta**:\n    - Category: Pasta\n    - Fine-grained category: Pasta\n\n18. **Pack of rice**:\n    - Category: Grains\n    - Fine-grained category: Rice\n\n19. **Pack of dried beans**:\n    - Category: Grains\n    - Fine-grained category: Dried Beans\n\n20. **Pack of vegetables**:\n    - Category: Vegetables\n    - Fine-grained category: Mixed Vegetables\n\n21. **Pack of fruits**:\n    - Category: Fruits\n    - Fine-grained category: Mixed Fruits\n\n22. **Pack of cheese**:\n    - Category: Dairy Products\n    - Fine-grained category: Cheese\n\n23. **Pack of crackers**:\n    - Category: Snacks\n    - Fine-grained category: Crackers\n\n24. **Pack of granola bars**:\n    - Category: Snacks\n    - Fine-grained category: Granola Bars\n\n25. **Pack of nuts**:\n    - Category: Snacks\n    - Fine-grained category: Nuts\n\n26. **Pack of dried fruit**:\n    - Category: Snacks\n    - Fine-grained category: Dried Fruit\n\n27. **Pack of pasta**:\n    - Category: Pasta\n    - Fine-grained category: Pasta\n\n28. **Pack of rice**:\n    - Category: Grains\n    - Fine-grained category: Rice\n\n29. **Pack of dried beans**:\n    - Category: Grains\n    - Fine-grained category: Dried Beans\n\n30. **Pack of vegetables**:\n    - Category: Vegetables\n    - Fine-grained category: Mixed Vegetables\n\n31. **Pack of fruits**:\n    - Category: Fruits\n    - Fine-grained category: Mixed Fruits\n\n32. **Pack of cheese**:\n    - Category: Dairy Products\n    - Fine-grained category: Cheese\n\n33. **Pack of crackers**:\n    - Category: Snacks\n    - Fine-grained category: Crackers\n\n34. **Pack of granola bars**:\n    - Category: Snacks\n    - Fine-grained category: Granola Bars\n\n35. **Pack of nuts**:\n    - Category: Snacks\n    - Fine-grained category: Nuts\n\n36. **Pack of dried fruit**:\n    - Category: Snacks\n    - Fine-grained category: Dried Fruit\n\n37. **Pack of pasta**:\n    - Category: Pasta\n    - Fine-grained category: Pasta\n\n38. **Pack of rice**:\n    - Category: Grains\n    - Fine-grained category: Rice\n\n39. **Pack of dried beans**"
+    },
+    {
+        "question_id": 186,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a variety of groceries on a wooden surface. Here is the list of groceries along with their categories, fine-grained categories, and counts:\n\n1. **Organic Pesto Sauce (Carrabba's)** - Category: Pasta Sauces, Fine-grained category: Organic Pesto Sauce - Count: 1\n2. **Olive Oil** - Category: Cooking Oils, Fine-grained category: Olive Oil - Count: 1\n3. **Marinara Sauce** - Category: Pasta Sauces, Fine-grained category: Marinara Sauce - Count: 1\n4. **Canned Olives** - Category: Canned Goods, Fine-grained category: Olives - Count: 1\n5. **Cheese (Carrabba's)** - Category: Cheese, Fine-grained category: Carrabba's Cheese - Count: 1\n6. **Canned Tomatoes** - Category: Canned Goods, Fine-grained category: Canned Tomatoes - Count: 1\n7. **Canned Peppers** - Category: Canned Goods, Fine-grained category: Canned Peppers - Count: 1\n8. **Bottled Dressing** - Category: Condiments, Fine-grained category: Salad Dressing - Count: 1\n9. **Bottled Vinaigrette** - Category: Condiments, Fine-grained category: Salad Dressing - Count: 1\n\nTotal number of groceries: 9"
+    },
+    {
+        "question_id": 187,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains the following groceries:\n\n1. **Grocery Type**: Bottled Water\n   - **Fine-Grained Category**: Bottle of Water\n   - **Count**: 1\n\n2. **Grocery Type**: Bottled Water\n   - **Fine-Grained Category**: Bottle of Water\n   - **Count**: 1\n\n3. **Grocery Type**: Pasta\n   - **Fine-Grained Category**: Dried Pasta\n   - **Count**: 1\n\n4. **Grocery Type**: Container with Food\n   - **Fine-Grained Category**: Container with Vegetables (Assuming it contains vegetables)\n   - **Count**: 1\n\n5. **Grocery Type**: Jar with Seasoning\n   - **Fine-Grained Category**: Jar of Seasoning\n   - **Count**: 1\n\n6. **Grocery Type**: Jar with Seasoning\n   - **Fine-Grained Category**: Jar of Seasoning\n   - **Count**: 1\n\n7. **Grocery Type**: Jar with Seasoning\n   - **Fine-Grained Category**: Jar of Seasoning\n   - **Count**: 1\n\n8. **Grocery Type**: Jar with Seasoning\n   - **Fine-Grained Category**: Jar of Seasoning\n   - **Count**: 1\n\n9. **Grocery Type**: Jar with Seasoning\n   - **Fine-Grained Category**: Jar of Seasoning\n   - **Count**: 1\n\n10. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n11. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n12. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n13. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n14. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n15. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n16. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n17. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n18. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n19. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n20. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n21. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n22. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n23. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n24. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n25. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n26. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n27. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n28. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n29. **Grocery Type**: Jar with Seasoning\n    - **Fine-Grained Category**: Jar of Seasoning\n    - **Count**: 1\n\n30. **Grocery Type**: Jar with Seasoning\n   "
+    },
+    {
+        "question_id": 188,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a package of tea, specifically a box of organic (bio) chamomile tea. Here are the details:\n\n- **Grocery Item:** Organic Chamomile Tea\n- **Category:** Beverages\n- **Subcategory:** Tea\n- **Count:** 1 box\n\nThis is the only item visible in the image."
+    },
+    {
+        "question_id": 189,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows two boxes of groceries placed on a wooden surface. Here is the detailed list:\n\n1. **Top Box:**\n   - **Category:** Teas\n   - **Fine-Grained Category:** French Tea\n   - **Count:** 1 box\n\n2. **Bottom Box:**\n   - **Category:** Beverages\n   - **Fine-Grained Category:** Apple and Lemon Drink\n   - **Count:** 1 box\n\nSo, the list of groceries and their categories is as follows:\n\n- **Teas:** 1 box\n- **Beverages:** 1 box"
+    },
+    {
+        "question_id": 190,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single item, which is a box of Bio-Kamillenfee (Camomile Free) herbal tea. Here is the breakdown:\n\n- **Item**: Bio-Kamillenfee (Camomile Free) herbal tea\n- **Category**: Beverages\n- **Subcategory**: Herbal Tea\n- **Count**: 1 box\n\nThis is the only item visible in the image."
+    },
+    {
+        "question_id": 191,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows three boxes on a wooden floor. Here is the list of groceries along with their categories and counts:\n\n1. **Grocery 1**:\n   - **Category**: Tea\n   - **Fine-grained Category**: Herbal Tea\n   - **Count**: 1 box\n\n2. **Grocery 2**:\n   - **Category**: Coffee\n   - **Fine-grained Category**: Organic Coffee\n   - **Count**: 1 box\n\n3. **Grocery 3**:\n   - **Category**: Juice\n   - **Fine-grained Category**: Organic Juice\n   - **Count**: 1 box\n\nSo, there are three boxes in total, each representing a different category of grocery items."
+    },
+    {
+        "question_id": 192,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a can on a wooden floor. Here is the information in the requested format:\n\n### Groceries in the Image\n1. **Can**\n   - **Category:** Food\n   - **Fine-Grained Category:** Canned Goods\n   - **Count:** 1"
+    },
+    {
+        "question_id": 193,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a jar on a wooden surface. Here is the information based on the objects visible:\n\n1. **Grocery: Jar**\n   - **Category:** Food\n   - **Fine-grained Category:** Spreads\n   - **Count:** 1\n\nThis is a single jar of a spread, likely a type of nut butter or similar spread."
+    },
+    {
+        "question_id": 194,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single item on a wooden surface, which appears to be a bottle cap. Here is the information:\n\n- **Item**: Bottle cap\n- **Category**: Grocery\n- **Fine-grained Category**: Beverage Cap\n\nSince there is only one item in the image, the count is:\n\n- **Count**: 1"
+    },
+    {
+        "question_id": 195,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single item, which appears to be a container of a food product. Here is the information extracted:\n\n1. **Item**: Container\n   - **Category**: Groceries\n   - **Fine-grained Category**: Not specified\n   - **Count**: 1\n\nThe container is likely to contain a food product, but the specific type cannot be determined from the image alone."
+    },
+    {
+        "question_id": 196,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a jar of black olives on a wooden surface. Here is the list of groceries along with their categories:\n\n1. **Black Olives**\n   - **Category:** Food\n   - **Subcategory:** Preserved Food\n\nThere is only one item in the image, so the count is:\n\n- **Count:** 1"
+    },
+    {
+        "question_id": 197,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a jar of jam on a wooden floor. Based on the visible details, the groceries in the image are:\n\n1. **Jar of Jam**\n   - **Category:** Groceries\n   - **Fine-Grained Category:** Canned Goods or Preserves\n   - **Count:** 1 jar"
+    },
+    {
+        "question_id": 198,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image shows a single item, which appears to be a canister or jar with a label. Based on the visible information:\n\n- **Grocery Item:** Canister or Jar\n- **Category:** Groceries\n- **Fine-Grained Category:** Kitchen Essentials\n- **Count:** 1\n\nThe canister or jar is likely used for storing food items, such as dry goods, spices, or other kitchen essentials."
+    },
+    {
+        "question_id": 199,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains a single item, which is a bottle of Sriracha hot sauce. Here are the details:\n\n- **Item**: Sriracha hot sauce\n- **Category**: Condiments\n- **Fine-grained Category**: Hot sauce\n\nThere is only one bottle of Sriracha hot sauce in the image."
+    }
+]

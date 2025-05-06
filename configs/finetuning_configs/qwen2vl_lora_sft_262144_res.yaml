@@ -12,7 +12,7 @@ dataset: zeki_grocery, freiburg_grocery, fruits_and_vegs_grocery
 template: qwen2_vl
 cutoff_len: 1024
 overwrite_cache: true
-preprocessing_num_workers: 40
+preprocessing_num_workers: 8
 image_max_pixels: 262144 # = width * height < value
 # packing: true
 
@@ -37,3 +37,11 @@ ddp_timeout: 180000000
 val_size: 0.1
 per_device_eval_batch_size: 2
 eval_strategy: steps
+
+# ##  Swanlab Logging
+# use_swanlab: true
+# swanlab_project: VLM_grocery_recognition
+# swanlab_workspace: Henri
+# swanlab_run_name: Qwen2-VL-7B-Instruct
+# swanlab_api_key: adgv3kQlPIwUzSd47Er7E
+# swanlab_logdir: logs

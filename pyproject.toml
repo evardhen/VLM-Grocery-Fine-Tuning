@@ -27,4 +27,9 @@ dependencies = [
     "kokoro>=0.7.13",
     "py-espeak-ng>=0.1.8",
     "pip>=25.0.1",
+    "bert-score>=0.3.13",
+    "anls>=0.0.2",
+    "sentence-transformers>=4.1.0",
+    "nltk>=3.9.1",
+    "flashinfer-python>=0.2.5",
 ]

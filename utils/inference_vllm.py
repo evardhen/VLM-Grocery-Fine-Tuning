@@ -1,6 +1,4 @@
 import json
-import csv
-
 import math
 from transformers import Seq2SeqTrainingArguments
 
@@ -25,7 +23,7 @@ if is_vllm_available():
 class InferenceVLLM:
     """
     A class to run inference using vLLM engine, plus helper methods for saving
-    data as JSON or CSV.
+    data as JSON.
     """
     def __init__(        
         self,
@@ -33,7 +31,6 @@ class InferenceVLLM:
         dataset: str,
         template: str,
         json_output_path: str,
-        csv_output_path: str,
         adapter_name_or_path: str = None,
         dataset_dir: str = "data",
         cutoff_len: int = 8192,
@@ -47,7 +44,6 @@ class InferenceVLLM:
         image_resolution: int = 589824): 
         
         self.predictions = []
-        self.csv_output_path = csv_output_path
         self.json_output_path = json_output_path
 
         self.max_dataset_len = max_samples
@@ -174,6 +170,7 @@ class InferenceVLLM:
 
         for entry, result in zip(dataset, preds):
             self.predictions.append({
+                "question_id": entry["question_id"],
                 "question": entry["question"],
                 "answer": result,
             })
@@ -207,25 +204,6 @@ class InferenceVLLM:
             print(f"Predictions saved to {self.json_output_path}")
         except Exception as e:
             print(f"Failed to save JSON. Error: {e}")
-
-    def save_csv(self):
-        try:
-            # In case the list is empty or has different keys, handle generically
-            if not self.predictions:
-                print("No data to write to CSV.")
-                return
-            
-            # Use the keys from the first dictionary as CSV headers
-            fieldnames = list(self.predictions[0].keys())
-
-            with open(self.csv_output_path, "w", newline="", encoding="utf-8") as csv_file:
-                writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-                writer.writeheader()
-                writer.writerows(self.predictions)
-
-            print(f"Predictions saved to {self.csv_output_path}")
-        except Exception as e:
-            print(f"Failed to save CSV. Error: {e}")
 
     def _preprocess_image(self, image: "ImageObject", image_resolution) -> "ImageObject":
         r"""

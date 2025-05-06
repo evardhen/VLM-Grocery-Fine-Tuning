@@ -8,8 +8,8 @@
         "system": "system"
       }
     },
-    "zeki_grocery": {
-      "file_name": "zeki_grocery.json",
+    "fruits_and_vegs_grocery": {
+      "file_name": "fruits_and_vegs_grocery.json",
       "columns": {
         "query": "question",
         "response": "answer",
@@ -17,8 +17,17 @@
         "system": "system"
       }
     },
-    "fruits_and_vegs_grocery": {
-      "file_name": "fruits_and_vegs_grocery.json",
+    "zeki_grocery": {
+      "file_name": "zeki_grocery_train.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "eval": {
+      "file_name": "eval.json",
       "columns": {
         "query": "question",
         "response": "answer",

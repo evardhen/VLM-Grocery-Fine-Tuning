@@ -1,6 +1,0 @@
-model_name_or_path: Qwen/Qwen2-VL-7B-Instruct
-adapter_name_or_path: saves/qwen2_vl-7b/lora/sft/lingoQA_action_1000
-template: qwen2_vl
-finetuning_type: lora
-infer_backend: huggingface  # choices: [huggingface, vllm]
-image_resolution: 262144

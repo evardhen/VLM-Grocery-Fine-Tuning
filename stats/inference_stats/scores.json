@@ -1,0 +1,10 @@
+{
+    "bert_f1_category": 0.8462,
+    "bert_f1_fine": 0.7972,
+    "count_em": 0.51,
+    "stats/inference_stats/scores.json": {
+        "bert_f1_category": 0.8462,
+        "bert_f1_fine": 0.7972,
+        "count_em": 0.6839
+    }
+}

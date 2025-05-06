@@ -1,5 +1,4 @@
 import json
-import csv
 import os
 from typing import List, Dict, Any
 import sys
@@ -11,11 +10,9 @@ from llamafactory.extras.misc import torch_gc
 class InferenceChat:
     def __init__(self,
                  model_config_path: str,
-                 csv_output_path: str, 
                  json_output_path: str, 
                  dataset_path: str,
                  image_resolution: int = 768 * 768):
-        self.csv_output_path = csv_output_path
         self.json_output_path = json_output_path
         self.dataset_path = dataset_path
         self.model_config_path = model_config_path
@@ -63,7 +60,6 @@ class InferenceChat:
             # Store prediction
             self.predictions.append({
                 "question_id": entry["question_id"],
-                "segment_id": entry["segment_id"],
                 "question": entry["question"],
                 "answer": result[0].response_text,
             })
@@ -125,22 +121,3 @@ class InferenceChat:
             print(f"Predictions saved to {self.json_output_path}")
         except Exception as e:
             print(f"Failed to save JSON. Error: {e}")
-
-    def save_csv(self) -> None:
-        try:
-            # In case the list is empty or has different keys, handle generically
-            if not self.predictions:
-                print("No data to write to CSV.")
-                return
-            
-            # Use the keys from the first dictionary as CSV headers
-            fieldnames = list(self.predictions[0].keys())
-
-            with open(self.csv_output_path, "w", newline="", encoding="utf-8") as csv_file:
-                writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-                writer.writeheader()
-                writer.writerows(self.predictions)
-
-            print(f"Predictions saved to {self.csv_output_path}")
-        except Exception as e:
-            print(f"Failed to save CSV. Error: {e}")

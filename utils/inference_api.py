@@ -1,7 +1,6 @@
 import os
 import yaml
 import json
-import csv
 import requests
 import concurrent.futures
 
@@ -33,14 +32,13 @@ def assert_url_accessible(url: str, timeout: float = 5.0) -> None:
 class InferenceAPI:
     """
     A class to load configs/dataset, check local image URLs, call the LlamaFactory endpoint,
-    and save predictions to JSON/CSV.
+    and save predictions to JSON.
     """
 
-    def __init__(self, model_config_path, dataset_path, json_output_path, csv_output_path):
+    def __init__(self, model_config_path, dataset_path, json_output_path):
         self.model_config_path = model_config_path
         self.dataset_path = dataset_path
         self.json_output_path = json_output_path
-        self.csv_output_path = csv_output_path
         self.predictions = []
 
         # 1) Load model config
@@ -119,7 +117,6 @@ class InferenceAPI:
 
             prediction = {
                 "question_id": entry["question_id"],
-                "segment_id": entry["segment_id"],
                 "question": entry["question"],
                 "answer": result.choices[0].message.content,
             }
@@ -169,11 +166,3 @@ class InferenceAPI:
         with open(self.json_output_path, "w", encoding="utf-8") as file:
             json.dump(self.predictions, file, indent=4, ensure_ascii=False)
         print(f"JSON file '{self.json_output_path}' created successfully!")
-
-    def save_csv(self):
-        # Save CSV
-        with open(self.csv_output_path, mode="w", newline="", encoding="utf-8") as file:
-            writer = csv.DictWriter(file, fieldnames=["question_id", "segment_id", "question", "answer"])
-            writer.writeheader()
-            writer.writerows(self.predictions)
-        print(f"CSV file '{self.csv_output_path}' created successfully.")
