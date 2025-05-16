@@ -23,12 +23,12 @@ def compute_and_safe_inference_statistics(file_path, type="api", query = "single
         - "single" : Each query is associated with a single image.
         - "multiple" : Each query can have multiple images.
     """
-    DATASET_LEN = 500
+    DATASET_LEN = 10
 
 
     # Set dataset path
     if images == "multiple":
-        dataset_path = "data/eval_dataset_three_images.json"
+        dataset_path = "data/zeki_grocery_train.json"
         print("\nUsing dataset with multiple images per entry...")
     elif images == "single":
         dataset_path = "data/eval_dataset_single_image.json"
@@ -41,14 +41,12 @@ def compute_and_safe_inference_statistics(file_path, type="api", query = "single
         inference_pipeline = InferenceAPI(
             model_config_path="configs/inference_configs/adapted_inference_image_resolution/qwen2vl_base.yaml",
             dataset_path=dataset_path,
-            csv_output_path="none",
             json_output_path="none",
         )
     elif type == "chat":
         inference_pipeline = InferenceChat(
             model_config_path="configs/inference_configs/adapted_inference_image_resolution/qwen2vl_base.yaml",
             dataset_path=dataset_path,
-            csv_output_path="none",
             json_output_path="none",
         )
     elif type == "vllm":
@@ -56,7 +54,6 @@ def compute_and_safe_inference_statistics(file_path, type="api", query = "single
             model_name_or_path="Qwen/Qwen2-VL-7B-Instruct",
             dataset=os.path.splitext(os.path.basename(dataset_path))[0],
             template="qwen2_vl",
-            csv_output_path="none",
             json_output_path="none"
             )
     else:
@@ -225,4 +222,4 @@ if "__main__" == __name__:
     # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="vllm",  query="single", images="multiple")
     # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="vllm", query="multiple", images="multiple")
     # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="vllm", query="single", images="single")
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="vllm", query="multiple", images="single")
+    compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="vllm", query="multiple", images="single")

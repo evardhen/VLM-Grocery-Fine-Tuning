@@ -17,7 +17,7 @@
         "system": "system"
       }
     },
-    "zeki_grocery": {
+    "zeki_grocery_train": {
       "file_name": "zeki_grocery_train.json",
       "columns": {
         "query": "question",
@@ -28,6 +28,123 @@
     },
     "eval": {
       "file_name": "eval.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "freiburg_grocery_simple": {
+      "file_name": "freiburg_grocery_simple_prompt.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "fruits_and_vegs_grocery_simple": {
+      "file_name": "fruits_and_vegs_grocery_simple_prompt.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "zeki_grocery_train_simple": {
+      "file_name": "zeki_grocery_simple_prompt_train.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "eval_structured": {
+      "file_name": "eval_structured.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "freiburg_grocery_few_shot": {
+      "file_name": "freiburg_grocery_few_shot_prompt.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "fruits_and_vegs_grocery_few_shot": {
+      "file_name": "fruits_and_vegs_grocery_few_shot_prompt.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "zeki_grocery_train_few_shot": {
+      "file_name": "zeki_grocery_few_shot_prompt_train.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "freiburg_grocery_json_simple": {
+      "file_name": "freiburg_grocery_simple_json_prompt.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "fruits_and_vegs_grocery_json_simple": {
+      "file_name": "fruits_and_vegs_grocery_simple_json_prompt.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "zeki_grocery_train_json_simple": {
+      "file_name": "zeki_grocery_json_simple_prompt_train.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "freiburg_grocery_json_few_shot": {
+      "file_name": "freiburg_grocery_few_shot_json_prompt.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "fruits_and_vegs_grocery_json_few_shot": {
+      "file_name": "fruits_and_vegs_grocery_few_shot_json_prompt.json",
+      "columns": {
+        "query": "question",
+        "response": "answer",
+        "images": "images",
+        "system": "system"
+      }
+    },
+    "zeki_grocery_train_json_few_shot": {
+      "file_name": "zeki_grocery_json_few_shot_prompt_train.json",
       "columns": {
         "query": "question",
         "response": "answer",

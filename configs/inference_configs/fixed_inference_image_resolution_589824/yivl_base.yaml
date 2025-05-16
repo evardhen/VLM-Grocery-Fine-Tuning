@@ -1,0 +1,4 @@
+model_name_or_path: 01-ai/Yi-VL-6B
+template: yi_vl
+infer_backend: huggingface  # choices: [huggingface, vllm]
+image_max_pixels: 589824

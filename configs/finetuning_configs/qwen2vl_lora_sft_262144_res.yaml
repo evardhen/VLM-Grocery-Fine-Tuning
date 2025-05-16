@@ -8,7 +8,7 @@ finetuning_type: lora
 lora_target: all
 
 ### dataset
-dataset: zeki_grocery, freiburg_grocery, fruits_and_vegs_grocery
+dataset: zeki_grocery_train, freiburg_grocery, fruits_and_vegs_grocery
 template: qwen2_vl
 cutoff_len: 1024
 overwrite_cache: true
@@ -38,10 +38,6 @@ val_size: 0.1
 per_device_eval_batch_size: 2
 eval_strategy: steps
 
-# ##  Swanlab Logging
-# use_swanlab: true
-# swanlab_project: VLM_grocery_recognition
-# swanlab_workspace: Henri
-# swanlab_run_name: Qwen2-VL-7B-Instruct
-# swanlab_api_key: adgv3kQlPIwUzSd47Er7E
-# swanlab_logdir: logs
+### monitoring
+report_to: wandb
+run_name: qwen2_vl_7b_grocery_sft_262144_res

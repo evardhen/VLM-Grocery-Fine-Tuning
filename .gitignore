@@ -6,3 +6,4 @@ data/fruits_and_vegs
 .venv
 saves/
 logs/
+wandb/

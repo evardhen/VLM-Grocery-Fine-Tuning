@@ -1,0 +1,1002 @@
+[
+    {
+        "question_id": 0,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Kitchen Supplies\nFine-grained category: Coffee Filter\nCount: 1\n\n"
+    },
+    {
+        "question_id": 1,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: fruit\nFine-grained category: apple\nCount: 1\n\n"
+    },
+    {
+        "question_id": 2,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: fruit\nFine-grained category: apple\nCount: 1\n\n"
+    },
+    {
+        "question_id": 3,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: fruit\nFine-grained category: banana\nCount: 1\n\n"
+    },
+    {
+        "question_id": 4,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: fruit\nFine-grained category: banana\nCount: 1\n\n"
+    },
+    {
+        "question_id": 5,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: fruit\nFine-grained category: apple\nCount: 3\n\n"
+    },
+    {
+        "question_id": 6,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Water\nCount: 2\n\n"
+    },
+    {
+        "question_id": 7,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Beer\nCount: 3\n\n"
+    },
+    {
+        "question_id": 8,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Nutella\nCount: 1\n\n"
+    },
+    {
+        "question_id": 9,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Animal Product\nFine-grained category: Chocolate\nCount: 1\n\n"
+    },
+    {
+        "question_id": 10,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Juice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 11,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\n"
+    },
+    {
+        "question_id": 12,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Tea\nFine-grained category: Herbal Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 13,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\n"
+    },
+    {
+        "question_id": 14,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: staple food\nFine-grained category: rice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 15,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: staple food\nFine-grained category: rice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 16,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 17,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Coffee\nFine-grained category: Instant Coffee\nCount: 1\n\n"
+    },
+    {
+        "question_id": 18,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Tea\nFine-grained category: Herbal Tea\nCount: 3\n\n"
+    },
+    {
+        "question_id": 19,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Coffee\nFine-grained category: Instant Coffee\nCount: 1\n\n"
+    },
+    {
+        "question_id": 20,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\n"
+    },
+    {
+        "question_id": 21,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Seasoning\nFine-grained category: Cinnamon\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Paprika\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Oregano\nCount: 1\n\n"
+    },
+    {
+        "question_id": 22,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Cinnamon\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Lemon Balm\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Salt\nCount: 1\n\n"
+    },
+    {
+        "question_id": 23,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Vegetable\nFine-grained category: Garlic\nCount: 1\n\n"
+    },
+    {
+        "question_id": 24,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: vegetable\nFine-grained category: garlic\nCount: 1\n\n"
+    },
+    {
+        "question_id": 25,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: vegetable\nFine-grained category: garlic\nCount: 2\n\n"
+    },
+    {
+        "question_id": 26,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Flour\nCount: 1\n\n"
+    },
+    {
+        "question_id": 27,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Oats\nCount: 1\n\n"
+    },
+    {
+        "question_id": 28,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweets\nFine-grained category: Chocolate\nCount: 1\n\n"
+    },
+    {
+        "question_id": 29,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Coffee\nFine-grained category: Instant Coffee\nCount: 1\n\n"
+    },
+    {
+        "question_id": 30,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Rice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 31,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Oil\nFine-grained category: Sunflower Oil\nCount: 1\n\n"
+    },
+    {
+        "question_id": 32,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Tea\nFine-grained category: Green Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 33,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: staple food\nFine-grained category: salt\nCount: 1\n\n"
+    },
+    {
+        "question_id": 34,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweets\nFine-grained category: Candy\nCount: 1\n\n"
+    },
+    {
+        "question_id": 35,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Sugar\nCount: 1\n\n"
+    },
+    {
+        "question_id": 36,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Pasta\nFine-grained category: Linguine\nCount: 1\n\n"
+    },
+    {
+        "question_id": 37,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Pasta\nFine-grained category: Spaghetti\nCount: 2\n\nCategory: Seasoning\nFine-grained category: Salt\nCount: 1\n\n"
+    },
+    {
+        "question_id": 38,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Rice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 39,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Seeds\nFine-grained category: Sesame Seeds\nCount: 1\n\n"
+    },
+    {
+        "question_id": 40,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Seeds\nFine-grained category: Sesame Seeds\nCount: 1\n\n"
+    },
+    {
+        "question_id": 41,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Cereal\nCount: 1\n\n"
+    },
+    {
+        "question_id": 42,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Cornstarch\nCount: 1\n\n"
+    },
+    {
+        "question_id": 43,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Vanilla Sugar\nCount: 1\n\n"
+    },
+    {
+        "question_id": 44,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Vanilla Sugar\nCount: 2\n\n"
+    },
+    {
+        "question_id": 45,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Powdered Sugar\nCount: 1\n\n"
+    },
+    {
+        "question_id": 46,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Rice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 47,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Flour\nCount: 1\n\n"
+    },
+    {
+        "question_id": 48,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Bread\nCount: 1\n\n"
+    },
+    {
+        "question_id": 49,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Flour\nCount: 1\n\n"
+    },
+    {
+        "question_id": 50,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Animal product\nFine-grained category: Egg\nCount: 2\n\n"
+    },
+    {
+        "question_id": 51,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: staple food\nFine-grained category: staple food\nCount: 1\n\n"
+    },
+    {
+        "question_id": 52,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Dairy Product\nFine-grained category: Butter\nCount: 1\n\n"
+    },
+    {
+        "question_id": 53,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Coffee\nCount: 1\n\n"
+    },
+    {
+        "question_id": 54,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Dairy Product\nFine-grained category: Butter\nCount: 1\n\nCategory: Beverage\nFine-grained category: Juice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 55,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Kitchen Supplies\nFine-grained category: Butter\nCount: 1\n\nCategory: Kitchen Supplies\nFine-grained category: Oil\nCount: 1\n\nCategory: Kitchen Supplies\nFine-grained category: Seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 56,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Dairy Product\nFine-grained category: Butter\nCount: 1\n\nCategory: Dairy Product\nFine-grained category: Milk\nCount: 1\n\nCategory: Beverage\nFine-grained category: Water\nCount: 1\n\n"
+    },
+    {
+        "question_id": 57,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Water\nCount: 1\n\nCategory: Beverage\nFine-grained category: Coffee\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\nCategory: Dairy Product\nFine-grained category: Butter\nCount: 1\n\nCategory: Dairy Product\nFine-grained category: Milk\nCount: 1\n\n"
+    },
+    {
+        "question_id": 58,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Water\nCount: 2\n\nCategory: Beverage\nFine-grained category: Milk\nCount: 1\n\nCategory: Beverage\nFine-grained category: Lemon Juice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 59,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Water\nCount: 2\n\nCategory: Beverage\nFine-grained category: Milk\nCount: 2\n\nCategory: Beverage\nFine-grained category: Coffee\nCount: 1\n\n"
+    },
+    {
+        "question_id": 60,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Water\nCount: 2\n\nCategory: Pasta\nFine-grained category: Linguine\nCount: 2\n\nCategory: Vegetable\nFine-grained category: Vegetable\nCount: 1\n\n"
+    },
+    {
+        "question_id": 61,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Water\nCount: 3\n\nCategory: Pasta\nFine-grained category: Linguine\nCount: 1\n\n"
+    },
+    {
+        "question_id": 62,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Lemonade\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Pasta\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 63,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Water\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\nCategory: Pasta\nFine-grained category: Linguine\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 64,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: staple food\nFine-grained category: rice\nCount: 1\n\nCategory: staple food\nFine-grained category: pasta\nCount: 1\n\nCategory: seasoning\nFine-grained category: seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 65,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Pasta\nFine-grained category: Linguine\nCount: 1\n\nCategory: Nuts\nFine-grained category: Seeds\nCount: 1\n\nCategory: Sauces\nFine-grained category: Peanut Sauce\nCount: 1\n\nCategory: Sauces\nFine-grained category: Peanut Sauce\nCount: 1\n\nCategory: Seasoning\nFine-grained category: 8 Kr\u00e4uter\nCount: 1\n\n"
+    },
+    {
+        "question_id": 66,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Vegetable\nFine-grained category: Squash\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Pear\nCount: 2\n\nCategory: Vegetable\nFine-grained category: Apple\nCount: 1\n\nCategory: Pasta\nFine-grained category: Linguine\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Lemon\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Cucumber\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Pasta\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Rice\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Coffee\nCount: 1\n\n"
+    },
+    {
+        "question_id": 67,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Vegetable\nFine-grained category: Cabbage\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Onion\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Potato\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Garlic\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Cucumber\nCount: 1\n\nCategory: Fruit\nFine-grained category: Pear\nCount: 2\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Pasta\nCount: 1\n\nCategory: Beverage\nFine-grained category: Juice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 68,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: fruit\nFine-grained category: apple\nCount: 1\n\nCategory: fruit\nFine-grained category: pear\nCount: 1\n\nCategory: tea\nFine-grained category: Tea Filter\nCount: 1\n\nCategory: tea\nFine-grained category: Tea\nCount: 2\n\n"
+    },
+    {
+        "question_id": 69,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Vegetable\nFine-grained category: Carrot\nCount: 1\n\nCategory: Fruit\nFine-grained category: Pear\nCount: 2\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 1\n\nCategory: Kitchen Supplies\nFine-grained category: Coffee Filter\nCount: 1\n\nCategory: Kitchen Supplies\nFine-grained category: Coffee Filter\nCount: 1\n\nCategory: Kitchen Supplies\nFine-grained category: Coffee Filter\nCount: 1\n\nCategory: Kitchen Supplies\nFine-grained category: Coffee Filter\nCount: 1\n\n"
+    },
+    {
+        "question_id": 70,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Dairy Product\nFine-grained category: Ice Cream\nCount: 1\n\nCategory: Coffee\nFine-grained category: Coffee Filter\nCount: 1\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 2\n\nCategory: Fruit\nFine-grained category: Banana\nCount: 1\n\n"
+    },
+    {
+        "question_id": 71,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Fruit\nFine-grained category: Pear\nCount: 2\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 1\n\nCategory: Coffee\nFine-grained category: Ground Coffee\nCount: 1\n\nCategory: Kitchen Supplies\nFine-grained category: Coffee Filter\nCount: 1\n\n"
+    },
+    {
+        "question_id": 72,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Fruit\nFine-grained category: Apple\nCount: 1\n\nCategory: Fruit\nFine-grained category: Banana\nCount: 1\n\nCategory: Coffee\nFine-grained category: Ground Coffee\nCount: 1\n\n"
+    },
+    {
+        "question_id": 73,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: fruit\nFine-grained category: apple\nCount: 1\n\nCategory: fruit\nFine-grained category: banana\nCount: 1\n\nCategory: fruit\nFine-grained category: pear\nCount: 2\n\n"
+    },
+    {
+        "question_id": 74,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: staple food\nFine-grained category: coffee\nCount: 2\n\nCategory: fruit\nFine-grained category: apple\nCount: 1\n\nCategory: fruit\nFine-grained category: banana\nCount: 1\n\n"
+    },
+    {
+        "question_id": 75,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Coffee Filter\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Coffee\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Fruit\nCount: 4\n\nCategory: Staple Food\nFine-grained category: Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 76,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Tea\nFine-grained category: Fruit Tea\nCount: 1\n\nCategory: Tea\nFine-grained category: Fruit Tea\nCount: 1\n\nCategory: Coffee\nFine-grained category: Coffee Filter\nCount: 1\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 1\n\nCategory: Fruit\nFine-grained category: Banana\nCount: 1\n\n"
+    },
+    {
+        "question_id": 77,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Coffee\nFine-grained category: Instant Coffee\nCount: 2\n\nCategory: Tea\nFine-grained category: Tea\nCount: 2\n\nCategory: Coffee\nFine-grained category: Ground Coffee\nCount: 1\n\n"
+    },
+    {
+        "question_id": 78,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Tea\nFine-grained category: Fennel Anise Rumal\nCount: 1\n\nCategory: Tea\nFine-grained category: Fennel Anise Rumal\nCount: 1\n\nCategory: Tea\nFine-grained category: Fruchtige Mischung\nCount: 1\n\n"
+    },
+    {
+        "question_id": 79,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Seeds\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Seeds\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Seeds\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Seeds\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Seeds\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Seeds\nCount: 1\n\n"
+    },
+    {
+        "question_id": 80,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Muesli\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Muesli\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Oats\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Seeds\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Muesli\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 1\n\n"
+    },
+    {
+        "question_id": 81,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\n"
+    },
+    {
+        "question_id": 82,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Vanilla Powder\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Anise Powder\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cinnamon Powder\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Nut Powder\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Nut Mix\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Powdered Sugar\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Salt\nCount: 1\n\n"
+    },
+    {
+        "question_id": 83,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\n"
+    },
+    {
+        "question_id": 84,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Muesli\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Muesli\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Muesli\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Vanilla Sugar\nCount: 2\n\nCategory: Staple Food\nFine-grained category: Vanilla Sugar\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Flour\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Flour\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Powdered Sugar\nCount: 1\n\n"
+    },
+    {
+        "question_id": 85,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Vanilla Sugar\nCount: 2\n\nCategory: Staple food\nFine-grained category: Oats\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Powdered Sugar\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Sugar\nCount: 2\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 1\n\n"
+    },
+    {
+        "question_id": 86,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Vanilla Sugar\nCount: 2\n\nCategory: Staple Food\nFine-grained category: Vanilla Sugar\nCount: 2\n\nCategory: Staple Food\nFine-grained category: Muesli\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 2\n\n"
+    },
+    {
+        "question_id": 87,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Flour\nCount: 2\n\nCategory: Staple Food\nFine-grained category: Coffee\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 2\n\nCategory: Beverage\nFine-grained category: Juice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 88,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Garlic\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Seasoning\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 89,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Powdered Sugar\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Flour\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Honey\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Sugar\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 90,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Powdered Sugar\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Seasoning\nCount: 2\n\nCategory: Tea\nFine-grained category: Tea\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 91,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Powdered Sugar\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Sugar\nCount: 1\n\nCategory: Beverage\nFine-grained category: Juice\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Garlic\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 1\n\n"
+    },
+    {
+        "question_id": 92,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Powdered Sugar\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Nuts\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Garlic\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 2\n\n"
+    },
+    {
+        "question_id": 93,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Sugar\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Coffee\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Oil\nCount: 1\n\n"
+    },
+    {
+        "question_id": 94,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Milk Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Coffee Beverage\nCount: 1\n\n"
+    },
+    {
+        "question_id": 95,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Water\nCount: 2\n\nCategory: Beverage\nFine-grained category: Juice\nCount: 2\n\nCategory: Beverage\nFine-grained category: Wine\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Oats\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Flour\nCount: 1\n\nCategory: Beverage\nFine-grained category: Coffee\nCount: 1\n\n"
+    },
+    {
+        "question_id": 96,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Water\nCount: 1\n\nCategory: Beverage\nFine-grained category: Water\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\n"
+    },
+    {
+        "question_id": 97,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Tea\nFine-grained category: Black Tea\nCount: 1\n\nCategory: Tea\nFine-grained category: Black Tea\nCount: 1\n\nCategory: Tea\nFine-grained category: Tea\nCount: 1\n\nCategory: Tea\nFine-grained category: Tea\nCount: 1\n\nCategory: Tea\nFine-grained category: Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 98,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Coffee\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\n"
+    },
+    {
+        "question_id": 99,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Wine\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 2\n\nCategory: Beverage\nFine-grained category: Wine\nCount: 1\n\n"
+    },
+    {
+        "question_id": 100,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Beer\nCount: 1\n\nCategory: Beverage\nFine-grained category: Wine\nCount: 2\n\nCategory: Beverage\nFine-grained category: Water\nCount: 2\n\n"
+    },
+    {
+        "question_id": 101,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sauces & Condiments\nFine-grained category: Mustard\nCount: 1\n\nCategory: Sauces & Condiments\nFine-grained category: Vinegar\nCount: 1\n\nCategory: Sauces & Condiments\nFine-grained category: Vinegar\nCount: 1\n\nCategory: Sauces & Condiments\nFine-grained category: Sauces & Condiments\nCount: 1\n\n"
+    },
+    {
+        "question_id": 102,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Vodka\nCount: 2\n\nCategory: Beverage\nFine-grained category: Water\nCount: 1\n\nCategory: Beverage\nFine-grained category: Vodka\nCount: 1\n\nCategory: Beverage\nFine-grained category: Water\nCount: 1\n\n"
+    },
+    {
+        "question_id": 103,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: staple food\nFine-grained category: pasta\nCount: 1\n\nCategory: staple food\nFine-grained category: staple food\nCount: 1\n\nCategory: staple food\nFine-grained category: staple food\nCount: 1\n\nCategory: staple food\nFine-grained category: staple food\nCount: 1\n\nCategory: staple food\nFine-grained category: staple food\nCount: 1\n\nCategory: staple food\nFine-grained category: staple food\nCount: 1\n\nCategory: staple food\nFine-grained category: staple food\nCount: 1\n\nCategory: staple food\nFine-grained category: staple food\nCount: 1\n\nCategory: staple food\nFine-grained category: staple food\nCount: 1\n\n"
+    },
+    {
+        "question_id": 104,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Wine\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 1\n\nCategory: Pasta\nFine-grained category: Linguine\nCount: 1\n\n"
+    },
+    {
+        "question_id": 105,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Coffee\nCount: 1\n\nCategory: Coffee\nFine-grained category: Coffee\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Coffee\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned"
+    },
+    {
+        "question_id": 106,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Pasta\nFine-grained category: Linguine\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Salt\nCount: 1\n\nCategory: Beverage\nFine-grained category: Coffee\nCount: 1\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 1\n\n"
+    },
+    {
+        "question_id": 107,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 1\n\n"
+    },
+    {
+        "question_id": 108,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Coffee\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 1\n\nCategory: Beverage\nFine-grained category: Water\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Carrot\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Broccoli\nCount: 1\n\n"
+    },
+    {
+        "question_id": 109,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: fruit\nFine-grained category: banana\nCount: 1\n\nCategory: fruit\nFine-grained category: apple\nCount: 1\n\nCategory: fruit\nFine-grained category: orange\nCount: 1\n\nCategory: tea\nFine-grained category: black tea\nCount: 1\n\nCategory: tea\nFine-grained category: fruit tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 110,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Fruit\nFine-grained category: Banana\nCount: 1\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 1\n\nCategory: Fruit\nFine-grained category: Pear\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Jam\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beer\nCount: 1\n\n"
+    },
+    {
+        "question_id": 111,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: fruit\nFine-grained category: banana\nCount: 1\n\nCategory: fruit\nFine-grained category: apple\nCount: 1\n\nCategory: staple food\nFine-grained category: pasta\nCount: 1\n\nCategory: staple food\nFine-grained category: oatmeal\nCount: 1\n\nCategory: staple food\nFine-grained category: rice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 112,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Fruit\nFine-grained category: Banana\nCount: 1\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 1\n\nCategory: Nuts\nFine-grained category: Sesame Seeds\nCount: 1\n\n"
+    },
+    {
+        "question_id": 113,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Fruit\nFine-grained category: Banana\nCount: 1\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 1\n\nCategory: Fruit\nFine-grained category: Pear\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Bread\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Muesli\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Coffee\nCount: 1\n\n"
+    },
+    {
+        "question_id": 114,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Fruit\nFine-grained category: Banana\nCount: 1\n\nCategory: Fruit\nFine-grained category: Apple\nCount: 1\n\nCategory: Fruit\nFine-grained category: Pear\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Flour\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Oats\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Pasta\nCount: 1\n\n"
+    },
+    {
+        "question_id": 115,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: fruit\nFine-grained category: banana\nCount: 1\n\nCategory: fruit\nFine-grained category: apple\nCount: 1\n\nCategory: fruit\nFine-grained category: pear\nCount: 1\n\nCategory: fruit\nFine-grained category: orange\nCount: 1\n\nCategory: fruit\nFine-grained category: strawberry\nCount: 1\n\nCategory: vegetable\nFine-grained category: potato\nCount: 1\n\nCategory: vegetable\nFine-grained category: sweetpotato\nCount: 1\n\nCategory: vegetable\nFine-grained category: garlic\nCount: 1\n\n"
+    },
+    {
+        "question_id": 116,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: fruit\nFine-grained category: banana\nCount: 1\n\nCategory: fruit\nFine-grained category: apple\nCount: 1\n\nCategory: fruit\nFine-grained category: pear\nCount: 1\n\nCategory: fruit\nFine-grained category: mango\nCount: 1\n\nCategory: fruit\nFine-grained category: apple\nCount: 1\n\nCategory: fruit\nFine-grained category: pear\nCount: 1\n\nCategory: staple food\nFine-grained category: bread\nCount: 1\n\nCategory: staple food\nFine-grained category: beans\nCount: 1\n\n"
+    },
+    {
+        "question_id": 117,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Beer\nCount: 1\n\n"
+    },
+    {
+        "question_id": 118,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Wine\nCount: 1\n\n"
+    },
+    {
+        "question_id": 119,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Wine\nCount: 1\n\n"
+    },
+    {
+        "question_id": 120,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Vegetable\nFine-grained category: Garlic\nCount: 1\n\n"
+    },
+    {
+        "question_id": 121,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Juice\nCount: 2\n\nCategory: Beverage\nFine-grained category: Water\nCount: 1\n\n"
+    },
+    {
+        "question_id": 122,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Beer\nCount: 1\n\n"
+    },
+    {
+        "question_id": 123,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Pasta\nFine-grained category: Egg Noodles\nCount: 1\n\n"
+    },
+    {
+        "question_id": 124,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Beer\nCount: 1\n\n"
+    },
+    {
+        "question_id": 125,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 126,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Fruit\nFine-grained category: Pineapple\nCount: 1\n\n"
+    },
+    {
+        "question_id": 127,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Kitchen Supplies\nFine-grained category: Kitchen Cleaner\nCount: 1\n\n"
+    },
+    {
+        "question_id": 128,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Canned Olives\nCount: 1\n\n"
+    },
+    {
+        "question_id": 129,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Jam\nCount: 1\n\n"
+    },
+    {
+        "question_id": 130,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sauces & Condiments\nFine-grained category: Soup\nCount: 1\n\n"
+    },
+    {
+        "question_id": 131,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\n"
+    },
+    {
+        "question_id": 132,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Dairy Product\nFine-grained category: Sour Cream\nCount: 1\n\n"
+    },
+    {
+        "question_id": 133,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: vegetable\nFine-grained category: lettuce\nCount: 1\n\n"
+    },
+    {
+        "question_id": 134,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: vegetable\nFine-grained category: spinach\nCount: 1\n\n"
+    },
+    {
+        "question_id": 135,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: vegetable\nFine-grained category: lettuce\nCount: 1\n\n"
+    },
+    {
+        "question_id": 136,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Vegetable\nFine-grained category: Garlic\nCount: 1\n\n"
+    },
+    {
+        "question_id": 137,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Meat\nFine-grained category: Salami\nCount: 1\n\n"
+    },
+    {
+        "question_id": 138,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: vegetable\nFine-grained category: mushroom\nCount: 1\n\n"
+    },
+    {
+        "question_id": 139,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Oil\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Dairy Product\nFine-grained category: Yogurt\nCount: 1\n\n"
+    },
+    {
+        "question_id": 140,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Wine\nCount: 1\n\nCategory: Beverage\nFine-grained category: Water\nCount: 1\n\n"
+    },
+    {
+        "question_id": 141,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Oil\nCount: 1\n\nCategory: Beverage\nFine-grained category: Oil\nCount: 1\n\nCategory: Dairy Product\nFine-grained category: Cheese\nCount: 1\n\n"
+    },
+    {
+        "question_id": 142,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Honey\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Jam\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Jam\nCount: 1\n\n"
+    },
+    {
+        "question_id": 143,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Honey\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Sugar\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Sugar\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Honey\nCount: 1\n\n"
+    },
+    {
+        "question_id": 144,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Honey\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Nuts\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cereal\nCount: 2\n\n"
+    },
+    {
+        "question_id": 145,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Honey\nCount: 1\n\nCategory: Cereal\nFine-grained category: Muesli\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Jam\nCount: 1\n\n"
+    },
+    {
+        "question_id": 146,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Cereal\nCount: 1\n\nCategory: Sweetener\nFine-grained category: Honey\nCount: 1\n\nCategory: Fruit\nFine-grained category: Lime\nCount: 3\n\n"
+    },
+    {
+        "question_id": 147,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweetener\nFine-grained category: Honey\nCount: 1\n\nCategory: Fruit\nFine-grained category: Lime\nCount: 4\n\nCategory: Staple food\nFine-grained category: Oats\nCount: 1\n\n"
+    },
+    {
+        "question_id": 148,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Seasoning\nFine-grained category: Pepper\nCount: 1\n\nCategory: Tea\nFine-grained category: Tea\nCount: 1\n\nCategory: Fruit\nFine-grained category: Lemon\nCount: 3\n\n"
+    },
+    {
+        "question_id": 149,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Seasoning\nFine-grained category: Seasoning\nCount: 1\n\nCategory: Tea\nFine-grained category: Orange Tea\nCount: 1\n\nCategory: Tea\nFine-grained category: Lemon Tea\nCount: 1\n\nCategory: Fruit\nFine-grained category: Orange\nCount: 4\n\nCategory: Tea\nFine-grained category: Green Tea\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 150,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 2\n\nCategory: Tea\nFine-grained category: Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 151,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 3\n\n"
+    },
+    {
+        "question_id": 152,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: canned & jarred goods\nFine-grained category: Canned & Jarred Goods\nCount: 3\n\n"
+    },
+    {
+        "question_id": 153,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 3\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\n"
+    },
+    {
+        "question_id": 154,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Canned Beans\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned Tomatoes\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Seasoning\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 155,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sweets\nFine-grained category: Jam\nCount: 1\n\nCategory: Sweets\nFine-grained category: Candy\nCount: 1\n\nCategory: Sweets\nFine-grained category: Candy\nCount: 1\n\n"
+    },
+    {
+        "question_id": 156,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Fruit\nFine-grained category: Cranberries\nCount: 1\n\nCategory: Fruit\nFine-grained category: Cranberries\nCount: 1\n\n"
+    },
+    {
+        "question_id": 157,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: canned & jarred goods\nFine-grained category: cranberry sauce\nCount: 1\n\nCategory: canned & jarred goods\nFine-grained category: cranberry sauce\nCount: 1\n\nCategory: canned & jarred goods\nFine-grained category: cranberry sauce\nCount: 1\n\n"
+    },
+    {
+        "question_id": 158,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Oats\nCount: 2\n\nCategory: Staple Food\nFine-grained category: Wheat Flour\nCount: 2\n\nCategory: Staple Food\nFine-grained category: Cornstarch\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Cornstarch\nCount: 1\n\n"
+    },
+    {
+        "question_id": 159,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Rice\nCount: 2\n\nCategory: Staple Food\nFine-grained category: Oats\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Coffee\nCount: 1\n\n"
+    },
+    {
+        "question_id": 160,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: staple food\nFine-grained category: rice\nCount: 1\n\nCategory: staple food\nFine-grained category: beans\nCount: 1\n\nCategory: staple food\nFine-grained category: tea\nCount: 2\n\n"
+    },
+    {
+        "question_id": 161,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: seasoning\nFine-grained category: salt\nCount: 1\n\nCategory: seasoning\nFine-grained category: salt\nCount: 1\n\nCategory: seasoning\nFine-grained category: seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 162,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Coffee\nFine-grained category: Instant Coffee\nCount: 1\n\nCategory: Tea\nFine-grained category: Tea\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 163,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Kitchen Supplies\nFine-grained category: Sauce\nCount: 2\n\nCategory: Kitchen Supplies\nFine-grained category: Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 164,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Coke\nCount: 2\n\nCategory: Beverage\nFine-grained category: Coca-Cola\nCount: 1\n\nCategory: Beverage\nFine-grained category: Juice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 165,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: vegetable\nFine-grained category: red onion\nCount: 2\n\n"
+    },
+    {
+        "question_id": 166,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Beer\nCount: 2\n\nCategory: Beverage\nFine-grained category: Juice\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\n"
+    },
+    {
+        "question_id": 167,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Beer\nCount: 2\n\nCategory: Beverage\nFine-grained category: Coffee\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 168,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Beer\nCount: 2\n\nCategory: Beverage\nFine-grained category: Water\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Vinegar\nCount: 1\n\n"
+    },
+    {
+        "question_id": 169,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\n"
+    },
+    {
+        "question_id": 170,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sauces & Condiments\nFine-grained category: Tomato Sauce\nCount: 1\n\nCategory: Sauces & Condiments\nFine-grained category: Mayonnaise\nCount: 1\n\nCategory: Sauces & Condiments\nFine-grained category: Sauces & Condiments\nCount: 1\n\n"
+    },
+    {
+        "question_id": 171,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Juice\nCount: 2\n\nCategory: Beverage\nFine-grained category: Sauces & Condiments\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 172,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Jam\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Jam\nCount: 1\n\nCategory: Beverage\nFine-grained category: Juice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 173,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Jam\nCount: 2\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 1\n\n"
+    },
+    {
+        "question_id": 174,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: canned\nCount: 1\n\nCategory: Canned & Jarred Goods\nFine-grained category: jam\nCount: 2\n\nCategory: Fruit\nFine-grained category: plum\nCount: 2\n\n"
+    },
+    {
+        "question_id": 175,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Canned & Jarred Goods\nCount: 3\n\nCategory: Vegetable\nFine-grained category: Red Onion\nCount: 5\n\n"
+    },
+    {
+        "question_id": 176,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: vegetable\nFine-grained category: garlic\nCount: 1\n\nCategory: vegetable\nFine-grained category: red onion\nCount: 5\n\nCategory: canned & jarred goods\nFine-grained category: sweet chili sauce\nCount: 1\n\nCategory: canned & jarred goods\nFine-grained category: red bean paste\nCount: 1\n\n"
+    },
+    {
+        "question_id": 177,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: vegetable\nFine-grained category: garlic\nCount: 1\n\nCategory: vegetable\nFine-grained category: red onion\nCount: 1\n\nCategory: vegetable\nFine-grained category: peanut\nCount: 1\n\n"
+    },
+    {
+        "question_id": 178,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Animal product\nFine-grained category: Egg\nCount: 1\n\nCategory: Animal product\nFine-grained category: Dairy product\nCount: 1\n\nCategory: Animal product\nFine-grained category: Eggs\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Vegetable\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Vegetable\nCount: 1\n\nCategory: Vegetable\nFine-grained category: Vegetable\nCount: 1\n\n"
+    },
+    {
+        "question_id": 179,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Coffee\nFine-grained category: Instant Coffee\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Sugar\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Flour\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Pasta\nCount: 1\n\nCategory: Fruit\nFine-grained category: Plum\nCount: 1\n\n"
+    },
+    {
+        "question_id": 180,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Kitchen Supplies\nFine-grained category: Kitchen Towel\nCount: 1\n\nCategory: Kitchen Supplies\nFine-grained category: Paper Towel\nCount: 1\n\nCategory: Kitchen Supplies\nFine-grained category: Cleaning Supplies\nCount: 1\n\nCategory: Kitchen Supplies\nFine-grained category: Kitchen Towel\nCount: 1\n\nCategory: Kitchen Supplies\nFine-grained category: Kitchen Towel\nCount: 1\n\n"
+    },
+    {
+        "question_id": 181,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 182,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Tea\nCount: 1\n\nCategory: Beverage\nFine-grained category: Juice\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Seasoning\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\n"
+    },
+    {
+        "question_id": 183,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Tea\nCount: 2\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 184,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Juice\nCount: 1\n\nCategory: Beverage\nFine-grained category: Tea\nCount: 1\n\nCategory: Beverage\nFine-grained category: Water\nCount: 1\n\nCategory: Beverage\nFine-grained category: Sauces & Condiments\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\n"
+    },
+    {
+        "question_id": 185,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Animal Product\nFine-grained category: Cheese\nCount: 1\n\nCategory: Animal Product\nFine-grained category: Milk\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\nCategory: Beverage\nFine-grained category: Beverage\nCount: 1\n\n"
+    },
+    {
+        "question_id": 186,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: seasoning\nFine-grained category: Seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: Seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: Seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: Seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: Seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: Seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: Seasoning\nCount: 1\n\nCategory: seasoning\nFine-grained category: Seasoning\nCount: 1\n\n"
+    },
+    {
+        "question_id": 187,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Beverage\nFine-grained category: Beer\nCount: 1\n\nCategory: Beverage\nFine-grained category: Water\nCount: 1\n\nCategory: Staple Food\nFine-grained category: Noodles\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Oil\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Vinegar\nCount: 1\n\nCategory: Seasoning\nFine-grained category: Canned & Jarred Goods\nCount: 2\n\n"
+    },
+    {
+        "question_id": 188,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Tea\nFine-grained category: Herbal Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 189,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Tea\nFine-grained category: Orange\nCount: 2\n\nCategory: Tea\nFine-grained category: Lemon\nCount: 1\n\n"
+    },
+    {
+        "question_id": 190,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Tea\nFine-grained category: Chamomile Tea\nCount: 1\n\n"
+    },
+    {
+        "question_id": 191,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple Food\nFine-grained category: Staple Food\nCount: 3\n\nCategory: Staple"
+    },
+    {
+        "question_id": 192,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Seasoning\nFine-grained category: Garlic Powder\nCount: 1\n\n"
+    },
+    {
+        "question_id": 193,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: seasoning\nFine-grained category: Cinnamon\nCount: 1\n\n"
+    },
+    {
+        "question_id": 194,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Seasoning\nFine-grained category: Soy Sauce\nCount: 1\n\n"
+    },
+    {
+        "question_id": 195,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: staple food\nFine-grained category: rice\nCount: 1\n\n"
+    },
+    {
+        "question_id": 196,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Canned & Jarred Goods\nFine-grained category: Blackberry Jam\nCount: 1\n\n"
+    },
+    {
+        "question_id": 197,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: canned & jarred goods\nFine-grained category: canned & jarred goods\nCount: 1\n\n"
+    },
+    {
+        "question_id": 198,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Kitchen Supplies\nFine-grained category: Spice Jar\nCount: 1\n\n"
+    },
+    {
+        "question_id": 199,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "Category: Sauces & Condiments\nFine-grained category: Sriracha\nCount: 1\n\n"
+    }
+]

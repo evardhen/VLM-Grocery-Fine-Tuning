@@ -1,0 +1,6942 @@
+[
+    {
+        "path": "datasets/binaries/captured_images/captured_image_0.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Coffee"   
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_1.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Coffee  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_10.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 2,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Butter",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_100.jpg",
+        "items": [
+            {
+                "category": "Filter",
+                "count": 1,
+                "fine-grained category": "Coffee Filter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_101.jpg",
+        "items": [
+            {
+                "category": "Coffee Accessories",
+                "count": 1,
+                "fine-grained category": "Coffee Filters"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_102.jpg",
+        "items": [
+            {
+                "category": "Coffee accessory",
+                "count": 1,
+                "fine-grained category": "Coffee filters"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_103.jpg",
+        "items": [
+            {
+                "category": "Coffee accessory",
+                "count": 1,
+                "fine-grained category": "Coffee filter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_104.jpg",
+        "items": [
+            {
+                "category": "Coffee Filter",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_105.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_106.jpg",
+        "items": [
+            {
+                "category": "Coffee Filter",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_107.jpg",
+        "items": [
+            {
+                "category": "Box",
+                "count": 2,
+                "fine-grained category": "Coffee Filter Box"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_108.jpg",
+        "items": [
+            {
+                "category": "Tea Filters",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Coffee Filters",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_109.jpg",
+        "items": [
+            {
+                "category": "Coffee Filters",
+                "count": 3,
+                "fine-grained category": "NA  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_11.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_110.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_111.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_112.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_113.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_114.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_115.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_116.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_117.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_118.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_119.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_12.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Glass Bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_120.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_121.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_122.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_123.jpg",
+        "items": [
+            {
+                "category": "",
+                "count": 0,
+                "fine-grained category": ""
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_124.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_125.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_126.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_127.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_128.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_129.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_13.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 1,
+                "fine-grained category": "Bottled Water"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_130.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_131.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_132.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_133.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_134.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_135.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 4,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_136.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_137.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_138.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_139.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Red Apple  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_14.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 2,
+                "fine-grained category": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_140.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_141.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_142.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Red Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_143.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 4,
+                "fine-grained category": "Apples"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_144.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_145.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Pear"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_146.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 4,
+                "fine-grained category": "Pear"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_147.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 4,
+                "fine-grained category": "Pear"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_148.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 5,
+                "fine-grained category": "Pear"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_149.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 5,
+                "fine-grained category": "Pear"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_15.jpg",
+        "items": [
+            {
+                "category": "Bottles",
+                "count": 3,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_150.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_151.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_152.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_153.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_154.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Banana"
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Red Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_155.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_156.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Apple  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_157.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Apple  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_158.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_159.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 3,
+                "fine-grained category": "Pear  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_16.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 3,
+                "fine-grained category": "Glass bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_160.jpg",
+        "items": [
+            {
+                "category": "Container",
+                "count": 1,
+                "fine-grained category": "Plastic Lid"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_161.jpg",
+        "items": [
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate Hazelnut Spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_162.jpg",
+        "items": [
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_163.jpg",
+        "items": [
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate Hazelnut Spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_164.jpg",
+        "items": [
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_165.jpg",
+        "items": [
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_166.jpg",
+        "items": [
+            {
+                "category": "NA",
+                "count": 0,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_167.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_168.jpg",
+        "items": [
+            {
+                "category": "Honey",
+                "count": 1,
+                "fine-grained category": "Blossom Honey"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_169.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_17.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 3,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_170.jpg",
+        "items": [
+            {
+                "category": "Syrup",
+                "count": 1,
+                "fine-grained category": "Pancake Syrup"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_171.jpg",
+        "items": [
+            {
+                "category": "Jar",
+                "count": 1,
+                "fine-grained category": "Pickles"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_172.jpg",
+        "items": [
+            {
+                "category": "Jar",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_173.jpg",
+        "items": [
+            {
+                "category": "Container",
+                "count": 1,
+                "fine-grained category": "Squeeze Bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_174.jpg",
+        "items": [
+            {
+                "category": "Container",
+                "count": 1,
+                "fine-grained category": "Lemon juice bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_175.jpg",
+        "items": [
+            {
+                "category": "NA",
+                "count": 0,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_176.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_177.jpg",
+        "items": [
+            {
+                "category": "Container",
+                "count": 1,
+                "fine-grained category": "Vase"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_178.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Plastic Bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_179.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_18.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_180.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_181.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_182.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_183.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_184.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Chamomile tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_185.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea Mix"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_186.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_187.jpg",
+        "items": [
+            {
+                "category": "NA",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_188.jpg",
+        "items": [
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Multivitamin Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_189.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_19.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 1,
+                "fine-grained category": "Sparkling Water"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_190.jpg",
+        "items": [
+            {
+                "category": "Box",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_191.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Cumin Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_192.jpg",
+        "items": [
+            {
+                "category": "Juice Box",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_193.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_194.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_195.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Rooibos Tea"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_196.jpg",
+        "items": [
+            {
+                "category": "Box",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_197.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (8 Kr\u00e4uter)"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea (Fr\u00fcchtetee Mischung)"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea (Fenchel Anis K\u00fcmmel)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_198.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_199.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Chamomile & Orange Blossom Tea  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea Mix  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_2.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_20.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 1,
+                "fine-grained category": "Sparkling Water"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_200.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Peppermint Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_201.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "NA  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "NA  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_202.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea  "
+            },
+            {
+                "category": "NA",
+                "count": 2,
+                "fine-grained category": "NA  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_203.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Espresso"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_204.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Roasted Whole Bean"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_205.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_206.jpg",
+        "items": [
+            {
+                "category": "Bag",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_207.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 2,
+                "fine-grained category": "Espresso coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_208.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 2,
+                "fine-grained category": "NA  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_209.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_21.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 3,
+                "fine-grained category": "Sparkling Water"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_210.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 3,
+                "fine-grained category": "Espresso"
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Decaf"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_211.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_212.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_213.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_214.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_215.jpg",
+        "items": [
+            {
+                "category": "Chocolate",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_216.jpg",
+        "items": [
+            {
+                "category": "Salt",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_217.jpg",
+        "items": [
+            {
+                "category": "Salt",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_218.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_219.jpg",
+        "items": [
+            {
+                "category": "Box",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_22.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 3,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_220.jpg",
+        "items": [
+            {
+                "category": "Container",
+                "count": 1,
+                "fine-grained category": "Spice Jar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_221.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Paprika"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_222.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Ground spice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_223.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Ground Spice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_224.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_225.jpg",
+        "items": [
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "Paper Bag"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_226.jpg",
+        "items": [
+            {
+                "category": "Jar",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_227.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Oregano"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_228.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Dried herbs"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_229.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_23.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 3,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Beverage",
+                "count": 3,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_230.jpg",
+        "items": [
+            {
+                "category": "Container",
+                "count": 1,
+                "fine-grained category": "Jar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_231.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Paprika"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_232.jpg",
+        "items": [
+            {
+                "category": "Container",
+                "count": 1,
+                "fine-grained category": "Spice Jar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_233.jpg",
+        "items": [
+            {
+                "category": "Container",
+                "count": 1,
+                "fine-grained category": "Spice Jar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_234.jpg",
+        "items": [
+            {
+                "category": "Herbs",
+                "count": 1,
+                "fine-grained category": "Bay Leaves"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_235.jpg",
+        "items": [
+            {
+                "category": "Herbs",
+                "count": 1,
+                "fine-grained category": "Bay Leaves"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_236.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Strawberry Leaf Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_237.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_238.jpg",
+        "items": [
+            {
+                "category": "Spices",
+                "count": 1,
+                "fine-grained category": "Bay Leaves"
+            },
+            {
+                "category": "Spices",
+                "count": 1,
+                "fine-grained category": "Paprika"
+            },
+            {
+                "category": "Spices",
+                "count": 1,
+                "fine-grained category": "Oregano"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_239.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Filter",
+                "count": 1,
+                "fine-grained category": "Coffee Filter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_24.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 1,
+                "fine-grained category": "Bottled Water"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_240.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee"
+            },
+            {
+                "category": "Spice",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_241.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Oregano"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Paprika"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Bay leaves"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_242.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            },
+            {
+                "category": "Jar",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_243.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            },
+            {
+                "category": "Salt",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_244.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Ground Cinnamon"
+            },
+            {
+                "category": "Herb",
+                "count": 1,
+                "fine-grained category": "Laurel Leaves"
+            },
+            {
+                "category": "Salt",
+                "count": 1,
+                "fine-grained category": "Alpine Salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_245.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            },
+            {
+                "category": "Herb",
+                "count": 1,
+                "fine-grained category": "Laurel leaves"
+            },
+            {
+                "category": "Salt",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_246.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Ground Cinnamon"
+            },
+            {
+                "category": "Salt",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_247.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            },
+            {
+                "category": "Salt",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Jar",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_248.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_249.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_25.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Water Bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_250.jpg",
+        "items": [
+            {
+                "category": "Food",
+                "count": 1,
+                "fine-grained category": "Popcorn"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_251.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple Core"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_252.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_253.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_254.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 3,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_255.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 3,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_256.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 3,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_257.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_258.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_259.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "NA",
+                "count": 1,
+                "fine-grained category": "NA  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_26.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Glass Bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_260.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_261.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_262.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_263.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_264.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Onion"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_265.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 2,
+                "fine-grained category": "Red Onion"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_266.jpg",
+        "items": [
+            {
+                "category": "Vegetables",
+                "count": 1,
+                "fine-grained category": "Onions"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_267.jpg",
+        "items": [
+            {
+                "category": "Vegetables",
+                "count": 1,
+                "fine-grained category": "Red Onions"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_268.jpg",
+        "items": [
+            {
+                "category": "Vegetables",
+                "count": 1,
+                "fine-grained category": "Red Onions"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_269.jpg",
+        "items": [
+            {
+                "category": "Vegetables",
+                "count": 1,
+                "fine-grained category": "Red Onions"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_27.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_270.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_271.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            },
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_272.jpg",
+        "items": [
+            {
+                "category": "Packaging",
+                "count": 1,
+                "fine-grained category": "Paper Bag"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_273.jpg",
+        "items": [
+            {
+                "category": "Food",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_274.jpg",
+        "items": [
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_275.jpg",
+        "items": [
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_276.jpg",
+        "items": [
+            {
+                "category": "Grains",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_277.jpg",
+        "items": [
+            {
+                "category": "Grains",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_278.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_279.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_28.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Sunflower Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_280.jpg",
+        "items": [
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_281.jpg",
+        "items": [
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "Crispbread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_282.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats"
+            },
+            {
+                "category": "Cookies",
+                "count": 1,
+                "fine-grained category": "Oat Cookies"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_283.jpg",
+        "items": [
+            {
+                "category": "Grains",
+                "count": 1,
+                "fine-grained category": "Oats"
+            },
+            {
+                "category": "Snacks",
+                "count": 1,
+                "fine-grained category": "Rice Cakes"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_284.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Muesli"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_285.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Muesli"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_286.jpg",
+        "items": [
+            {
+                "category": "Grains",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_287.jpg",
+        "items": [
+            {
+                "category": "Grains",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_288.jpg",
+        "items": [
+            {
+                "category": "Grains",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_289.jpg",
+        "items": [
+            {
+                "category": "Grains",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_29.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_290.jpg",
+        "items": [
+            {
+                "category": "Food",
+                "count": 1,
+                "fine-grained category": "Cocoa Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_291.jpg",
+        "items": [
+            {
+                "category": "Food",
+                "count": 1,
+                "fine-grained category": "Cocoa Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_292.jpg",
+        "items": [
+            {
+                "category": "Cocoa",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_293.jpg",
+        "items": [
+            {
+                "category": "Cocoa",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_294.jpg",
+        "items": [
+            {
+                "category": "NA",
+                "count": 0,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_295.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_296.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Cocoa Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_297.jpg",
+        "items": [
+            {
+                "category": "Beverage Ingredient",
+                "count": 1,
+                "fine-grained category": "Cocoa Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_298.jpg",
+        "items": [
+            {
+                "category": "Rice",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_299.jpg",
+        "items": [
+            {
+                "category": "Rice",
+                "count": 1,
+                "fine-grained category": "Long Grain Rice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_3.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_30.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Sunflower Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_300.jpg",
+        "items": [
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_301.jpg",
+        "items": [
+            {
+                "category": "Rice",
+                "count": 1,
+                "fine-grained category": "Long Grain Rice  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_302.jpg",
+        "items": [
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "Sliced Bread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_303.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Sp\u00e4tzle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_304.jpg",
+        "items": [
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Baking Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_305.jpg",
+        "items": [
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Baking Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_306.jpg",
+        "items": [
+            {
+                "category": "Packets",
+                "count": 5,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_307.jpg",
+        "items": [
+            {
+                "category": "Packaged Food",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_308.jpg",
+        "items": [
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_309.jpg",
+        "items": [
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_31.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Sunflower Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_310.jpg",
+        "items": [
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "Bagels"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_311.jpg",
+        "items": [
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "Bagels"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_312.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_313.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_314.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_315.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_316.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_317.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_318.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_319.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_32.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_320.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_321.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_322.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_323.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_324.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 2,
+                "fine-grained category": "Spaghetti"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_325.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 2,
+                "fine-grained category": "Spaghetti"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_326.jpg",
+        "items": [
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_327.jpg",
+        "items": [
+            {
+                "category": "Food",
+                "count": 1,
+                "fine-grained category": "Packaged Bread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_328.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Chia Seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_329.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Chia Seeds  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_33.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_330.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_331.jpg",
+        "items": [
+            {
+                "category": "NA",
+                "count": 0,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_332.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Flax Seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_333.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Flax Seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_334.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_335.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_336.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Flaxseeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_337.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Flaxseeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_338.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Chia Seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_339.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Chia Seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_34.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Sunflower Oil  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_340.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_341.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_342.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Chia Seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_343.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Chia Seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_344.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Sesame Seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_345.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Sesame seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_346.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Sesame Seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_347.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Sesame seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_348.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Sesame seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_349.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Sesame seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_35.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Cooking Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_350.jpg",
+        "items": [
+            {
+                "category": "Food Product",
+                "count": 1,
+                "fine-grained category": "Pancake Mix"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_351.jpg",
+        "items": [
+            {
+                "category": "Box",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_352.jpg",
+        "items": [
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Cornstarch"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_353.jpg",
+        "items": [
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Cornstarch"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_354.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Cornflakes"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_355.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_356.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Almonds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_357.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Ground Almonds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_358.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Ground Almonds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_359.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Ground Almonds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_36.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_360.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 3,
+                "fine-grained category": "Ground Almonds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_361.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 3,
+                "fine-grained category": "Ground Almonds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_362.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 5,
+                "fine-grained category": "Ground Almonds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_363.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 5,
+                "fine-grained category": "Ground Almonds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_364.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Vanilla Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_365.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Vanilla Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_366.jpg",
+        "items": [
+            {
+                "category": "Packaged Food",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_367.jpg",
+        "items": [
+            {
+                "category": "Food",
+                "count": 1,
+                "fine-grained category": "Packaged Snack"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_368.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 3,
+                "fine-grained category": "Vanilla Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_369.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 3,
+                "fine-grained category": "Vanilla Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_37.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Sunflower Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_370.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 3,
+                "fine-grained category": "Vanilla Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_371.jpg",
+        "items": [
+            {
+                "category": "Baking Ingredient",
+                "count": 2,
+                "fine-grained category": "Vanilla Sugar  "
+            },
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Vanilla Flavor"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_372.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Vanilla Sugar"
+            },
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Baking Powder"
+            },
+            {
+                "category": "NA",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_373.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Vanilla Sugar"
+            },
+            {
+                "category": "Flavoring",
+                "count": 1,
+                "fine-grained category": "Vanilla Flavor"
+            },
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Baking Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_374.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Granulated Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_375.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_376.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Granulated Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_377.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Granulated Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_378.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Granulated Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_379.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Granulated Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_38.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Cooking Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_380.jpg",
+        "items": [
+            {
+                "category": "NA",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_381.jpg",
+        "items": [
+            {
+                "category": "NA",
+                "count": 0,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_382.jpg",
+        "items": [
+            {
+                "category": "Paper",
+                "count": 1,
+                "fine-grained category": "Crumpled Paper"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_383.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_384.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Granulated Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_385.jpg",
+        "items": [
+            {
+                "category": "NA",
+                "count": 0,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_386.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_387.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_388.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_389.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_39.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 2,
+                "fine-grained category": "Sunflower Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_390.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_391.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_392.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_393.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_394.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 2,
+                "fine-grained category": "Powdered Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_395.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 2,
+                "fine-grained category": "Powdered Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_396.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_397.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_398.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 2,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_399.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 2,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_4.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_40.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_400.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 2,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Vanilla Sugar"
+            },
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_401.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 2,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Vanilla Sugar"
+            },
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_402.jpg",
+        "items": [
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "Paper Bag"
+            },
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "Plastic Bag"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_403.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_404.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_405.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_406.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_407.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_408.jpg",
+        "items": [
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "Paper Bag"
+            },
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "Plastic Bag"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_409.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_41.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Cooking Oil"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_410.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_411.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_412.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_413.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_414.jpg",
+        "items": [
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "Shopping Bag"
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_415.jpg",
+        "items": [
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "Shopping Bag"
+            },
+            {
+                "category": "Snack",
+                "count": 1,
+                "fine-grained category": "Pretzels"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_416.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_417.jpg",
+        "items": [
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "Paper Bag"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_418.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 2,
+                "fine-grained category": "Wheat Flour Type 405"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_419.jpg",
+        "items": [
+            {
+                "category": "Flour",
+                "count": 2,
+                "fine-grained category": "Wheat Flour Type 405"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_42.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 2,
+                "fine-grained category": "Sunflower oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_420.jpg",
+        "items": [
+            {
+                "category": "Paper Packaging",
+                "count": 3,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_421.jpg",
+        "items": [
+            {
+                "category": "Paper Bags",
+                "count": 3,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_422.jpg",
+        "items": [
+            {
+                "category": "Eggs",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_423.jpg",
+        "items": [
+            {
+                "category": "Eggs",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_424.jpg",
+        "items": [
+            {
+                "category": "Eggs",
+                "count": 1,
+                "fine-grained category": "NA  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_425.jpg",
+        "items": [
+            {
+                "category": "Eggs",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_426.jpg",
+        "items": [
+            {
+                "category": "Eggs",
+                "count": 6,
+                "fine-grained category": "Brown Eggs"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_427.jpg",
+        "items": [
+            {
+                "category": "Eggs",
+                "count": 6,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_428.jpg",
+        "items": [
+            {
+                "category": "Eggs",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_429.jpg",
+        "items": [
+            {
+                "category": "Eggs",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_43.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_430.jpg",
+        "items": [
+            {
+                "category": "Butter",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_431.jpg",
+        "items": [
+            {
+                "category": "Butter",
+                "count": 1,
+                "fine-grained category": "Peanut Butter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_432.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_433.jpg",
+        "items": [
+            {
+                "category": "Packaging",
+                "count": 1,
+                "fine-grained category": "Box"
+            },
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "Plastic Bag"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_434.jpg",
+        "items": [
+            {
+                "category": "Butter",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_435.jpg",
+        "items": [
+            {
+                "category": "Butter",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_436.jpg",
+        "items": [
+            {
+                "category": "Butter",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_437.jpg",
+        "items": [
+            {
+                "category": "Dairy",
+                "count": 1,
+                "fine-grained category": "Butter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_438.jpg",
+        "items": [
+            {
+                "category": "Dairy",
+                "count": 3,
+                "fine-grained category": "Butter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_439.jpg",
+        "items": [
+            {
+                "category": "Dairy",
+                "count": 3,
+                "fine-grained category": "Butter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_44.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_440.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate spread"
+            },
+            {
+                "category": "Butter",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_441.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Water"
+            },
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate spread"
+            },
+            {
+                "category": "Dairy",
+                "count": 1,
+                "fine-grained category": "Butter"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_442.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate spread"
+            },
+            {
+                "category": "Butter",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_443.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate spread"
+            },
+            {
+                "category": "Butter",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_444.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 2,
+                "fine-grained category": "Water"
+            },
+            {
+                "category": "Butter",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Lemon Juice",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_445.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 2,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Butter",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Lemon Juice",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_446.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 2,
+                "fine-grained category": "NA  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice  "
+            },
+            {
+                "category": "Produce",
+                "count": 1,
+                "fine-grained category": "Onions  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_447.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 2,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_448.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_449.jpg",
+        "items": [
+            {
+                "category": "Water",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            },
+            {
+                "category": "Lemon Juice",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Potatoes",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_45.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_450.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Laurel Leaves"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_451.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            },
+            {
+                "category": "Herb",
+                "count": 1,
+                "fine-grained category": "Bay Leaves"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            },
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate Hazelnut Spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_452.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Green Tea"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_453.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon juice"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_454.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Coffee"
+            },
+            {
+                "category": "Kitchen item",
+                "count": 1,
+                "fine-grained category": "Coffee filters"
+            },
+            {
+                "category": "Condiment",
+                "count": 1,
+                "fine-grained category": "Lemon juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_455.jpg",
+        "items": [
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Cinnamon"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Beverage accessory",
+                "count": 1,
+                "fine-grained category": "Coffee filter"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon juice"
+            },
+            {
+                "category": "Packaging",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_456.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Filter",
+                "count": 1,
+                "fine-grained category": "Coffee Filter"
+            },
+            {
+                "category": "NA",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_457.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Baking Powder",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            },
+            {
+                "category": "Coffee Filters",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_458.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Filters",
+                "count": 1,
+                "fine-grained category": "Coffee Filters"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "Sliced Bread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_459.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Coffee Filters",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "Sliced Bread"
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_46.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_460.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            },
+            {
+                "category": "Coffee Filters",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Snacks",
+                "count": 1,
+                "fine-grained category": "Cookies"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_461.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            },
+            {
+                "category": "Coffee Filters",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "Crispbread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_462.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Apple Juice"
+            },
+            {
+                "category": "Oats",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_463.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Tea",
+                "count": 2,
+                "fine-grained category": "Fennel Anise Caraway Tea"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Produce",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_464.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Produce",
+                "count": 1,
+                "fine-grained category": "Onions"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_465.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Almonds"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea"
+            },
+            {
+                "category": "Muesli",
+                "count": 1,
+                "fine-grained category": "Basic Muesli 5-Corn-Mix"
+            },
+            {
+                "category": "Sauce",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_466.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea"
+            },
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Ground Almonds"
+            },
+            {
+                "category": "Muesli",
+                "count": 1,
+                "fine-grained category": "5-Grain Mix"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_467.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Vanilla Sugar"
+            },
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Nuts",
+                "count": 2,
+                "fine-grained category": "Ground Almonds"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea"
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Muesli Mix"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_468.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Vanilla Sugar"
+            },
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Nuts",
+                "count": 2,
+                "fine-grained category": "Almonds"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Anise Caraway Tea"
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Muesli"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_469.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 2,
+                "fine-grained category": "Powdered Sugar, Vanilla Sugar"
+            },
+            {
+                "category": "Eggs",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Garlic",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Oats",
+                "count": 1,
+                "fine-grained category": "Whole Oats"
+            },
+            {
+                "category": "Muesli",
+                "count": 1,
+                "fine-grained category": "5-Grain Mix"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_47.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_470.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Sugar",
+                "count": 2,
+                "fine-grained category": "Vanilla Sugar"
+            },
+            {
+                "category": "Grain",
+                "count": 1,
+                "fine-grained category": "Oat Flakes"
+            },
+            {
+                "category": "Grain",
+                "count": 1,
+                "fine-grained category": "Muesli Mix"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_471.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 2,
+                "fine-grained category": "Powdered Sugar, Vanilla Sugar"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            },
+            {
+                "category": "Grain",
+                "count": 1,
+                "fine-grained category": "Oat Flakes"
+            },
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_472.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 2,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Sugar",
+                "count": 2,
+                "fine-grained category": "Vanilla Sugar"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oat Flakes"
+            },
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_473.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "Crispbread"
+            },
+            {
+                "category": "Garlic",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Sparkling Wine"
+            },
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Baking Powder"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_474.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Vegetables",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            },
+            {
+                "category": "Oats",
+                "count": 1,
+                "fine-grained category": "Rolled Oats"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            },
+            {
+                "category": "Alcohol",
+                "count": 2,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Salt",
+                "count": 1,
+                "fine-grained category": "Table Salt"
+            },
+            {
+                "category": "Baking Mix",
+                "count": 1,
+                "fine-grained category": "Baking Mix"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_475.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Baking Powder"
+            },
+            {
+                "category": "Tea Accessory",
+                "count": 1,
+                "fine-grained category": "Tea Filter"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Lemon Juice",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Jar",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Bag",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_476.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Baking Powder"
+            },
+            {
+                "category": "Tea Accessory",
+                "count": 1,
+                "fine-grained category": "Tea Filter"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Onion"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Herb",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Lemon Juice",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_477.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Baking Ingredient",
+                "count": 1,
+                "fine-grained category": "Baking Powder"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_478.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered sugar"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Oregano"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Paprika"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon juice"
+            },
+            {
+                "category": "Alcohol",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Baking ingredient",
+                "count": 1,
+                "fine-grained category": "Baking powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_479.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Organic Milk"
+            },
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Dark Milk"
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_48.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_480.jpg",
+        "items": [
+            {
+                "category": "Sugar",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            },
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Oat Milk"
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Vegetable Oil"
+            },
+            {
+                "category": "Drink",
+                "count": 1,
+                "fine-grained category": "Barista Drink"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_481.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 3,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Carton",
+                "count": 1,
+                "fine-grained category": "Milk"
+            },
+            {
+                "category": "Packet",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Lemon juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_482.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 2,
+                "fine-grained category": "Water"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Wine"
+            },
+            {
+                "category": "Carton",
+                "count": 1,
+                "fine-grained category": "Milk"
+            },
+            {
+                "category": "Packet",
+                "count": 1,
+                "fine-grained category": "Grated Cheese"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_483.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Bottle",
+                "count": 2,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Carton",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Condiment",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Mixed Herbs"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_484.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling Water"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Wine"
+            },
+            {
+                "category": "Condiment",
+                "count": 1,
+                "fine-grained category": "Lemon Juice"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Pepper"
+            },
+            {
+                "category": "NA",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_485.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 5,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Jar",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_486.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Wine"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Champagne"
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Tonic Water"
+            },
+            {
+                "category": "Bottle",
+                "count": 2,
+                "fine-grained category": "Water"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_487.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 6,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_488.jpg",
+        "items": [
+            {
+                "category": "Alcohol",
+                "count": 3,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Water",
+                "count": 2,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_489.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            },
+            {
+                "category": "Bottle",
+                "count": 4,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Box",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_49.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_490.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            },
+            {
+                "category": "Bottle",
+                "count": 4,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Carton",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_491.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Espresso"
+            },
+            {
+                "category": "Bottle",
+                "count": 3,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_492.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Wine"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Water"
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Espresso"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_493.jpg",
+        "items": [
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate spread"
+            },
+            {
+                "category": "Juice",
+                "count": 1,
+                "fine-grained category": "Lemon juice"
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Espresso"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Bay leaves"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_494.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Espresso"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Condiment",
+                "count": 1,
+                "fine-grained category": "Lemon juice"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_495.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Lemon juice  "
+            },
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA  "
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            },
+            {
+                "category": "Powder",
+                "count": 1,
+                "fine-grained category": "NA  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_496.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Water  "
+            },
+            {
+                "category": "Condiment",
+                "count": 1,
+                "fine-grained category": "Lemon juice  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            },
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Peanut butter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_497.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Banana"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "Brown Bread"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            },
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Sesame Seeds"
+            },
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_498.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            },
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Sesame Seeds  "
+            },
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate Spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_499.jpg",
+        "items": [
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate spread"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Snack",
+                "count": 1,
+                "fine-grained category": "Granola bar"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_5.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Butter",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_50.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Alcoholic beverage"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_500.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA  "
+            },
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "NA  "
+            },
+            {
+                "category": "Rice",
+                "count": 1,
+                "fine-grained category": "Rice Cakes  "
+            },
+            {
+                "category": "Grains",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_501.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Potato"
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "Chocolate Spread"
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Granola"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_502.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple  "
+            },
+            {
+                "category": "Bread",
+                "count": 1,
+                "fine-grained category": "NA  "
+            },
+            {
+                "category": "Grain",
+                "count": 1,
+                "fine-grained category": "Rice  "
+            },
+            {
+                "category": "Spice",
+                "count": 1,
+                "fine-grained category": "Bay Leaves  "
+            },
+            {
+                "category": "Spread",
+                "count": 1,
+                "fine-grained category": "NA  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_51.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_52.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Wine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_53.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Wine bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_54.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Balsamic Vinegar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_55.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Wine bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_56.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_57.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_58.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_59.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_6.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Chocolate",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_60.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_61.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Wine bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_62.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Prosecco"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_63.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Wine bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_64.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Wine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_65.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Wine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_66.jpg",
+        "items": [
+    {
+        "category": "NA",
+        "count": 0,
+        "fine-grained category": "NA"
+    }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_67.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Wine Bottle"
+            },
+            {
+                "category": "Container",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_68.jpg",
+        "items": [
+            {
+                "category": "Bottle",
+                "count": 1,
+                "fine-grained category": "Wine bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_69.jpg",
+        "items": [
+            {
+                "category": "Drink",
+                "count": 1,
+                "fine-grained category": "Oat Drink"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_7.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 2,
+                "fine-grained category": "Ground Coffee"
+            },
+            {
+                "category": "Chocolate",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_70.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Carton Drink"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_71.jpg",
+        "items": [
+            {
+                "category": "Drink",
+                "count": 1,
+                "fine-grained category": "Oat Drink"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_72.jpg",
+        "items": [
+            {
+                "category": "Drink",
+                "count": 1,
+                "fine-grained category": "Oat Drink"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_73.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_74.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Whole Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_75.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Whole Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_76.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Whole Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_77.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Whole Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_78.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_79.jpg",
+        "items": [
+            {
+                "category": "Container",
+                "count": 2,
+                "fine-grained category": "Carton"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_8.jpg",
+        "items": [
+            {
+                "category": "Package",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_80.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 2,
+                "fine-grained category": "Whole Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_81.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 2,
+                "fine-grained category": "Whole Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_82.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Oat Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_83.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Low-fat Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_84.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Low-fat milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_85.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Low-fat Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_86.jpg",
+        "items": [
+            {
+                "category": "Carton",
+                "count": 3,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_87.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 3,
+                "fine-grained category": "Low-fat milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_88.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 2,
+                "fine-grained category": "Low-fat milk  "
+            },
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Whole milk  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_89.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 2,
+                "fine-grained category": "Whole Milk  "
+            },
+            {
+                "category": "Milk",
+                "count": 2,
+                "fine-grained category": "Low-fat Milk  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_9.jpg",
+        "items": [
+            {
+                "category": "Packaging",
+                "count": 1,
+                "fine-grained category": "Foil Wrapper"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_90.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 3,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_91.jpg",
+        "items": [
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Low-fat Milk"
+            },
+            {
+                "category": "Milk",
+                "count": 1,
+                "fine-grained category": "Whole Milk"
+            },
+            {
+                "category": "Milk Alternative",
+                "count": 1,
+                "fine-grained category": "Oat Drink"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_92.jpg",
+        "items": [
+            {
+                "category": "Carton",
+                "count": 2,
+                "fine-grained category": "NA"
+            },
+            {
+                "category": "Box",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_93.jpg",
+        "items": [
+            {
+                "category": "Tea accessory",
+                "count": 1,
+                "fine-grained category": "Tea filter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_94.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea filter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_95.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea filter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_96.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Black Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_97.jpg",
+        "items": [
+            {
+                "category": "Coffee Accessories",
+                "count": 1,
+                "fine-grained category": "Coffee Filters"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_98.jpg",
+        "items": [
+            {
+                "category": "Coffee Filters",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_99.jpg",
+        "items": [
+            {
+                "category": "Box",
+                "count": 1,
+                "fine-grained category": "NA"
+            }
+        ]
+    }
+]

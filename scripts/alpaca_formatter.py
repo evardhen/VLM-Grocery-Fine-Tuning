@@ -1,20 +1,23 @@
 import json
+import yaml
 
 BASE_QUESTION = "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts."
-SYSTEM_PROMPT = "You are grocery detector who scans the groceries in an image. For each item, provide the fine-grained category, the coarse category and the count. Per fine-grained category, list how many there are. If you cannot identify a specific fine-grained category, repeat the coarse category for both. If multiple items of the same category but different fine-grained category appear (e.g., different variations, brands), list each separately."
 
-def alpaca_format(dataset_path):
-    with open(dataset_path, "r") as f:
-        dataset = json.load(f)
+def alpaca_format(path_list, system_prompt):
+    dataset = []
+    for dataset_path in path_list:
+        with open(dataset_path, "r") as f:
+            dataset.extend(json.load(f))
 
     formatted_dataset = []
+    print(f"Dataset length: {len(dataset)}")
 
     for entry in dataset:
         new_entry = {
             "question": BASE_QUESTION,
             "answer": None,
-            "images": [entry["path"].replace("datasets/", "data/", 1)],
-            "system": SYSTEM_PROMPT,
+            "images": [entry["path"]],
+            "system": system_prompt,
             }
         answer = "" if len(entry["items"]) != 0 else "There are no items in the image."
 
@@ -34,10 +37,27 @@ def save_alpaca_format(dataset, path):
     print(f"File saved successfully to: {path}")
 
 if __name__ == "__main__":
-    dataset_path = "data/metadata/final/freiburg_grocery_dataset.json"
+    with open("configs/prompts/system_prompts.yaml", "r") as file:
+        data = yaml.safe_load(file)
+    # SYSTEM_PROMPT_SIMPLE = data["simple_prompt"]
+    SYSTEM_PROMPT_FEW_SHOT = data["few_shot_prompt"]
+    # SYSTEM_PROMPT_JSON_SIMPLE = data["json_simple_prompt"]
+    # SYSTEM_PROMPT_JSON_FEW_SHOT = data["json_few_shot_prompt"]
+    # dataset_path = "data/metadata/final/freiburg_grocery_dataset.json"
     # dataset_path = "data/metadata/final/fruits_and_vegs_dataset.json"
-    # dataset_path = "data/metadata/final/zeki_grocery_dataset.json"
-    # dataset_path = "data/metadata/final/zeki_2_grocery_dataset.json"
-    output_path = "data/freiburg_grocery.json"
-    data = alpaca_format(dataset_path)
-    save_alpaca_format(data, output_path)
+    dataset_path = "data/predictions/openai/zeki_groceries_dataset_raw.json"
+    dataset_path_2 = "data/predictions/openai/zeki_2_groceries_dataset_raw.json"
+    output_path_simple = "data/predictions/openai/zeki_grocery_dataset.json"
+    # output_path_few_shot = "data/zeki_grocery_few_shot_prompt.json"
+    # output_path_simple_json = "data/zeki_grocery_simple_json_prompt.json"
+    # output_path_few_shot_json = "data/zeki_grocery_few_shot_json_prompt.json"
+    
+    path_list = [dataset_path, dataset_path_2]
+    data = alpaca_format(path_list, SYSTEM_PROMPT_FEW_SHOT)
+    save_alpaca_format(data, output_path_simple)
+    # data = alpaca_format(path_list, SYSTEM_PROMPT_FEW_SHOT)
+    # save_alpaca_format(data, output_path_few_shot)
+    # data = alpaca_format(path_list, SYSTEM_PROMPT_FEW_SHOT)
+    # save_alpaca_format(data, output_path_simple_json)
+    # data = alpaca_format(path_list, SYSTEM_PROMPT_FEW_SHOT)
+    # save_alpaca_format(data, output_path_few_shot_json)

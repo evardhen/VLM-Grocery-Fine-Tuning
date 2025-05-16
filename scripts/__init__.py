@@ -26,5 +26,9 @@ def add_question_ids(
             path.write_text(json.dumps(data, indent=4))
 
 if __name__ == "__main__":
-    path_list = ["data/eval.json", "data/zeki_grocery_train.json", "data/fruits_and_vegs_grocery.json", "data/freiburg_grocery.json"]
+    # path_list = ["data/eval.json", "data/zeki_grocery_train.json", "data/fruits_and_vegs_grocery.json", "data/freiburg_grocery.json"]
+    # path_list = ["data/eval_simple_prompt.json", "data/zeki_grocery_simple_prompt_train.json", "data/fruits_and_vegs_grocery_simple_prompt.json", "data/freiburg_grocery_simple_prompt.json"]
+    # path_list = ["data/eval_few_shot_prompt.json", "data/zeki_grocery_few_shot_prompt_train.json", "data/fruits_and_vegs_grocery_few_shot_prompt.json", "data/freiburg_grocery_few_shot_prompt.json"]
+    # path_list = ["data/eval_json_simple_prompt.json", "data/zeki_grocery_json_simple_prompt_train.json", "data/fruits_and_vegs_grocery_simple_json_prompt.json", "data/freiburg_grocery_simple_json_prompt.json"]
+    path_list = ["data/predictions/openai/eval.json", "data/predictions/openai/zeki_grocery_train.json", "data/predictions/openai/fruits_and_vegs_dataset.json", "data/predictions/openai/freiburg_grocery_dataset.json"]
     add_question_ids(path_list)

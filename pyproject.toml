@@ -8,7 +8,7 @@ dependencies = [
     "bitsandbytes>=0.44.1",
     "ipykernel>=6.29.5",
     "liger-kernel>=0.4.2",
-    "llamafactory @ git+https://github.com/hiyouga/LLaMA-Factory.git",
+    "llamafactory==0.9.2",
     "numpy>=1.26.4",
     "qwen-vl-utils>=0.0.8",
     "setuptools>=75.6.0",
@@ -32,4 +32,25 @@ dependencies = [
     "sentence-transformers>=4.1.0",
     "nltk>=3.9.1",
     "flashinfer-python>=0.2.5",
+    "wandb>=0.19.11",
+    "mistral-common>=1.5.4",
+    "huggingface-hub>=0.29.3",
+    "transformers>=4.49",
+    "peft>=0.12",
+    "pillow>=11.1.0",
+    "matplotlib>=3.10.1",
+    "tqdm>=4.67.1",
+    "ttach>=0.0.3",
+    "grad-cam>=1.5.5",
+    "opencv-python-headless==4.11.0.86",
+]
+
+[tool.uv.sources]
+llamafactory = { git = "https://github.com/hiyouga/LLaMA-Factory" }
+
+
+[tool.uv]
+override-dependencies = [
+  # neutralise every transitive request for the GUI wheel
+  "opencv-python; sys_platform == 'never'",
 ]
