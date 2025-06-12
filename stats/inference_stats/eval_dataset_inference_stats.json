@@ -1,7 +1,318 @@
 {
     "api": {},
     "api_with_threading": {},
-    "chat": {},
+    "chat": {
+        "single_query_multiple_images": {
+            "total_time": 975.5468852519989,
+            "avg_time": 4.877734426259995,
+            "avg_images_per_query": 3.0,
+            "avg_prompt_tokens_per_query": 2347.0,
+            "avg_completion_tokens_per_query": 90.025,
+            "max_prompt_tokens_per_query": 2347,
+            "min_prompt_tokens_per_query": 2347,
+            "max_completion_tokens_per_query": 1024,
+            "min_completion_tokens_per_query": 14
+        },
+        "single_query_single_image": {
+            "total_time": 421.50263571739197,
+            "avg_time": 2.10751317858696,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 807.01,
+            "avg_completion_tokens_per_query": 80.515,
+            "max_prompt_tokens_per_query": 809,
+            "min_prompt_tokens_per_query": 807,
+            "max_completion_tokens_per_query": 1024,
+            "min_completion_tokens_per_query": 31
+        },
+        "multiple_queries_multiple_images": {
+            "total_time": 669.1783168315887,
+            "avg_time": 3.3458915841579437,
+            "avg_images_per_query": 3.0,
+            "avg_prompt_tokens_per_query": 2347.0,
+            "avg_completion_tokens_per_query": 94.175,
+            "max_prompt_tokens_per_query": 2347,
+            "min_prompt_tokens_per_query": 2347,
+            "max_completion_tokens_per_query": 1024,
+            "min_completion_tokens_per_query": 24
+        },
+        "multiple_queries_single_image": {
+            "total_time": 437.76377034187317,
+            "avg_time": 2.1888188517093656,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 807.01,
+            "avg_completion_tokens_per_query": 82.565,
+            "max_prompt_tokens_per_query": 809,
+            "min_prompt_tokens_per_query": 807,
+            "max_completion_tokens_per_query": 1024,
+            "min_completion_tokens_per_query": 21
+        }
+    },
     "vllm": {
+        "batch_1_query_single_image": {
+            "total_time": 1245.5084536075592,
+            "avg_time": 6.227542268037796,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 51.325,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 512,
+            "min_completion_tokens_per_query": 10
+        },
+        "batch_2_query_single_image": {
+            "total_time": 599.2911913394928,
+            "avg_time": 2.996455956697464,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 46.84,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 343,
+            "min_completion_tokens_per_query": 9
+        },
+        "batch_4_query_single_image": {
+            "total_time": 483.8436896800995,
+            "avg_time": 2.4192184484004975,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 51.98,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 512,
+            "min_completion_tokens_per_query": 11
+        },
+        "batch_8_query_single_image": {
+            "total_time": 564.5369882583618,
+            "avg_time": 2.822684941291809,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 45.01,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 182,
+            "min_completion_tokens_per_query": 10
+        },
+        "batch_16_query_single_image": {
+            "total_time": 347.79962825775146,
+            "avg_time": 1.7389981412887574,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 48.015,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 317,
+            "min_completion_tokens_per_query": 10
+        },
+        "batch_32_query_single_image": {
+            "total_time": 331.0613622665405,
+            "avg_time": 1.6553068113327027,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 49.745,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 512,
+            "min_completion_tokens_per_query": 9
+        },
+        "batch_1_query_single_image_sft": {
+            "total_time": 534.1116850376129,
+            "avg_time": 2.6705584251880645,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 23.275,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 73,
+            "min_completion_tokens_per_query": 17
+        },
+        "batch_2_query_single_image_sft": {
+            "total_time": 280.7469177246094,
+            "avg_time": 1.4037345886230468,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 23.13,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 92,
+            "min_completion_tokens_per_query": 17
+        },
+        "batch_4_query_single_image_sft": {
+            "total_time": 265.37325048446655,
+            "avg_time": 1.3268662524223327,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 23.13,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 91,
+            "min_completion_tokens_per_query": 17
+        },
+        "batch_8_query_single_image_sft": {
+            "total_time": 327.42156624794006,
+            "avg_time": 1.6371078312397003,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 22.715,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 72,
+            "min_completion_tokens_per_query": 17
+        },
+        "batch_16_query_single_image_sft": {
+            "total_time": 245.618750333786,
+            "avg_time": 1.22809375166893,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 23.15,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 72,
+            "min_completion_tokens_per_query": 17
+        },
+        "batch_32_query_single_image_sft": {
+            "total_time": 243.07554411888123,
+            "avg_time": 1.215377720594406,
+            "avg_images_per_query": 1.0,
+            "avg_prompt_tokens_per_query": 456.0,
+            "avg_completion_tokens_per_query": 23.475,
+            "max_prompt_tokens_per_query": 456,
+            "min_prompt_tokens_per_query": 456,
+            "max_completion_tokens_per_query": 77,
+            "min_completion_tokens_per_query": 17
+        }
+    },
+    "huggingface": {
+        "batch_1_query_single_image": {
+            "total_time": 498.6984884738922,
+            "avg_time": 2.493492442369461,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 45.965,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 183,
+            "min_completion_tokens_per_query": 17
+        },
+        "batch_2_query_single_image": {
+            "total_time": 371.2232961654663,
+            "avg_time": 1.8561164808273316,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 61.59,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 512,
+            "min_completion_tokens_per_query": 26
+        },
+        "batch_4_query_single_image": {
+            "total_time": 295.1480574607849,
+            "avg_time": 1.4757402873039245,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 82.0,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 512,
+            "min_completion_tokens_per_query": 32
+        },
+        "batch_8_query_single_image": {
+            "total_time": 222.68919229507446,
+            "avg_time": 1.1134459614753722,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 110.96,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 512,
+            "min_completion_tokens_per_query": 37
+        },
+        "batch_16_query_single_image": {
+            "total_time": 247.22128343582153,
+            "avg_time": 1.2361064171791076,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 182.28,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 512,
+            "min_completion_tokens_per_query": 57
+        },
+        "batch_32_query_single_image": {
+            "total_time": 191.34364366531372,
+            "avg_time": 0.9567182183265686,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 168.36,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 282,
+            "min_completion_tokens_per_query": 49
+        },
+        "batch_1_query_single_image_sft": {
+            "total_time": 458.2769365310669,
+            "avg_time": 2.2913846826553343,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 23.075,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 72,
+            "min_completion_tokens_per_query": 17
+        },
+        "batch_2_query_single_image_sft": {
+            "total_time": 307.5086064338684,
+            "avg_time": 1.537543032169342,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 25.0,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 72,
+            "min_completion_tokens_per_query": 17
+        },
+        "batch_4_query_single_image_sft": {
+            "total_time": 251.209974527359,
+            "avg_time": 1.256049872636795,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 27.52,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 72,
+            "min_completion_tokens_per_query": 17
+        },
+        "batch_8_query_single_image_sft": {
+            "total_time": 176.48650884628296,
+            "avg_time": 0.8824325442314148,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 32.96,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 72,
+            "min_completion_tokens_per_query": 17
+        },
+        "batch_16_query_single_image_sft": {
+            "total_time": 165.5995316505432,
+            "avg_time": 0.8279976582527161,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 42.0,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 72,
+            "min_completion_tokens_per_query": 17
+        },
+        "batch_32_query_single_image_sft": {
+            "total_time": 179.7440526485443,
+            "avg_time": 0.8987202632427216,
+            "avg_images_per_query": 1,
+            "avg_prompt_tokens_per_query": 377.0,
+            "avg_completion_tokens_per_query": 53.8,
+            "max_prompt_tokens_per_query": 377,
+            "min_prompt_tokens_per_query": 377,
+            "max_completion_tokens_per_query": 72,
+            "min_completion_tokens_per_query": 21
+        }
     }
 }

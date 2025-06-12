@@ -33,15 +33,16 @@ class InferenceVLLM:
         json_output_path: str,
         adapter_name_or_path: str = None,
         dataset_dir: str = "data",
-        cutoff_len: int = 8192,
+        cutoff_len: int = 1024,
         max_samples: int = None,
         vllm_config: str = "{}",
         temperature: float = 0.95, # Randomness of output sampling
         top_p: float = 0.7, # Sorting tokens by their probability in a descending order and then adding them up, until top_p value is reached; then softmax is calculated with reduced vocab size
         top_k: int = 50, # Same as top_p, but with highest k prob values
-        max_new_tokens: int = 1024,
+        max_new_tokens: int = 512,
         repetition_penalty: float = 1.0, # Lower 1 penalizes same output tokens, larger 1 enhances it
-        image_resolution: int = 589824): 
+        image_resolution: int = 262144,
+        batch_size = 8): 
         
         self.predictions = []
         self.json_output_path = json_output_path
@@ -60,6 +61,7 @@ class InferenceVLLM:
         self.dataset = dataset
         self.model_name_or_path = model_name_or_path
         self.image_resolution = image_resolution
+        self.batch_size = batch_size
 
 
     def run(self, max_dataset_len = None, dataset_start_index = None):
@@ -140,11 +142,13 @@ class InferenceVLLM:
         engine_args = {
             "model": self.model_args.model_name_or_path,
             "trust_remote_code": True,
-            "dtype": self.model_args.infer_dtype,
+            "dtype": "half",
             "tensor_parallel_size": get_device_count() or 1,
             "disable_log_stats": True,
             "enable_lora": self.model_args.adapter_name_or_path is not None,
+            "max_model_len": self.cutoff_len + self.max_new_tokens
         }
+        engine_args["max_num_seqs"] = self.batch_size
 
         if template_obj.mm_plugin.__class__.__name__ != "BasePlugin":
             # Max number of images per query

@@ -66,7 +66,6 @@ if "__main__" == __name__:
     config_dir = "configs/inference_configs/fixed_inference_image_resolution_589824"
     output_dir = "data/predictions/chat_backend/fixed_inference_image_resolution_589824"
     dataset_path = "data/eval.json"
-    dataset_path_2 = "data/eval_structured.json"
     config_files = glob.glob(os.path.join(config_dir, "*.yaml"))
 
     # Loop over each config file
@@ -77,21 +76,8 @@ if "__main__" == __name__:
         base_name = os.path.splitext(base_filename)[0]
         json_output_path = os.path.join(output_dir, f"{base_name}.json")
 
-        if "res_simple" in base_name:
-            predict_inference_chat(
-                model_config_path=config_path,
-                dataset_path=dataset_path,
-                json_output_path=json_output_path,
-            )
-        elif "res_few_shot" in base_name:
-            predict_inference_chat(
-                model_config_path=config_path,
-                dataset_path=dataset_path,
-                json_output_path=json_output_path,
-            )
-        elif "res_json" in base_name:
-            predict_inference_chat(
-                model_config_path=config_path,
-                dataset_path=dataset_path_2,
-                json_output_path=json_output_path,
-            )
+        predict_inference_chat(
+            model_config_path=config_path,
+            dataset_path=dataset_path,
+            json_output_path=json_output_path,
+        )

@@ -1,92 +1,147 @@
 {
-    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2vl_lora_sft_grocery_262144_res.json": {
-        "bert_cos_category": 0.7937,
-        "bert_cos_fine": 0.7645,
-        "count_em": 0.8825
-    },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2vl_base.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2vl_base.json": {
         "bert_cos_category": 0.3615,
         "bert_cos_fine": 0.3228,
         "count_em": 0.8889
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2.5vl_lora_sft_grocery_262144_res.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2.5vl_lora_sft_grocery_262144_res.json": {
         "bert_cos_category": 0.7545,
         "bert_cos_fine": 0.7372,
         "count_em": 0.8906
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2.5vl_lora_sft_grocery_589824_res_quantized.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2.5vl_lora_sft_grocery_589824_res_quantized.json": {
         "bert_cos_category": 0.7724,
         "bert_cos_fine": 0.7273,
         "count_em": 0.8947
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2.5vl_lora_sft_grocery_589824_res.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2.5vl_lora_sft_grocery_589824_res.json": {
         "bert_cos_category": 0.7971,
         "bert_cos_fine": 0.7731,
         "count_em": 0.902
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2.5vl_lora_sft_grocery_700000_res.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2.5vl_lora_sft_grocery_700000_res.json": {
         "bert_cos_category": 0.7407,
         "bert_cos_fine": 0.7267,
         "count_em": 0.8537
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2.5vl_32b_lora_sft_grocery_589824_res_quantized.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2.5vl_32b_lora_sft_grocery_589824_res_quantized.json": {
         "bert_cos_category": 0.757,
         "bert_cos_fine": 0.6839,
         "count_em": 0.8459
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2.5vl_3b_lora_sft_grocery_589824_res.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2.5vl_3b_lora_sft_grocery_589824_res.json": {
         "bert_cos_category": 0.7809,
         "bert_cos_fine": 0.7573,
         "count_em": 0.9017
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2.5vl_3b_lora_sft_grocery_589824_res_quantized.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2.5vl_3b_lora_sft_grocery_589824_res_quantized.json": {
         "bert_cos_category": 0.7092,
         "bert_cos_fine": 0.6321,
         "count_em": 0.7686
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2vl_lora_sft_grocery_589824_res.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2vl_lora_sft_grocery_589824_res.json": {
         "bert_cos_category": 0.8178,
         "bert_cos_fine": 0.7936,
         "count_em": 0.8798
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2vl_lora_sft_grocery_262144_res.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2vl_lora_sft_grocery_262144_res.json": {
         "bert_cos_category": 0.8041,
         "bert_cos_fine": 0.7731,
         "count_em": 0.8909
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/llava_lora_sft_grocery_589824_res.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/llava_lora_sft_grocery_589824_res.json": {
         "bert_cos_category": 0.7141,
         "bert_cos_fine": 0.6528,
         "count_em": 0.8475
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/llava_lora_sft_grocery_262144_res.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/llava_lora_sft_grocery_262144_res.json": {
         "bert_cos_category": 0.8,
         "bert_cos_fine": 0.7484,
         "count_em": 0.8358
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/llava_lora_sft_grocery_700000_res.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/llava_lora_sft_grocery_700000_res.json": {
         "bert_cos_category": 0.7088,
         "bert_cos_fine": 0.6492,
         "count_em": 0.8222
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/pixtral_lora_sft_grocery_589824_res.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/pixtral_lora_sft_grocery_589824_res.json": {
         "bert_cos_category": 0.7128,
         "bert_cos_fine": 0.6538,
         "count_em": 0.8355
     },
     "data/predictions/openai/openai_gpt4o_predictions.json": {
-        "bert_cos_category": 1.0,
-        "bert_cos_fine": 1.0,
-        "count_em": 1.0
+        "bert_cos_category": 0.6698,
+        "bert_cos_fine": 0.7087,
+        "count_em": 0.8978
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/pixtral_base.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/pixtral_base.json": {
         "bert_cos_category": 0.3633,
         "bert_cos_fine": 0.3782,
         "count_em": 0.0
     },
-    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2.5vl_base.json": {
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2.5vl_base.json": {
         "bert_cos_category": 0.3233,
         "bert_cos_fine": 0.2969,
         "count_em": 0.3333
+    },
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2.5vl_lora_sft_grocery_589824_res_simple.json": {
+        "bert_cos_category": 0.7636,
+        "bert_cos_fine": 0.7429,
+        "count_em": 0.8822
+    },
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2.5vl_lora_sft_grocery_589824_res_few_shot.json": {
+        "bert_cos_category": 0.7725,
+        "bert_cos_fine": 0.7417,
+        "count_em": 0.8733
+    },
+    "data/predictions/openai/openai_o3_predictions.json": {
+        "bert_cos_category": 0.8327,
+        "bert_cos_fine": 0.7757,
+        "count_em": 0.9133
+    },
+    "data/predictions/chat_backend/adapted_inference_image_resolution/pixtral_base_few_shot.json": {
+        "bert_cos_category": 0.3826,
+        "bert_cos_fine": 0.3762,
+        "count_em": 0.0
+    },
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2.5vl_base_few_shot.json": {
+        "bert_cos_category": 0.3447,
+        "bert_cos_fine": 0.2989,
+        "count_em": 0.6
+    },
+    "data/predictions/chat_backend/adapted_inference_image_resolution/qwen2vl_base_few_shot.json": {
+        "bert_cos_category": 0.3639,
+        "bert_cos_fine": 0.3355,
+        "count_em": 0.7619
+    },
+    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2.5vl_lora_sft_grocery_262144_res.json": {
+        "bert_cos_category": 0.793,
+        "bert_cos_fine": 0.7669,
+        "count_em": 0.9027
+    },
+    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2.5vl_lora_sft_grocery_589824_res.json": {
+        "bert_cos_category": 0.7898,
+        "bert_cos_fine": 0.7616,
+        "count_em": 0.9049
+    },
+    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/qwen2.5vl_lora_sft_grocery_700000_res.json": {
+        "bert_cos_category": 0.7085,
+        "bert_cos_fine": 0.7012,
+        "count_em": 0.8947
+    },
+    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/llava_lora_sft_grocery_589824_res.json": {
+        "bert_cos_category": 0.7092,
+        "bert_cos_fine": 0.6499,
+        "count_em": 0.8065
+    },
+    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/llava_lora_sft_grocery_262144_res.json": {
+        "bert_cos_category": 0.8111,
+        "bert_cos_fine": 0.7686,
+        "count_em": 0.8537
+    },
+    "data/predictions/chat_backend/fixed_inference_image_resolution_589824/llava_lora_sft_grocery_700000_res.json": {
+        "bert_cos_category": 0.7058,
+        "bert_cos_fine": 0.6501,
+        "count_em": 0.8104
     }
 }

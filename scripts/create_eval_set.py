@@ -73,7 +73,7 @@ def main(out_train_path, out_eval_path):
     # ----- build train / eval entries ---------------------------------------
     train_paths = [p for p in all_images if p not in eval_paths]
 
-    with open("data/zeki_grocery.json", "r") as f:
+    with open("data/zeki_grocery_few_shot_prompt.json", "r") as f:
         data = json.load(f)
     
     eval_entries = []
@@ -97,17 +97,17 @@ def main(out_train_path, out_eval_path):
 
 
 if __name__ == "__main__":
-    # out_train_path = "data/zeki_grocery_train.json"
-    # out_eval_path = "data/eval.json"
+    out_train_path = "data/zeki_grocery_train_few_shot_prompt.json"
+    out_eval_path = "data/eval_few_shot_prompt.json"
     # out_train_path = "data/zeki_grocery_simple_prompt_train.json"
     # out_eval_path = "data/eval_simple_prompt.json"
     # out_train_path = "data/zeki_grocery_few_shot_prompt_train.json"
     # out_eval_path = "data/eval_few_shot_prompt.json"
     # out_train_path = "data/zeki_grocery_json_simple_prompt_train.json"
     # out_eval_path = "data/eval_json_simple_prompt.json"
-    out_train_path = "data/predictions/openai/zeki_grocery_train.json"
-    out_eval_path = "data/predictions/openai/eval.json"
+    # out_train_path = "data/predictions/openai/o3_train.json"
+    # out_eval_path = "data/predictions/openai/openai_o3_predictions.json"
 
 
-    # main(out_train_path, out_eval_path)
-    alpaca_to_structured("data/eval_structured.json", "data/eval_structured.json")
+    main(out_train_path, out_eval_path)
+    # alpaca_to_structured("data/eval_structured.json", "data/eval_structured.json")

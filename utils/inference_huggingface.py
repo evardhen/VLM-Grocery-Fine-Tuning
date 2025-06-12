@@ -1,23 +1,17 @@
 import json
 import math
+from pathlib import Path
+from PIL import Image
 from transformers import (
-    Seq2SeqTrainingArguments,
-    AutoModelForSeq2SeqLM,
-    AutoModelForCausalLM,
     GenerationConfig,
+    Qwen2_5_VLForConditionalGeneration,
+    AutoProcessor,
 )
 from peft import PeftModel  # pip install peft
 import torch
-
-from llamafactory.data import get_dataset, get_template_and_fix_tokenizer
-from llamafactory.extras.packages import is_pillow_available
-from llamafactory.hparams import get_infer_args
-from llamafactory.model import load_tokenizer
-
-
-if is_pillow_available():
-    from PIL import Image
-    from PIL.Image import Image as ImageObject
+from accelerate import find_executable_batch_size, load_checkpoint_and_dispatch, init_empty_weights
+import contextlib
+from qwen_vl_utils import process_vision_info
 
 
 class InferenceHuggingface:
@@ -33,15 +27,16 @@ class InferenceHuggingface:
         json_output_path: str,
         adapter_name_or_path: str = None,
         dataset_dir: str = "data",
-        cutoff_len: int = 8192,
+        cutoff_len: int = 1024,
         max_samples: int = None,
         vllm_config: str = "{}",
         temperature: float = 0.95, # Randomness of output sampling
         top_p: float = 0.7, # Sorting tokens by their probability in a descending order and then adding them up, until top_p value is reached; then softmax is calculated with reduced vocab size
         top_k: int = 50, # Same as top_p, but with highest k prob values
-        max_new_tokens: int = 1024,
+        max_new_tokens: int = 512,
         repetition_penalty: float = 1.0, # Lower 1 penalizes same output tokens, larger 1 enhances it
-        image_resolution: int = 589824): 
+        image_resolution: int = 262144,
+        batch_size = 8): 
         
         self.predictions = []
         self.json_output_path = json_output_path
@@ -49,6 +44,7 @@ class InferenceHuggingface:
         self.max_dataset_len = max_samples
         self.repetition_penalty = repetition_penalty
         self.max_new_tokens = max_new_tokens
+        self.batch_size = batch_size
         self.top_k = top_k
         self.top_p = top_p
         self.temperature = temperature
@@ -61,6 +57,37 @@ class InferenceHuggingface:
         self.model_name_or_path = model_name_or_path
         self.image_resolution = image_resolution
         self.device = ("cuda" if torch.cuda.is_available() else "cpu")
+    
+    def _load_image(self, path: str) -> Image.Image:
+        img = Image.open(path).convert("RGB")
+        if (img.width * img.height) > self.image_resolution:
+            f = math.sqrt(self.image_resolution / (img.width * img.height))
+            img = img.resize((int(img.width * f), int(img.height * f)),
+                             resample=Image.NEAREST)
+        return img
+    
+    def _load_samples(self, start_idx: int | None) -> list[dict]:
+        dataset_path = Path(self.dataset_dir) / f"{self.dataset}.json"
+        with open(dataset_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        # slice the dataset as requested
+        if start_idx is not None:
+            data = data[start_idx : start_idx + 1]
+        elif self.max_dataset_len and len(data) > self.max_dataset_len:
+            data = data[: self.max_dataset_len]
+
+        samples = []
+        for row in data:
+            prompt = row["question"]            # <-- adjust if your key differs
+            images = [self._load_image(p) for p in row.get("images", [])]
+            samples.append(
+                {"prompt": prompt,
+                 "images": images,
+                 "question_id": row["question_id"],
+                 "system": row["system"]}
+            )
+        return samples
 
 
     def run(self, max_dataset_len = None, dataset_start_index = None):
@@ -68,155 +95,107 @@ class InferenceHuggingface:
         Performs batch generation using the vLLM engine, which supports tensor parallelism.
         """
         self.max_dataset_len = max_dataset_len or self.max_dataset_len
-        total_images = 0
-        prompt_token_counts = []
-        completion_token_counts = []
         self.predictions = []  
+        prompt_token_counts, completion_token_counts = [], []
 
-        self.model_args, self.data_args, _, self.generating_args = get_infer_args(
-            dict(
-                model_name_or_path=self.model_name_or_path,
-                image_max_pixels=self.image_resolution,
-                adapter_name_or_path=self.adapter_name_or_path,
-                dataset=self.dataset,
-                dataset_dir=self.dataset_dir,
-                template=self.template,
-                cutoff_len=self.cutoff_len,
-                max_samples=self.max_dataset_len,
-                preprocessing_num_workers=40,
-                vllm_config=self.vllm_config,
-                temperature=self.temperature,
-                top_p=self.top_p,
-                top_k=self.top_k,
-                max_new_tokens=self.max_new_tokens,
-                repetition_penalty=self.repetition_penalty,
-            )
-        )
-
-        training_args = Seq2SeqTrainingArguments(output_dir="dummy_dir")
-        tokenizer_module = load_tokenizer(self.model_args)
-        tokenizer = tokenizer_module["tokenizer"]
-        template_obj = get_template_and_fix_tokenizer(tokenizer, self.data_args)
-        # Fix for qwen2_vl <|image_pad|> token expanding
-        template_obj.mm_plugin.expand_mm_tokens = False
-        dataset_module = get_dataset(template_obj, self.model_args, self.data_args, training_args, "ppo", **tokenizer_module)
-
-        inputs = []
-        if dataset_start_index is not None:
-            dataset_module["train_dataset"] = dataset_module["train_dataset"].select(range(dataset_start_index, dataset_start_index + 1))
-        print(f"Processing dataset of size {dataset_module['train_dataset'].num_rows}")
-
-        for sample in dataset_module["train_dataset"]:
-            if sample["images"]:
-                total_images += len(sample["images"])
-                multi_modal_data = {"image": []}
-                for image in sample["images"]:
-                    if not isinstance(image, (str, ImageObject)):
-                        raise ValueError(f"Expected image input as path or PIL.Image, but got {type(image)}.")
-                    if isinstance(image, str):
-                        image = Image.open(image).convert("RGB")
-                        # Manually resize image
-                        image = self._preprocess_image(image, self.model_args.image_max_pixels)
-                    multi_modal_data["image"].append(image)
-            else:
-                multi_modal_data = None
-
-            inputs.append({"prompt_token_ids": sample["input_ids"], "multi_modal_data": multi_modal_data})
 
         # --- HuggingFace equivalent of your sampling_params ---
         gen_config = GenerationConfig(
-            temperature            = self.generating_args.temperature,
-            top_p                  = self.generating_args.top_p or 1.0,
-            top_k                  = self.generating_args.top_k,
-            repetition_penalty     = self.generating_args.repetition_penalty or 1.0,
-            max_new_tokens         = self.generating_args.max_new_tokens,
-            eos_token_id           = tokenizer.eos_token_id,
-            pad_token_id           = tokenizer.pad_token_id,
+            temperature            = self.temperature,
+            top_p                  = self.top_p or 1.0,
+            top_k                  = self.top_k,
+            repetition_penalty     = self.repetition_penalty or 1.0,
+            max_new_tokens         = self.max_new_tokens,
         )
 
-        # --- load base model (Seq2Seq or Causal) ---
-        try:
-            base_model = AutoModelForSeq2SeqLM.from_pretrained(
-                self.model_name_or_path, trust_remote_code=True
+        base_model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
+            self.model_name_or_path,
+            device_map="auto" if torch.cuda.is_available() else None,
+            torch_dtype=torch.float16,
+        )
+
+        self.processor = AutoProcessor.from_pretrained(self.model_name_or_path)
+        model = (PeftModel.from_pretrained(base_model,
+                                           self.adapter_name_or_path,
+                                           is_trainable=False,
+                                           torch_dtype=torch.float16)
+                 if self.adapter_name_or_path else base_model)
+        model.eval()
+
+        samples = self._load_samples(dataset_start_index)
+        if not samples:
+            raise RuntimeError("No samples found ― check dataset path/keys")
+        SYSTEM_PROMPT = samples[0]["system"]
+
+        messages = []
+        chunk_start = 0
+
+        for idx, sample in enumerate(samples):
+            content = [
+                {"type": "image", "image": img}          # one dict *per* image
+                for img in sample["images"]
+            ]
+            content.append({"type": "text", "text": sample["prompt"]})
+            message = [{"role": "user", "content": content}]
+            messages.append(message)
+
+            flush = (len(messages) == self.batch_size) or (idx == len(samples) - 1)
+            if not flush:
+                continue
+
+            texts = [
+                self.processor.apply_chat_template(msg, tokenize=False, system_message=SYSTEM_PROMPT, add_generation_prompt=True)
+                for msg in messages
+            ]
+            image_inputs, video_inputs = process_vision_info(messages)
+            inputs = self.processor(
+                text=texts,
+                images=image_inputs,
+                videos=video_inputs,
+                padding=True,
+                return_tensors="pt",
+            ).to(model.device)
+
+            with torch.no_grad():
+                generated_ids = model.generate(**inputs,
+                                        generation_config=gen_config,
+                                        return_dict_in_generate=False,
+                                        do_sample=True)
+                
+            # preds = self.processor.batch_decode(generated_ids, skip_special_tokens=True)
+            generated_ids_trimmed = [
+                out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
+            ]
+            preds = self.processor.batch_decode(
+                generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
             )
-        except Exception:
-            base_model = AutoModelForCausalLM.from_pretrained(
-                self.model_name_or_path, trust_remote_code=True
-            )
+                            # ---- stats ------------------------------------------
+            plens = (inputs.input_ids
+                        != self.processor.tokenizer.pad_token_id).sum(dim=1)
+            clen  = generated_ids.shape[1] - plens
+            prompt_token_counts.extend(plens.tolist())
+            completion_token_counts.extend(clen.tolist())
+            for s, pred in zip(samples[chunk_start:idx + 1], preds):
+                self.predictions.append(
+                    {"question_id": s["question_id"], "question": s["prompt"], "answer": pred}
+                )
+            torch.cuda.empty_cache()
+            messages.clear()
+            chunk_start = idx + 1          # next slice
+                    
 
-        # --- wrap in LoRA if requested ---
-        if self.adapter_name_or_path:
-            model = PeftModel.from_pretrained(base_model, self.adapter_name_or_path)
-        else:
-            model = base_model
-        model.to(self.device)
-        model.eval()    
 
-        # Run inference
-        with torch.no_grad():
-            results = model.generate(
-                **inputs,
-                generation_config=gen_config,
-                return_dict_in_generate=True,
-                output_scores=False,
-            )
-        sequences = results.sequences  
-        preds = tokenizer.batch_decode(sequences, skip_special_tokens=True)
-        print(f"\nProcessed {len(preds)} prompts with HF generate.\n")
- 
-        dataset_path = "./" + self.data_args.dataset_dir + "/" + self.data_args.dataset[0] + ".json"
-         
-        with open(dataset_path, "r") as f:
-            dataset = json.load(f)
-        if dataset_start_index is not None:
-            dataset = dataset[dataset_start_index:dataset_start_index+1]
-        elif self.max_dataset_len < len(dataset):
-            dataset = dataset[:self.max_dataset_len]
-        len_dataset = len(dataset)
-
-        for entry, result in zip(dataset, preds):
-            self.predictions.append({
-                "question_id": entry["question_id"],
-                "question": entry["question"],
-                "answer": result,
-            })
-
-        # Compute statistics
-        for i, seq in enumerate(sequences):
-            # 1) prompt length
-            #    count all tokens != pad_token_id in the input
-            prompt_len = (inputs["input_ids"][i] != tokenizer.pad_token_id).sum().item()
-            prompt_token_counts.append(prompt_len)
-
-            # 2) completion length
-            #    for encoder-decoder (BART/T5/…): seq is just generated tokens
-            #    for decoder-only (GPT style): seq includes the prompt, so subtract
-            if hasattr(model.config, "is_encoder_decoder") and model.config.is_encoder_decoder:
-                completion_len = seq.size(-1)
-            else:
-                completion_len = seq.size(-1) - prompt_len
-
-            # just in case somebody passes a shorter output:
-            completion_len = max(completion_len, 0)
-            completion_token_counts.append(completion_len)
-
-        avg_images_per_query = total_images / len_dataset if len_dataset > 0 else 0
-        avg_prompt_tokens_per_query = sum(prompt_token_counts) / len_dataset if len_dataset > 0 else 0
-        avg_completion_tokens_per_query = sum(completion_token_counts) / len_dataset if len_dataset > 0 else 0
-        max_prompt_tokens_per_query = max(prompt_token_counts)
-        min_prompt_tokens_per_query = min(prompt_token_counts)
-        max_completion_tokens_per_query = max(completion_token_counts)
-        min_completion_tokens_per_query = min(completion_token_counts)
-
-        return {
-            "avg_images_per_query": avg_images_per_query,
-            "avg_prompt_tokens_per_query": avg_prompt_tokens_per_query,
-            "avg_completion_tokens_per_query": avg_completion_tokens_per_query,
-            "max_prompt_tokens_per_query": max_prompt_tokens_per_query,
-            "min_prompt_tokens_per_query": min_prompt_tokens_per_query,
-            "max_completion_tokens_per_query": max_completion_tokens_per_query,
-            "min_completion_tokens_per_query": min_completion_tokens_per_query
+        # ---- 5.  Aggregate stats -------------------------------------
+        self.stats = {
+            "avg_images_per_query": len(samples[0]["images"]),
+            "avg_prompt_tokens_per_query":     sum(prompt_token_counts)     / len(prompt_token_counts),
+            "avg_completion_tokens_per_query": sum(completion_token_counts) / len(completion_token_counts),
+            "max_prompt_tokens_per_query":     max(prompt_token_counts),
+            "min_prompt_tokens_per_query":     min(prompt_token_counts),
+            "max_completion_tokens_per_query": max(completion_token_counts),
+            "min_completion_tokens_per_query": min(completion_token_counts),
         }
+        return self.stats
 
     def save_json(self):
         try:
@@ -225,39 +204,4 @@ class InferenceHuggingface:
             print(f"Predictions saved to {self.json_output_path}")
         except Exception as e:
             print(f"Failed to save JSON. Error: {e}")
-
-    def _preprocess_image(self, image: "ImageObject", image_resolution) -> "ImageObject":
-        r"""
-        Pre-processes a single image.
-        """
-        if (image.width * image.height) > image_resolution:
-            resize_factor = math.sqrt(image_resolution / (image.width * image.height))
-            width, height = int(image.width * resize_factor), int(image.height * resize_factor)
-            image = image.resize((width, height), resample=Image.NEAREST)
-
-        if image.mode != "RGB":
-            image = image.convert("RGB")
-
-        return image
     
-
-if __name__ == "__main__":
-    def predict_inference_huggingface(
-        model_name_or_path="Qwen/Qwen2-VL-7B-Instruct",
-        dataset="data/eval.json",
-        template="qwen2_vl",
-        json_output_path="data/predictions/chat_backend/fixed_inference_image_resolution_589824/test.json",
-        adapter_name_or_path=None,  # or "" if you prefer
-    ):
-
-        inference_pipeline = InferenceHuggingface(
-            model_name_or_path=model_name_or_path,
-            dataset=dataset,
-            template=template,
-            json_output_path=json_output_path,
-            adapter_name_or_path=adapter_name_or_path,
-        )
-        inference_pipeline.run()
-        inference_pipeline.save_json()
-
-    predict_inference_huggingface()

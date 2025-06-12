@@ -1,12 +1,14 @@
 import time
 import json
 import os
+import traceback, sys, multiprocessing as mp
 
 from utils.inference_vllm import InferenceVLLM
 from utils.inference_api import InferenceAPI
 from utils.inference_chat import InferenceChat
+from utils.inference_huggingface import InferenceHuggingface
 
-def compute_and_safe_inference_statistics(file_path, type="api", query = "single", images = "single", num_threads = None):
+def compute_and_safe_inference_statistics(file_path, type="api", query = "single", images = "single", num_threads = None, batch_size=8):
     """
     Computing statistics on 500 samples of each dataset.
     Parameters:
@@ -23,12 +25,12 @@ def compute_and_safe_inference_statistics(file_path, type="api", query = "single
         - "single" : Each query is associated with a single image.
         - "multiple" : Each query can have multiple images.
     """
-    DATASET_LEN = 10
+    DATASET_LEN = 200
 
 
     # Set dataset path
     if images == "multiple":
-        dataset_path = "data/zeki_grocery_train.json"
+        dataset_path = "data/eval_dataset_three_images.json"
         print("\nUsing dataset with multiple images per entry...")
     elif images == "single":
         dataset_path = "data/eval_dataset_single_image.json"
@@ -51,10 +53,21 @@ def compute_and_safe_inference_statistics(file_path, type="api", query = "single
         )
     elif type == "vllm":
         inference_pipeline = InferenceVLLM(
-            model_name_or_path="Qwen/Qwen2-VL-7B-Instruct",
+            model_name_or_path="Qwen/Qwen2.5-VL-7B-Instruct",
             dataset=os.path.splitext(os.path.basename(dataset_path))[0],
             template="qwen2_vl",
-            json_output_path="none"
+            json_output_path="none",
+            batch_size=batch_size,
+            adapter_name_or_path="saves/qwen2.5_vl-7b/lora/sft/grocery_589824_res"
+            )
+    elif type == "huggingface":
+        inference_pipeline = InferenceHuggingface(
+            model_name_or_path="Qwen/Qwen2.5-VL-7B-Instruct",
+            dataset=os.path.splitext(os.path.basename(dataset_path))[0],
+            template="qwen2_vl",
+            json_output_path="none",
+            batch_size=batch_size,
+            adapter_name_or_path="saves/qwen2.5_vl-7b/lora/sft/grocery_589824_res",
             )
     else:
         raise NotImplementedError
@@ -74,7 +87,7 @@ def compute_and_safe_inference_statistics(file_path, type="api", query = "single
 
         for i in range(DATASET_LEN):
             print(f"Processing dataset entry {i}/{DATASET_LEN}")
-            if type == "vllm":
+            if type in ["vllm", "huggingface"]:
                 stats = inference_pipeline.run(
                     max_dataset_len=DATASET_LEN,
                     dataset_start_index=i
@@ -107,9 +120,12 @@ def compute_and_safe_inference_statistics(file_path, type="api", query = "single
         avg_prompt_tokens_per_query = sum_prompt_tokens_per_query / DATASET_LEN
         avg_completion_tokens_per_query = sum_completion_tokens_per_query / DATASET_LEN
 
-    elif query == "multiple" and num_threads is not None:
+    elif query == "batch":
+        stats = inference_pipeline.run(max_dataset_len=DATASET_LEN)
+
+    elif query == "all" and num_threads is not None:
         stats = inference_pipeline.run(max_dataset_len=DATASET_LEN, num_threads=num_threads)
-    elif query == "multiple":
+    elif query == "all":
         stats = inference_pipeline.run(max_dataset_len=DATASET_LEN)
     else:
         raise NotImplementedError
@@ -156,10 +172,14 @@ def compute_and_safe_inference_statistics(file_path, type="api", query = "single
         new_block_name = "single_query_multiple_images"
     elif query == "single" and images == "single":
         new_block_name = "single_query_single_image"
-    elif query == "multiple" and images == "multiple":
+    elif query == "all" and images == "multiple":
         new_block_name = "multiple_queries_multiple_images"
-    elif query == "multiple" and images == "single":
+    elif query == "all" and images == "single":
         new_block_name = "multiple_queries_single_image"
+    elif query == "batch" and images == "single":
+        new_block_name = f"batch_{batch_size}_query_single_image_sft"
+    elif query == "batch" and images == "multiple":
+        new_block_name = f"batch_{batch_size}_query_multiple_images_sft"
     data[type][new_block_name] = results
 
     with open(file_path, "w") as f:
@@ -202,24 +222,67 @@ def modify_eval_dataset_three_images():
         json.dump(dataset, file, indent=4, ensure_ascii=False)
 
 
+def _worker(bs: int) -> None:
+    """
+    Runs one complete inference pass in a fresh interpreter.
+    Exits with code 0 on success, 1 on failure.
+    """
+    try:
+        compute_and_safe_inference_statistics(
+            file_path="stats/inference_stats/eval_dataset_inference_stats.json",
+            type="huggingface",
+            query="batch",
+            images="single",
+            batch_size=bs,
+        )
+    except Exception as exc:
+        print(f"  ✗ Huggingface failed at batch_size={bs}: {exc}")
+        traceback.print_exc()
+        sys.exit(1)          # propagate the failure to the parent
+    else:
+        sys.exit(0)
+
 if "__main__" == __name__:
     # For calculate inference time stats:
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="api",  query="single", images="multiple")
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="api", query="multiple", images="multiple")
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="api", query="single", images="single")
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="api", query="multiple", images="single")
+    BACKENDS   = ["chat"]
+    QUERIES    = ["single", "all"]
+    IMAGE_MODES = ["multiple", "single"]
 
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="api",  query="single", images="multiple", num_threads=4)
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="api", query="multiple", images="multiple", num_threads=4)
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="api", query="single", images="single", num_threads=4)
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="api", query="multiple", images="single", num_threads=4)
+    # for backend in BACKENDS:
+    #     for query in QUERIES:
+    #         for images in IMAGE_MODES:
+    #             print(f"→ Running {backend=} {query=} {images=}")
+    #             kwargs = {
+    #                 "file_path": "stats/inference_stats/eval_dataset_inference_stats.json",
+    #                 "type":      backend,
+    #                 "query":     query,
+    #                 "images":    images,
+    #             }
+    #             if backend == "api":
+    #                 # only API needs num_threads
+    #                 kwargs["num_threads"] = 4
 
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="chat",  query="single", images="multiple")
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="chat", query="multiple", images="multiple")
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="chat", query="single", images="single")
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="chat", query="multiple", images="single")
+    #             compute_and_safe_inference_statistics(**kwargs)
 
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="vllm",  query="single", images="multiple")
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="vllm", query="multiple", images="multiple")
-    # compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="vllm", query="single", images="single")
-    compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="vllm", query="multiple", images="single")
+
+    for batch_size in [1, 2, 4, 8, 16, 32]:
+        try:
+            compute_and_safe_inference_statistics(file_path="stats/inference_stats/eval_dataset_inference_stats.json", type="vllm", query="batch", images="single", batch_size=batch_size)
+        except Exception as e:
+            # log the failure and continue
+            print(f"  ✗ vLLM failed at batch_size={batch_size}: {e}")
+        else:
+            print(f"  ✓ vLLM succeeded at batch_size={batch_size}")
+
+    mp.set_start_method("spawn", force=True)
+
+    for batch_size in [1, 2, 4, 8, 16, 32]:
+        proc = mp.Process(target=_worker, args=(batch_size,))
+        proc.start()
+        proc.join()
+
+        if proc.exitcode == 0:
+            print(f"  ✓ Huggingface succeeded at batch_size={batch_size}")
+        else:
+            print(f"  ✗ Huggingface failed at batch_size={batch_size}")
+

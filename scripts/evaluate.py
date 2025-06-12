@@ -73,7 +73,6 @@ def evaluate(pred_path: str | Path, ground_truth_path: str | Path, out_path: str
     model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
     cat_pred_embed = model.encode(cat_pred)
     cat_true_embed = model.encode(cat_true)
-    print(cat_true_embed.shape)
     fine_pred_embed = model.encode(fine_pred)
     fine_true_embed = model.encode(fine_true)
     cos_cat = model.similarity(cat_pred_embed, cat_true_embed).diagonal().mean()
@@ -85,10 +84,12 @@ def evaluate(pred_path: str | Path, ground_truth_path: str | Path, out_path: str
     for i in ids:
         all_strings.update(s for s, _ in _pairs(ground_truth_data[i]["answer"]))
         all_strings.update(s for s, _ in _pairs(pred_data[i]["answer"]))
-    all_strings = list(all_strings)                        
+    all_strings = list(all_strings)     
+    print(f"Matched {len(all_strings)} unique strings for the EM cont...")                   
 
     # 2. Embed once
     embeddings= model.encode(all_strings, convert_to_tensor=True)
+    print(embeddings.shape)
     # embeddings = embed_strings(all_strings)  # shape (M, d)
     string2vec = dict(zip(all_strings, embeddings))
 
@@ -117,12 +118,11 @@ def evaluate(pred_path: str | Path, ground_truth_path: str | Path, out_path: str
             j_best, best_sim = max(sims, key=lambda x: x[1])
             _, pred_cnt = pred_pairs[j_best]
             matched.add(j_best)
-
             if best_sim > threshold:
                 total += 1
             if best_sim > threshold and ref_cnt == pred_cnt:
                 correct += 1
-
+    print(f"Total/Predicted: {total}/{correct}")
     if total == 0:
         count_em = 0.0
     else:
@@ -146,9 +146,13 @@ def evaluate(pred_path: str | Path, ground_truth_path: str | Path, out_path: str
 
 
 if __name__ == "__main__":
-    predictions_path = "data/predictions/chat_backend/fixed_inference_image_resolution_589824"
+    predictions_path_2 = "data/predictions/chat_backend/fixed_inference_image_resolution_589824"
+    predictions_path = "data/predictions/chat_backend/adapted_inference_image_resolution"
 
-    for path in glob.glob(os.path.join(predictions_path, "*base.json")):
+    for path in glob.glob(os.path.join(predictions_path, "*base_few_shot.json")):
         evaluate(ground_truth_path="data/eval.json", pred_path=path, out_path="stats/inference_stats/scores.json")
 
-    # evaluate(ground_truth_path="data/eval.json", pred_path="data/predictions/openai/openai_gpt4o_predictions.json", out_path="stats/inference_stats/scores.json")
+    for path in glob.glob(os.path.join(predictions_path_2, "*.json")):
+        evaluate(ground_truth_path="data/eval.json", pred_path=path, out_path="stats/inference_stats/scores.json")
+
+    # evaluate(ground_truth_path="data/eval.json", pred_path="data/predictions/openai/openai_o3_predictions.json", out_path="stats/inference_stats/scores.json")

@@ -1,0 +1,6 @@
+model_name_or_path: llava-hf/llava-v1.6-mistral-7b-hf
+adapter_name_or_path: saves/Llama-3.2-11B-Vision-Instruct/lora/sft/grocery_700000_res
+template: llava_next
+finetuning_type: lora
+infer_backend: huggingface  # choices: [huggingface, vllm]
+image_max_pixels: 700000

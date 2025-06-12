@@ -1,0 +1,4567 @@
+[
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_115.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Soy Sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_12.jpg",
+        "items": [
+            {
+                "category": "pasta",
+                "count": 1,
+                "fine-grained category": "fusilli pasta"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_125.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Cooking Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_128.jpg",
+        "items": [
+            {
+                "category": "oil",
+                "count": 1,
+                "fine-grained category": "vegetable oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_168.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 4,
+                "fine-grained category": "Limes"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_193.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Lemon/Lime Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_196.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Olives"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_204.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_210.jpg",
+        "items": [
+            {
+                "category": "pasta",
+                "count": 1,
+                "fine-grained category": "instant cup noodles"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_215.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Pesto sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_219.jpg",
+        "items": [
+            {
+                "category": "dairy product",
+                "count": 1,
+                "fine-grained category": "Skyr yogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_234.jpg",
+        "items": [
+            {
+                "category": "vegetable",
+                "count": 2,
+                "fine-grained category": "Lettuce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_245.jpg",
+        "items": [
+            {
+                "category": "vegetable",
+                "count": 1,
+                "fine-grained category": "Spinach (bagged leafy greens)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_246.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Mixed Salad Greens"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_257.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_259.jpg",
+        "items": [
+            {
+                "category": "animal product",
+                "count": 1,
+                "fine-grained category": "Salami"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_263.jpg",
+        "items": [
+            {
+                "category": "vegetable",
+                "count": 1,
+                "fine-grained category": "Mushrooms"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_272.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Olive Oil  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Yogurt  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Skyr"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_273.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 2,
+                "fine-grained category": "Olive Oil  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Skyr Yogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_274.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Olive Oil"
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Skyr Yogurt"
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Coffee Capsule"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_275.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Coffee Capsule  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Skyr Yogurt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_276.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Skyr (yogurt)  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Coriander  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_277.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Muesli / Granola  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 2,
+                "fine-grained category": "Seasoning (ground spices)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_278.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Dried Herb/Spice (seasoning jar)  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Muesli / Granola"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_279.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "lime  "
+            },
+            {
+                "category": "sweetener",
+                "count": 1,
+                "fine-grained category": "honey  "
+            },
+            {
+                "category": "nuts",
+                "count": 1,
+                "fine-grained category": "peanut butter  "
+            },
+            {
+                "category": "cereal",
+                "count": 1,
+                "fine-grained category": "granola"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_280.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 5,
+                "fine-grained category": "Lime  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Dried Herbs Seasoning  "
+            },
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Sweets"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_281.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 4,
+                "fine-grained category": "Lime  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Chamomile Tea  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Peppercorn Mix  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Seasoning (unspecified)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_282.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 4,
+                "fine-grained category": "Limes  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Chamomile Tea  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Orange-flavoured Tea  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Mixed Peppercorns  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Herb Seasoning (jar)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_283.jpg",
+        "items": [
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Pickled Peppers  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Tomato Pesto Sauce  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_284.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange Juice  "
+            },
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Peanut Butter  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Pickled Peppers"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_285.jpg",
+        "items": [
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Pickled Peppers  "
+            },
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Peanut Butter  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_287.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Iodized Table Salt  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Ground Paprika  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Jarred Roasted Peppers  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Pesto Sauce  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Canned Vegetables"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_288.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Iodized Salt  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Paprika Powder  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Pickled Peppers  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Canned Peas  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Pesto Sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_289.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "dried cranberries  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "iodized salt  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "paprika powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_290.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "dried cranberries  "
+            },
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "flour  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "spice powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_291.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "dried cranberries  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "herbal tea  "
+            },
+            {
+                "category": "cereal",
+                "count": 1,
+                "fine-grained category": "rolled oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_292.jpg",
+        "items": [
+            {
+                "category": "cereal",
+                "count": 1,
+                "fine-grained category": "Oats  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Green Tea  "
+            },
+            {
+                "category": "coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_293.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Corn Starch  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (tea bags)  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Sp\u00e4tzle / Egg Noodle Pasta  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_294.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Cornstarch  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Flour  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Pasta Sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_295.jpg",
+        "items": [
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Sour cream  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Cornstarch  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_296.jpg",
+        "items": [
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Sour Cream  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Soy Sauce  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Cornstarch  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_297.jpg",
+        "items": [
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Sriracha hot chili sauce  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Soy sauce  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Cornstarch  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_299.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Hot Chili Sauce (Sriracha)  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Soy Sauce  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (Eucalyptus)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_3.jpg",
+        "items": [
+            {
+                "category": "vegetable",
+                "count": 2,
+                "fine-grained category": "red onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_300.jpg",
+        "items": [
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Benediktiner Weissbier (beer)  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Estrella Damm (beer)  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Sriracha hot chili sauce  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Soy sauce  "
+            },
+            {
+                "category": "coffee",
+                "count": 1,
+                "fine-grained category": "Barley/grain coffee (coffee substitute)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_301.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer \u2013 Tegernseer (blue-label bottle)"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer \u2013 Estrella (red-star bottle)"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Vegetable stock cubes"
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Roasted coffee beans"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_302.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Beer  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Iodized Salt  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Vegetable Bouillon Cubes  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_303.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Plant-based Burger Kit  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Plant-based Wrap/Meal Kit  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea  "
+            },
+            {
+                "category": "Savory snacks",
+                "count": 1,
+                "fine-grained category": "Potato Chips"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_306.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea bags  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Ketchup  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Canned & jarred goods  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Orange juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_307.jpg",
+        "items": [
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Orange Juice  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Ketchup  "
+            },
+            {
+                "category": "kitchen supplies",
+                "count": 1,
+                "fine-grained category": "BBQ Supplies"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_308.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Canned Food (unspecified)"
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam"
+            },
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate-Hazelnut Spread (Nutella)"
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Orange Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_309.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam  "
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 2,
+                "fine-grained category": "Jam (other/unspecified flavor)  "
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Canned Food (unspecified)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_310.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 2,
+                "fine-grained category": "Blueberry Jam  "
+            },
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Canned Food (tin can)  "
+            },
+            {
+                "category": "vegetable",
+                "count": 2,
+                "fine-grained category": "Red Onion"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_311.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 5,
+                "fine-grained category": "Red Onion  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Blueberry Jam  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Apricot Jam  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Jam (unspecified flavor)  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Tin Can (contents unspecified)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_312.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 4,
+                "fine-grained category": "Red Onion  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Jarred Sauce  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Jam"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_313.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onion  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Jam  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Sauces & Condiments"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_314.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Cocoa powder  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Granulated sugar  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red onion  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Fruit jam  "
+            },
+            {
+                "category": "Canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Tomato/pasta sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_315.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Granulated Sugar  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Cocoa Powder  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onion  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Jarred Spread  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_316.jpg",
+        "items": [
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onion  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Refined Sugar  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Coffee (boxed)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_317.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Pomegranate Juice  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea Bags  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Granulated Sugar  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_318.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Cranberry (fruit) juice  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Milk  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Lemon-lime soda  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea (boxed tea bags)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_320.jpg",
+        "items": [
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Shredded Cheese  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Milk (UHT carton)  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Sweet Chili Sauce  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Salsa Dip"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_321.jpg",
+        "items": [
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Shredded Cheese  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Milk (carton)  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Dried Herbs/Spice (jar)  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Soy Sauce  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Sweet Chili Sauce  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Tomato Pasta Sauce  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_322.jpg",
+        "items": [
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Grana Padano Cheese  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Shredded Cheese  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Milk  "
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Olive Oil  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Tomato Sauce  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Lemon Juice  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Dried Herbs"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_324.jpg",
+        "items": [
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Grana Padano Cheese  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Shredded Cheese  "
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Olive Oil  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Pasta Sauce  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Dried Herbs  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Lime Juice  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Cherry Tomatoes  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Frozen Peas"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_325.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bottled Lime Juice  "
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Vegetable Oil  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Pesto Sauce  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Tomato Pasta Sauce  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Dried Oregano (Herb)  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Instant Ramen Noodles  "
+            },
+            {
+                "category": "Kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Plastic Measuring Cup"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_37.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_47.jpg",
+        "items": [
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Green Tea  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Fruit/Herbal Tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_57.jpg",
+        "items": [
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "chamomile tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_62.jpg",
+        "items": [
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Fruit tea  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Chamomile tea  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Herbal tea (unspecified)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_68.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_72.jpg",
+        "items": [
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Curry paste (jarred)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_81.jpg",
+        "items": [
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Ketchup (single-portion cup)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_83.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Ground Cinnamon"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_88.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Jarred Black Olives"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_90.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "canned & jarred goods"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_92.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Jam"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images_home/captured_image_95.jpg",
+        "items": [
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Sriracha hot sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_103.jpg",
+        "items": [
+            {
+                "category": "kitchen supplies",
+                "count": 1,
+                "fine-grained category": "coffee filters"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_120.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_122.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_125.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_127.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 3,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_138.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 3,
+                "fine-grained category": "apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_14.jpg",
+        "items": [
+            {
+                "category": "beverage",
+                "count": 2,
+                "fine-grained category": "bottled water"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_15.jpg",
+        "items": [
+            {
+                "category": "beverage",
+                "count": 3,
+                "fine-grained category": "beverage"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_162.jpg",
+        "items": [
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Hazelnut Cocoa Spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_164.jpg",
+        "items": [
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate hazelnut spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_170.jpg",
+        "items": [
+            {
+                "category": "sweetener",
+                "count": 1,
+                "fine-grained category": "Pancake syrup"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_171.jpg",
+        "items": [
+            {
+                "category": "canned & jarred goods",
+                "count": 1,
+                "fine-grained category": "Jam"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_179.jpg",
+        "items": [
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (8 Kr\u00e4uter)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_183.jpg",
+        "items": [
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea (Teekanne)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_184.jpg",
+        "items": [
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Chamomile tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_190.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Staple food"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_191.jpg",
+        "items": [
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (Fennel-Anise-Caraway)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_2.jpg",
+        "items": [
+            {
+                "category": "coffee",
+                "count": 1,
+                "fine-grained category": "ground coffee"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_200.jpg",
+        "items": [
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea Blend  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Fennel-Anise-Caraway Tea  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "tea"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_212.jpg",
+        "items": [
+            {
+                "category": "coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee (Jacobs Gold)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_226.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Seasoning"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_241.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "ground cinnamon  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "dried oregano  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "sweet paprika powder  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "dried bay leaves  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "seasoning (unspecified)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_245.jpg",
+        "items": [
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Cinnamon  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Paprika  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Bay Leaves  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_248.jpg",
+        "items": [
+            {
+                "category": "vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_249.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_256.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 3,
+                "fine-grained category": "Garlic"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_275.jpg",
+        "items": [
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Wheat flakes"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_280.jpg",
+        "items": [
+            {
+                "category": "cereal",
+                "count": 1,
+                "fine-grained category": "Rolled Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_290.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Cocoa Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_296.jpg",
+        "items": [
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Cocoa Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_299.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Long grain rice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_30.jpg",
+        "items": [
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Sunflower Oil"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_300.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Long-grain rice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_303.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Sliced Almonds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_308.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "Bread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_309.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "Bread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_312.jpg",
+        "items": [
+            {
+                "category": "pasta",
+                "count": 1,
+                "fine-grained category": "Linguine pasta"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_323.jpg",
+        "items": [
+            {
+                "category": "pasta",
+                "count": 1,
+                "fine-grained category": "linguine  "
+            },
+            {
+                "category": "pasta",
+                "count": 1,
+                "fine-grained category": "spaghetti"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_341.jpg",
+        "items": [
+            {
+                "category": "kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Plastic Bag"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_344.jpg",
+        "items": [
+            {
+                "category": "seeds",
+                "count": 1,
+                "fine-grained category": "Sesame seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_347.jpg",
+        "items": [
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Sesame Seeds"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_351.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Cornstarch"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_354.jpg",
+        "items": [
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Cocoa Powder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_365.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Vanilla Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_369.jpg",
+        "items": [
+            {
+                "category": "sweetener",
+                "count": 2,
+                "fine-grained category": "Vanilla Sugar  "
+            },
+            {
+                "category": "sweetener",
+                "count": 1,
+                "fine-grained category": "Vanillin Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_397.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_408.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_411.jpg",
+        "items": [
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "Rice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_415.jpg",
+        "items": [
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Wheat Flour"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_425.jpg",
+        "items": [
+            {
+                "category": "animal product",
+                "count": 1,
+                "fine-grained category": "Eggs"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_429.jpg",
+        "items": [
+            {
+                "category": "animal product",
+                "count": 2,
+                "fine-grained category": "Eggs"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_431.jpg",
+        "items": [
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Butter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_434.jpg",
+        "items": [
+            {
+                "category": "dairy product",
+                "count": 1,
+                "fine-grained category": "Butter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_44.jpg",
+        "items": [
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Beer bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_440.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling Water  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Butter  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Milk  "
+            },
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate Hazelnut Spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_441.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Vodka  "
+            },
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate hazelnut spread (Nutella)  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Butter  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_442.jpg",
+        "items": [
+            {
+                "category": "Dairy product",
+                "count": 2,
+                "fine-grained category": "Milk (carton)  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Butter  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled water  "
+            },
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate-hazelnut spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_443.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled Water  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Butter  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 2,
+                "fine-grained category": "Milk  "
+            },
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate Hazelnut Spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_444.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Bottled Mineral Water  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Butter  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "UHT Milk"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_445.jpg",
+        "items": [
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Low-fat UHT milk  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Whole milk  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Butter  "
+            },
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Clear bottled liquor (e.g., vodka/gin)  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bottled lemon juice"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_446.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Bottled Water  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Lemon Juice  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_447.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Bottled Water  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Juice Beverage  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (8-Herbs)  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onions"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_448.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Mineral Water  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (8-Kr\u00e4uter)  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onions  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Animal product",
+                "count": 1,
+                "fine-grained category": "Eggs"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_449.jpg",
+        "items": [
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Mineral Water  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "vegetable",
+                "count": 1,
+                "fine-grained category": "Red Onions  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea  "
+            },
+            {
+                "category": "pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_450.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bay Leaves  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Ground Cinnamon  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (\u201c8 Kr\u00e4uter\u201d)  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Animal product",
+                "count": 1,
+                "fine-grained category": "Eggs  "
+            },
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate Hazelnut Spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_451.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Cinnamon  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bay Leaves  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (8-herb blend)  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Dairy Product",
+                "count": 1,
+                "fine-grained category": "Cheese Block  "
+            },
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate Hazelnut Spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_452.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Ground Cinnamon  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bay Leaves  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Potato  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate Bar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_453.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Cinnamon  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bay Leaves  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Lemon Juice  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_454.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 2,
+                "fine-grained category": "pear  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "apple  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "bottled lemon juice  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "ground cinnamon  "
+            },
+            {
+                "category": "coffee",
+                "count": 1,
+                "fine-grained category": "ground filter coffee  "
+            },
+            {
+                "category": "kitchen supplies",
+                "count": 1,
+                "fine-grained category": "coffee paper filters"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_455.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "apple  "
+            },
+            {
+                "category": "fruit",
+                "count": 2,
+                "fine-grained category": "pear  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "cinnamon sticks  "
+            },
+            {
+                "category": "seeds",
+                "count": 1,
+                "fine-grained category": "pumpkin seeds  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "bottled lemon juice  "
+            },
+            {
+                "category": "coffee",
+                "count": 1,
+                "fine-grained category": "ground coffee  "
+            },
+            {
+                "category": "pasta",
+                "count": 1,
+                "fine-grained category": "spaghetti  "
+            },
+            {
+                "category": "kitchen supplies",
+                "count": 1,
+                "fine-grained category": "paper coffee filters"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_456.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee (M\u00f6venpick)"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (orange box)"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice"
+            },
+            {
+                "category": "Kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Coffee Filters"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_457.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee  "
+            },
+            {
+                "category": "Kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Coffee Filters  "
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Lemon Juice  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Brown Sugar"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_458.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee (M\u00f6venpick)"
+            },
+            {
+                "category": "Kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Coffee Filters"
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Rolled Oats"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_459.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 2,
+                "fine-grained category": "Bananas  "
+            },
+            {
+                "category": "fruit",
+                "count": 2,
+                "fine-grained category": "Pears  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "cereal",
+                "count": 1,
+                "fine-grained category": "Oats  "
+            },
+            {
+                "category": "coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee (M\u00f6venpick)  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Tea (box of tea bags)  "
+            },
+            {
+                "category": "kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Coffee Filters"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_460.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee (M\u00f6venpick)  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (Fennel-Anise-Caraway)  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats  "
+            },
+            {
+                "category": "Kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Coffee Filters"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_461.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "M\u00f6venpick ground coffee  "
+            },
+            {
+                "category": "Kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Coffee filters  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Rice  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel-Anise-Caraway herbal tea  "
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Banana"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_462.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee (M\u00f6venpick)  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea Mix (Westminster)  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea (ja!)  "
+            },
+            {
+                "category": "Kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Coffee Filters  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_463.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee (M\u00f6venpick)"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (Fennel-Anise-Caraway)"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea Blend"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Onions"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled Drink"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_464.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee (M\u00f6venpick)"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Herbal Tea (Fennel\u2013Anise\u2013Caraway)"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fruit Tea Blend"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling Wine"
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Onions"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_465.jpg",
+        "items": [
+            {
+                "category": "coffee",
+                "count": 1,
+                "fine-grained category": "M\u00d6VENPICK ground coffee  "
+            },
+            {
+                "category": "nuts",
+                "count": 1,
+                "fine-grained category": "Sliced almonds  "
+            },
+            {
+                "category": "cereal",
+                "count": 1,
+                "fine-grained category": "Muesli / oat mix  "
+            },
+            {
+                "category": "tea",
+                "count": 1,
+                "fine-grained category": "Herbal tea (fennel\u2013anise\u2013caraway)  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "seasoning"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_466.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee (M\u00f6venpick)"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel-Anise-Caraway Herbal Tea"
+            },
+            {
+                "category": "Nuts",
+                "count": 2,
+                "fine-grained category": "Ground Almonds"
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "5-Grain Muesli Mix"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Mineral Water"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_467.jpg",
+        "items": [
+            {
+                "category": "Nuts",
+                "count": 2,
+                "fine-grained category": "Ground Almonds  "
+            },
+            {
+                "category": "Nuts",
+                "count": 1,
+                "fine-grained category": "Ground Hazelnuts  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Vanilla Sugar  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel-Anise-Caraway Herbal Tea  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Muesli Oat Mix  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer Bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_468.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 2,
+                "fine-grained category": "Vanilla Sugar  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Nuts",
+                "count": 3,
+                "fine-grained category": "Ground Almonds  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Muesli (5-grain mix)  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Pepper (grinder)  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Fennel-Anise-Caraway Tea  "
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_469.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 2,
+                "fine-grained category": "Vanilla Sugar  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic  "
+            },
+            {
+                "category": "Animal product",
+                "count": 1,
+                "fine-grained category": "Eggs  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Rolled Oats  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Muesli (5-grain mix)  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Soy Sauce"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_470.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 3,
+                "fine-grained category": "Vanilla Sugar  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Pepper (grinder)  "
+            },
+            {
+                "category": "Animal product",
+                "count": 1,
+                "fine-grained category": "Eggs  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Rolled Oats  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Muesli (5-grain mix)  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Ginger"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_471.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 2,
+                "fine-grained category": "Vanilla Sugar  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Garlic  "
+            },
+            {
+                "category": "Animal product",
+                "count": 1,
+                "fine-grained category": "Eggs  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oats  "
+            },
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Sparkling Wine / Champagne  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beverage"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_472.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 2,
+                "fine-grained category": "Vanilla Sugar  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Garlic  "
+            },
+            {
+                "category": "Animal product",
+                "count": 1,
+                "fine-grained category": "Eggs  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Oat Flakes  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling Wine  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Liquor"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_473.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Baking Powder  "
+            },
+            {
+                "category": "Animal product",
+                "count": 2,
+                "fine-grained category": "Eggs  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Rolled Oats  "
+            },
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Sparkling Wine  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beverage (bottle)  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Lemon Juice  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Table Salt"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_474.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Onion  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Rolled Oats  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Salt  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Hot Sauce  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Lemon Juice  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Mineral Water  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling Wine  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Liqueur"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_475.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Chili Flakes  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Dried Herbs  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Lemon Juice  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Baking Powder  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic  "
+            },
+            {
+                "category": "Kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Tea Filters  "
+            },
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Wine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_476.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Fusilli Pasta  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Baking Powder  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Dried Oregano  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Kitchen Supplies",
+                "count": 1,
+                "fine-grained category": "Tea Filters  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_477.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Baking Powder  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Chili Flakes  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Dried Oregano  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Paprika Powder (spice jar)  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Lemon Juice (plastic lemon bottle)  "
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Vegetable Oil  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Red Wine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_478.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Kitchen supplies",
+                "count": 1,
+                "fine-grained category": "Baking Powder  "
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Cooking Oil (Vegetable/Sunflower)  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Garlic  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Dried Oregano (Herbs)  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Ground Paprika (Spice)  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled Beer/Wine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_479.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Low-fat UHT Milk  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Barista Oat Drink  "
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Vegetable Oil  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Whole Peppercorns"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_480.jpg",
+        "items": [
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Powdered Sugar  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Low-fat Milk  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Oat Drink  "
+            },
+            {
+                "category": "Oil",
+                "count": 1,
+                "fine-grained category": "Vegetable Oil  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Black Pepper"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_481.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Pepper Grinder  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling Wine  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling Water  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Beverage (dark glass bottle, exact type unclear)  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 2,
+                "fine-grained category": "UHT Milk Carton  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Rice or Grain Mix (bag)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_482.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Peppercorn Grinder  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling Wine  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled Water  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Flavored Water  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Low-Fat Milk  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Milk  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Shredded Cheese"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_483.jpg",
+        "items": [
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee (M\u00f6venpick \u201cDer Himmlische\u201d)"
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Black Tea (boxed tea bags)"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Wine (dark glass bottle)"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Spirits / Liquor (clear bottle)"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Mixed Spice Grinder"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice"
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "Butter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_484.jpg",
+        "items": [
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Pepper Grinder  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling Wine  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled Drink (Blue Bottle)  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee (M\u00f6venpick Der Himmlische)  "
+            },
+            {
+                "category": "Dairy product",
+                "count": 1,
+                "fine-grained category": "UHT Milk  "
+            },
+            {
+                "category": "Sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Bottled Lemon Juice  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_485.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Wine / Sparkling Wine bottles  "
+            },
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Bottled Water  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Small Carbonated Drink (e.g., tonic water)  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Spice Grinder"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_486.jpg",
+        "items": [
+            {
+                "category": "Beverage",
+                "count": 5,
+                "fine-grained category": "Beverage  "
+            },
+            {
+                "category": "Sweetener",
+                "count": 1,
+                "fine-grained category": "Honey"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_487.jpg",
+        "items": [
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Wine  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling Wine  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Liqueur  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Vodka (clear spirit)  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Bottled Water"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_488.jpg",
+        "items": [
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling wine bottle  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Wine bottle  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Vodka/clear spirit bottle  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Sparkling water bottle (Selters)  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Still water bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_489.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Wine  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled Water  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Soda / Tonic Water  "
+            },
+            {
+                "category": "Tea",
+                "count": 1,
+                "fine-grained category": "Tea (boxed tea bags)  "
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Syrup / Sauce Bottle"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_490.jpg",
+        "items": [
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "Beverage",
+                "count": 2,
+                "fine-grained category": "Wine  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled Water  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Liqueur / Wine Cooler  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Juice Carton"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_491.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "coffee",
+                "count": 1,
+                "fine-grained category": "Ground Coffee (Espresso)  "
+            },
+            {
+                "category": "pasta",
+                "count": 1,
+                "fine-grained category": "Linguine  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Wine  "
+            },
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Mineral Water  "
+            },
+            {
+                "category": "sauces & condiments",
+                "count": 1,
+                "fine-grained category": "Sauce (unspecified)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_492.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground/Bean Coffee (bag)  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Wine  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled Water / Seltzer  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Linguine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_493.jpg",
+        "items": [
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate-hazelnut spread (Nutella)"
+            },
+            {
+                "category": "Sauces & Condiments",
+                "count": 1,
+                "fine-grained category": "Bottled lemon juice"
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground espresso coffee"
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Syrup / drink concentrate"
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Dried bay leaves"
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_494.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bay Leaves  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Lemon Juice  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Ground/Bean Coffee (espresso blend)  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled Water  "
+            },
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate-Hazelnut Spread (Nutella-type)"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_495.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled Soft Drink  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Lemon Juice  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Bread  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bay Leaves"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_496.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Bread rolls  "
+            },
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate hazelnut spread  "
+            },
+            {
+                "category": "Beverage",
+                "count": 1,
+                "fine-grained category": "Bottled water  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Lemon juice  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Bay leaves  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_497.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "vegetable",
+                "count": 1,
+                "fine-grained category": "Sweet Potato  "
+            },
+            {
+                "category": "vegetable",
+                "count": 1,
+                "fine-grained category": "Lettuce  "
+            },
+            {
+                "category": "seeds",
+                "count": 1,
+                "fine-grained category": "Sesame Seeds  "
+            },
+            {
+                "category": "pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            },
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "Bread  "
+            },
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate Hazelnut Spread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_498.jpg",
+        "items": [
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Spaghetti  "
+            },
+            {
+                "category": "Pasta",
+                "count": 1,
+                "fine-grained category": "Penne (bagged pasta)  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee  "
+            },
+            {
+                "category": "Seeds",
+                "count": 1,
+                "fine-grained category": "Sesame Seeds  "
+            },
+            {
+                "category": "Staple food",
+                "count": 1,
+                "fine-grained category": "Bread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_499.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Dried Dates  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Dried Apricots  "
+            },
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate-Hazelnut Spread  "
+            },
+            {
+                "category": "sweetener",
+                "count": 1,
+                "fine-grained category": "Brown Sugar  "
+            },
+            {
+                "category": "cereal",
+                "count": 1,
+                "fine-grained category": "Rolled Oats"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_500.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Apple  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "coffee",
+                "count": 1,
+                "fine-grained category": "Instant Coffee  "
+            },
+            {
+                "category": "seasoning",
+                "count": 1,
+                "fine-grained category": "Whole Cloves  "
+            },
+            {
+                "category": "cereal",
+                "count": 1,
+                "fine-grained category": "Rolled Oats  "
+            },
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "Long-Grain Rice  "
+            },
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Cookies"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_501.jpg",
+        "items": [
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Red Apple  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Kiwi  "
+            },
+            {
+                "category": "fruit",
+                "count": 1,
+                "fine-grained category": "Raisins (dried fruit)  "
+            },
+            {
+                "category": "sweetener",
+                "count": 1,
+                "fine-grained category": "Brown Cane Sugar  "
+            },
+            {
+                "category": "sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate Hazelnut Spread (e.g., Nutella)  "
+            },
+            {
+                "category": "cereal",
+                "count": 1,
+                "fine-grained category": "Rolled Oats  "
+            },
+            {
+                "category": "staple food",
+                "count": 1,
+                "fine-grained category": "Sliced Bread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_502.jpg",
+        "items": [
+            {
+                "category": "Sweets",
+                "count": 1,
+                "fine-grained category": "Chocolate Hazelnut Spread  "
+            },
+            {
+                "category": "Vegetable",
+                "count": 1,
+                "fine-grained category": "Potatoes  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Banana  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Red Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 1,
+                "fine-grained category": "Green Apple  "
+            },
+            {
+                "category": "Fruit",
+                "count": 2,
+                "fine-grained category": "Pear  "
+            },
+            {
+                "category": "Seasoning",
+                "count": 1,
+                "fine-grained category": "Whole Cloves  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Rolled Oats  "
+            },
+            {
+                "category": "Cereal",
+                "count": 1,
+                "fine-grained category": "Crispbread"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_51.jpg",
+        "items": [
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Beer"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_52.jpg",
+        "items": [
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Red Wine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_53.jpg",
+        "items": [
+            {
+                "category": "beverage",
+                "count": 1,
+                "fine-grained category": "Wine"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_9.jpg",
+        "items": [
+            {
+                "category": "dairy product",
+                "count": 1,
+                "fine-grained category": "butter"
+            }
+        ]
+    },
+    {
+        "path": "datasets/binaries/captured_images/captured_image_92.jpg",
+        "items": [
+            {
+                "category": "Dairy product",
+                "count": 2,
+                "fine-grained category": "Milk carton  "
+            },
+            {
+                "category": "Coffee",
+                "count": 1,
+                "fine-grained category": "Barista coffee drink carton"
+            }
+        ]
+    }
+]

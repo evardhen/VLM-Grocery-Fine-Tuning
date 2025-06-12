@@ -184,18 +184,18 @@ fig, ax = plt.subplots(figsize=(14, 6))
 ax.plot(curve, marker ="o")
 ax.set_xticks(range(len(tok)))
 ax.set_xticklabels(tok, rotation=90, fontsize=8)
-ax.set_xlabel("Generated Token", fontsize=14, labelpad=20)
-ax.set_ylabel("Vision Attention (%)", fontsize=14, labelpad=12)
+ax.set_xlabel("Generated Token", fontsize=18, labelpad=20)
+ax.set_ylabel("Vision Attention (%)", fontsize=18, labelpad=12)
 # ─── annotate specific tokens ──────────────────────────────────
 targets = {"Tea", "1", "Fruit", "-gr", "el"}                 # tokens you care about
 for idx, (lbl, y) in enumerate(zip(tok, curve)):
     if lbl in targets:                       # the tokens you care about
         ax.annotate(f"{y:.3f}",
                     xy=(idx, y),                  # anchor at the data point
-                    xytext=(0, 6),                  # offset (pixels)
+                    xytext=(0, 8),                  # offset (pixels)
                     textcoords="offset points",   # interpret (0,10) in pts
                     ha="center", va="bottom",
-                    fontsize=8, color="tab:red",
+                    fontsize=10, color="tab:red",
                     bbox=dict(facecolor="white",  # tiny white box
                               edgecolor="none",   #   that hides the line
                               alpha=0.8,          #   (slightly translucent)

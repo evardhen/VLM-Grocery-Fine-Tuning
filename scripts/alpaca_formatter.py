@@ -45,14 +45,14 @@ if __name__ == "__main__":
     # SYSTEM_PROMPT_JSON_FEW_SHOT = data["json_few_shot_prompt"]
     # dataset_path = "data/metadata/final/freiburg_grocery_dataset.json"
     # dataset_path = "data/metadata/final/fruits_and_vegs_dataset.json"
-    dataset_path = "data/predictions/openai/zeki_groceries_dataset_raw.json"
-    dataset_path_2 = "data/predictions/openai/zeki_2_groceries_dataset_raw.json"
-    output_path_simple = "data/predictions/openai/zeki_grocery_dataset.json"
+    dataset_path = "data/predictions/openai/o3_raw.json"
+    # dataset_path_2 = "data/predictions/openai/zeki_2_groceries_dataset_raw.json"
+    output_path_simple = "data/predictions/openai/openai_o3_predictions.json"
     # output_path_few_shot = "data/zeki_grocery_few_shot_prompt.json"
     # output_path_simple_json = "data/zeki_grocery_simple_json_prompt.json"
     # output_path_few_shot_json = "data/zeki_grocery_few_shot_json_prompt.json"
     
-    path_list = [dataset_path, dataset_path_2]
+    path_list = [dataset_path]
     data = alpaca_format(path_list, SYSTEM_PROMPT_FEW_SHOT)
     save_alpaca_format(data, output_path_simple)
     # data = alpaca_format(path_list, SYSTEM_PROMPT_FEW_SHOT)

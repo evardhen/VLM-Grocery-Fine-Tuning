@@ -1,0 +1,42 @@
+[
+    {
+        "question_id": 0,
+        "question": "<imgage>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "The image contains the following groceries:\n\n1. **M\u00f6venpick Himmelsche** - Category: Dessert/Food, Fine-grained Category: Ice Cream, Count: 1\n2. **Pear** - Category: Produce, Fine-grained Category: Fruit, Count: 1\n3. **Apple** - Category: Produce, Fine-grained Category: Fruit, Count: 1"
+    },
+    {
+        "question_id": 1,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "```json\n[\n\t{\"cuisine\": \"fruit\", \"fine_grained\": \"apple\", \"count\": 1},\n\t{\"cuisine\": \"fruit\", \"fine_grained\": \"pear\", \"count\": 1},\n\t{\"cuisine\": \"drink\", \"fine_grained\": \"tea\", \"count\": 1}\n]\n```"
+    },
+    {
+        "question_id": 2,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "```json\n[\n\t{\"cuisine\": \"confectionery\", \"category\": \"chocolate\", \"count\": 3}\n]\n```"
+    },
+    {
+        "question_id": 3,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "```json\n[\n\t{\"cuisine\": \"unspecified\", \"category\": \"groceries\", \"fine-grained-category\": \"unspecified\", \"count\": 1}\n]\n```"
+    },
+    {
+        "question_id": 4,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "```json\n[\n\t{\"c\": \"Kaffee Filter\", \"fc\": \"Coffee Filters\", \"fcf\": \"Size 4\", \"count\": 1}\n]\n```"
+    },
+    {
+        "question_id": 5,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "```json\n[\n\t{\"category\": \"groceries\", \"fine_grained_categories\": [\"coffee filters\"], \"counts\": [1]}\n]\n```"
+    },
+    {
+        "question_id": 6,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "```json\n[\n\t{\"category\": \"Beverages\", \"fine_grained_categories\": [\"Coffee\"], \"counts\": 1}\n]\n```"
+    },
+    {
+        "question_id": 7,
+        "question": "<image>List the groceries in the image alongside their categories, fine-grained categories, and counts.",
+        "answer": "```json\n[\n\t{\"cuisine\": \"groceries\", \"fine_grained_categories\": [\"Kaffee-Filter\"], \"counts\": [1]}\n]\n```"
+    }
+]

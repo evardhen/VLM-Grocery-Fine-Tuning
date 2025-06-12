@@ -62,8 +62,8 @@
         "system": "system"
       }
     },
-    "eval_structured": {
-      "file_name": "eval_structured.json",
+    "eval_dataset_single_image": {
+      "file_name": "eval_dataset_single_image.json",
       "columns": {
         "query": "question",
         "response": "answer",
